@@ -2,7 +2,8 @@ name: Radar diario RLE
 
 on:
   schedule:
-    - cron: "30 6 * * 1-5"   # 07:30 Madrid en invierno / 08:30 en verano, lunes a viernes
+    - cron: "15 6 * * 1-5"   # 07:15 Madrid en invierno / 08:15 en verano
+    - cron: "45 6 * * 1-5"   # segundo intento por si el BORME sale tarde
   workflow_dispatch:
     inputs:
       fecha:
@@ -36,7 +37,13 @@ jobs:
           echo "FECHA=$F" >> $GITHUB_ENV
           mkdir -p "data/$F"
 
+      - name: ¿Ya hecho hoy?
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && python3 -c "import json,sys;d=json.load(open('data/$FECHA/borme.json'));sys.exit(0 if d.get('pdfs',0)>0 else 1)" 2>/dev/null; then
+            echo "HECHO=1" >> $GITHUB_ENV; fi
+
       - name: BORME (espera hasta 60 min si aún no está publicado)
+        if: env.HECHO != '1'
         continue-on-error: true
         run: |
           for i in 1 2 3 4 5 6 7; do
@@ -48,6 +55,7 @@ jobs:
           done
 
       - name: Diagnóstico de acceso
+        if: env.HECHO != '1'
         continue-on-error: true
         run: |
           for u in "https://www.boe.es/datosabiertos/api/borme/sumario/$(echo $FECHA | tr -d -)" "https://www.boe.es/datosabiertos/api/boe/sumario/$(echo $FECHA | tr -d -)"; do
@@ -55,18 +63,22 @@ jobs:
           done
 
       - name: BOE V-B (renovables)
+        if: env.HECHO != '1'
         continue-on-error: true
         run: python3 radar.py boe5b "$FECHA" "data/$FECHA/renovables.json" | tee "data/$FECHA/boe5b.log"
 
       - name: Plataforma de Contratación
+        if: env.HECHO != '1'
         continue-on-error: true
         run: python3 radar.py placsp "$FECHA" "data/$FECHA/licitaciones.json" | tee "data/$FECHA/placsp.log"
 
       - name: Prensa (RSS)
+        if: env.HECHO != '1'
         continue-on-error: true
         run: python3 radar.py rss "$FECHA" "data/$FECHA/rss.json" | tee "data/$FECHA/rss.log"
 
       - name: Guardar resultados
+        if: env.HECHO != '1'
         run: |
           echo "$FECHA" > data/ultimo.txt
           git config user.name "radar-rle"

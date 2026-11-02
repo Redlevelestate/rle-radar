@@ -106,7 +106,7 @@ SECTORES = [
     ("Inversión inmobiliaria", r"\bsocimi\b|family office|inversi[oó]n inmobiliaria|fondo(s)? de inversi[oó]n|gesti[oó]n de patrimonios inmobiliarios|tenencia.{0,40}inmuebles|\bpatrimonial(es)?\b|real estate|\bcapital partners\b"),
     ("Hoteles y turismo", r"\bhotel|aparthotel|alojamientos? tur[ií]stic|\bhostel\b|camping"),
     ("Residencias y sanitario", r"residencia(s)? (de|para) (mayores|la tercera edad|ancianos|estudiantes)|residencia geri[aá]trica|centro(s)? socio ?sanitario|hospital|cl[ií]nica"),
-    ("Retail y operadores", r"supermercado|hipermercado|gasolinera|estaci[oó]n(es)? de servicio|trasteros|self ?storage|gimnasio|centro(s)? deportivo|restauraci[oó]n|drive ?thru|concesionario|lavado de veh[ií]culos|centro(s)? comercial"),
+    ("Retail y operadores", r"supermercado|hipermercado|gasolinera|estaci[oó]n(es)? de servicio|trasteros|self ?storage|gimnasio|centro(s)? deportivo|drive ?thru|lavado de veh[ií]culos|centro(s)? comercial"),
 ]
 SECTORES_RE = [(n, re.compile(p, re.I)) for n, p in SECTORES]
 # en el NOMBRE de la sociedad (más estricto, para actos sin objeto social)
@@ -169,7 +169,8 @@ def borme_actos(texto):
         if m and len(m.group(2)) > 1 and m.group(2).upper() == m.group(2) and not ls.endswith(":"):
             if cur:
                 actos.append(cur)
-            cur = {"num": m.group(1), "empresa": m.group(2).strip(), "txt": ""}
+            emp = re.sub(r"\s*\(R\.M\.[^)]*\)\s*$", "", m.group(2).strip())
+            cur = {"num": m.group(1), "empresa": emp, "txt": ""}
             continue
         if cur is not None:
             sep = "" if cur["txt"].endswith("-") else " "
@@ -279,14 +280,17 @@ def clasificar_acto(a, provincia, fecha, pdf_url):
         else:
             return []
 
-    # --- prioridad
+    # --- prioridad (A solo para los sectores núcleo de RLE y con sector claro)
+    NUCLEO = {"Promoción inmobiliaria", "Industrial y logística", "Energía y renovables", "Centros de datos",
+              "Inversión inmobiliaria", "Hoteles y turismo", "Residencias y sanitario"}
+    nucleo = fuerte and any(x in NUCLEO for x in sect)
     p = "C"
     if not fuerte and amp_cap < 500_000 and not web:
         p = "C"
-    elif (amp_cap >= 500_000) or ("Constitución" in t and (capital or 0) >= 100_000) or socio_empresa or web \
-            or "Centros de datos" in sect or (amp_cap >= 3_000_000):
+    elif nucleo and ((amp_cap >= 500_000) or ("Constitución" in t and (capital or 0) >= 100_000)
+                     or (socio_empresa and "Constitución" in t) or web or "Centros de datos" in sect):
         p = "A"
-    elif ("Constitución" in t and (capital or 0) >= 10_000) or amp_cap >= 60_000 or "Cambio/ampliación de objeto" in señales or "Fusión/escisión" in señales or "Nombramientos" in señales:
+    elif amp_cap >= 3_000_000 or ("Constitución" in t and (capital or 0) >= 10_000) or amp_cap >= 60_000 or (socio_empresa and nucleo) or "Cambio/ampliación de objeto" in señales or "Fusión/escisión" in señales or "Nombramientos" in señales:
         p = "B"
 
     fila = dict(base)
@@ -428,7 +432,8 @@ def cmd_boe5b(fecha, salida):
 # --------------------------------------------------------------------------- PLACSP
 
 PLACSP_FEED = "https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom"
-SUELO_RE = re.compile(r"enajenaci[oó]n|venta de (la |las |los )?(parcela|solar|finca|suelo|terreno|inmueble)|subasta.{0,40}(parcela|solar|finca|suelo|terreno)|derecho de superficie|permuta|concurso.{0,40}(parcela|suelo)", re.I)
+NO_SUELO_RE = re.compile(r"madera|forestal|aprovechamiento|chopo|pinar|le[ñn]a|veh[ií]culo|cisterna|chatarra|maquinaria|tractor|ganado|caza|pastos|corcho|resina|mobiliario|equipos", re.I)
+SUELO_RE = re.compile(r"enajenaci[oó]n.{0,80}(parcela|solar|finca|suelo|terreno|inmueble|edificio|local|nave|vivienda|bien patrimonial)|venta de (la |las |los )?(parcela|solar|finca|suelo|terreno|inmueble)|subasta.{0,40}(parcela|solar|finca|suelo|terreno)|derecho de superficie|permuta|concurso.{0,40}(parcela|suelo)", re.I)
 EDIF_RE = re.compile(r"nave|log[ií]stic|industrial|vivienda|edificio|residencia|hotel|aparcamiento|centro de datos|urbanizaci[oó]n", re.I)
 
 
@@ -488,7 +493,7 @@ def cmd_placsp(fecha, salida, max_paginas=60):
                 imp = float(importe)
             except Exception:
                 imp = 0.0
-            es_suelo = bool(SUELO_RE.search(nombre))
+            es_suelo = bool(SUELO_RE.search(nombre)) and not NO_SUELO_RE.search(nombre)
             es_obra = tipo == "3" and imp >= 1_500_000 and bool(EDIF_RE.search(nombre))
             if not (es_suelo or es_obra):
                 continue
