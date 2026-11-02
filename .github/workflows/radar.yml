@@ -42,7 +42,16 @@ jobs:
           for i in 1 2 3 4 5 6 7; do
             python3 radar.py borme "$FECHA" "data/$FECHA/borme.json" | tee "data/$FECHA/borme.log"
             if python3 -c "import json,sys;d=json.load(open('data/$FECHA/borme.json'));sys.exit(0 if d.get('pdfs',0)>0 else 1)"; then break; fi
+            # solo se reintenta en la ejecución programada (el BORME puede publicarse algo más tarde)
+            if [ "${{ github.event_name }}" != "schedule" ]; then break; fi
             [ $i -lt 7 ] && sleep 600
+          done
+
+      - name: Diagnóstico de acceso
+        continue-on-error: true
+        run: |
+          for u in "https://www.boe.es/datosabiertos/api/borme/sumario/$(echo $FECHA | tr -d -)" "https://www.boe.es/datosabiertos/api/boe/sumario/$(echo $FECHA | tr -d -)"; do
+            echo "== $u"; curl -s -o /tmp/r -w "HTTP %{http_code}\n" -H "Accept: application/json" "$u"; head -c 300 /tmp/r; echo
           done
 
       - name: BOE V-B (renovables)
