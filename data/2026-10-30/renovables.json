@@ -1,0 +1,43 @@
+{
+ "fecha": "2026-10-30",
+ "estado": "ok",
+ "anuncios": 3,
+ "filas": [
+  {
+   "fecha": "2026-10-30",
+   "id_boe": "BOE-B-2026-35476",
+   "titulo": "Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Castilla-La Mancha por el que se somete al trámite de información pública la solicitud de Declaración, en concreto, de Utilidad Pública (DUP) del proyecto de la Planta Solar Fotovoltaica Ebisu II, de 164,84 MW de potencia instalada, y su infraestructura de evacuación, en el término municipal de Casarrubios del Monte, en la provincia de Toledo, cuyo peticionario es ENVATIOS EBISU II, S.L. (Expediente: PFot-598).",
+   "promotor": "Envatios Ebisu II, S.L",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "164,84 MW",
+   "provincia": "Castilla-La Mancha",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35476",
+   "clave": "ENVATIOS EBISU II"
+  },
+  {
+   "fecha": "2026-10-30",
+   "id_boe": "BOE-B-2026-35477",
+   "titulo": "Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Universidad, Industria, Energía e Innovación en Sevilla, por el que se somete a Información Pública la petición realizada por la mercantil Verde Solar IFV14, S.L., por la que se solicita Autorización Administrativa de Construcción así como la Declaración en Concreto de Utilidad Pública, para las Infraestructuras Eléctricas de Evacuación asociada a la instalación de generación de energía eléctrica denominada \"HSF EN",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35477",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-10-30",
+   "id_boe": "BOE-B-2026-35495",
+   "titulo": "Anuncio de información pública de la Dirección General de Energía relativo a la solicitud de autorización administrativa y declaración, en concreto, de utilidad pública de la instalación denominada \"PLANTA FOTOVOLTAICA TÍAS II\", de 4 MW, en el término municipal de Tías en la isla de Lanzarote. Expte.: ER250061.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "4 MW",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35495",
+   "clave": ""
+  }
+ ]
+}

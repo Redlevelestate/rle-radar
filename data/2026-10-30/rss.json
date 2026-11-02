@@ -1,0 +1,79 @@
+{
+ "fecha": "2026-10-30",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (9)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Luz verde ambiental a la modificación urbanística que permitirá instalar la gigafactoría de Gotion en Valladolid",
+   "resumen": "La gigafactoría de baterías de Gotion en Valladolid avanza con el visto bueno ambiental al cambio urbanístico de los terrenos.",
+   "url": "https://www.pv-magazine.es/2026/11/02/luz-verde-ambiental-a-la-modificacion-urbanistica-que-permitira-instalar-la-gigafactoria-de-gotion-en-valladolid/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Longi presenta un nuevo módulo back contact de 690 W y una eficiencia del 25,54 %",
+   "resumen": "El fabricante chino de módulos fotovoltaicos Longi ha presentado su nueva serie Hi-MO X12, basada en tecnología back contact integrada con una lámina conductora que sustituye las cintas soldadas convencionales por circuitos de lámina metálica. Según la compañía, este diseño elimina más de 15.000 posibles puntos de fallo en las uniones soldadas de cada módulo, mejora la capacidad de conducción de c",
+   "url": "https://www.pv-magazine.es/2026/11/02/longi-presenta-un-nuevo-modulo-back-contact-de-690-w-y-una-eficiencia-del-2554/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "BOE: nueve proyectos renovables con 235 MW FV, 155 MW BESS y 72 MW de hibridación durante la última semana de octubre",
+   "resumen": "El Boletín Oficial del Estado ha publicado, en la última semana de octubre, nueve proyectos renovables, entre los que destaca un proyecto fotovoltaico de 165 MW en Toledo.",
+   "url": "https://www.pv-magazine.es/2026/11/02/boe-nueve-proyectos-renovables-con-235-mw-fv-155-mw-bess-y-72-mw-de-hibridacion-durante-la-ultima-semana-de-octubre/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Uno de cada tres proyectos fotovoltaicos tramitados en octubre ya incorpora baterías",
+   "resumen": "En una nueva colaboración mensual, Sondeva reúne en exclusiva para pv magazine todos los proyectos fotovoltaicos, de hibridación y almacenamiento en tramitación en España el pasado mes, con los datos extraídos de todos los boletines oficiales. Octubre reúne trámites de 103 proyectos con almacenamiento en baterías, el triple que hace un año. La hibridación con plantas solares ya supera al almacenam",
+   "url": "https://www.pv-magazine.es/2026/11/02/uno-de-cada-tres-proyectos-fotovoltaicos-tramitados-en-octubre-ya-incorpora-baterias/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tona licita la construcción de una pérgola fotovoltaica de 100 kW en la Escuela L’Era de Dalt",
+   "resumen": "El Ayuntamiento de Tona (Barcelona) ha publicado la licitación para el «Proyecto básico y ejecutivo para la construcción de una pérgola fotovoltaica sobre la pista del patio de la Escuela municipal L'Era de Dalt». El contrato cuenta con un presupuesto total de licitación de 613.103 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/02/tona-licita-la-construccion-de-una-pergola-fotovoltaica-de-100-kw-en-la-escuela-lera-de-dalt/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "¿Qué pasa cuando una empresa de autoconsumo te hace perder ayudas y dinero? Solfy abre el preconcurso de acreedores",
+   "resumen": "A pesar de que apenas hace un año que Solfy captara cuatro millones para acelerar su negocio de autoconsumo, la empresa ha iniciado negociaciones con sus acreedores para intentar evitar el concurso de acreedores, después de quedarse sin liquidez y anunciar un ERE para toda su plantilla.No obstante, su web sigue operativa.",
+   "url": "https://www.pv-magazine.es/2026/10/30/que-pasa-cuando-una-empresa-de-autoconsumo-te-hace-perder-ayudas-y-dinero-solfy-abre-el-preconcurso-de-acreedores/",
+   "fecha": "2026-10-30"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Monfarracinos proyecta casi 2 GW de autoconsumo para un Data Center de 200 MW IT y dos plantas de e-combustibles",
+   "resumen": "El polígono industrial Zamora Norte, en Monfarracinos, concentra tres proyectos vinculados a la transición energética: un centro de datos hiperescalar de 200 MW IT asociado a un parque fotovoltaico de 1.625,18 MWp, una planta de producción de e-metanol verde promovida por Reolum y una instalación de hidrógeno verde de 80 MW alimentada por 110 MW fotovoltaicos. Todos los proyectos han iniciado el p",
+   "url": "https://www.pv-magazine.es/2026/10/30/monfarracinos-proyecta-casi-2-gw-de-autoconsumo-para-un-data-center-de-200-mw-it-y-dos-plantas-de-e-combustibles-de-hasta-200-mw/",
+   "fecha": "2026-10-30"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Autorizan un autoconsumo colectivo de 1 MW para la comunidad energética del polígono industrial Villalonquéjar",
+   "resumen": "La Junta de Castilla y León ha abierto a información pública la planta fotovoltaica de 1 MW promovida por Norsol en Villalonquéjar, un proyecto vinculado a la comunidad energética industrial y diseñado para autoconsumo colectivo con conexión a 13,2 kV y afección al nudo Villimar",
+   "url": "https://www.pv-magazine.es/2026/10/30/autorizan-un-autoconsumo-colectivo-de-1-mw-para-la-comunidad-energetica-del-poligono-industrial-villalonquejar/",
+   "fecha": "2026-10-30"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Ciudad del Motor de Aragón licita un proyecto fotovoltaico en MotorLand",
+   "resumen": "MotorLand Aragón licita una instalación fotovoltaica de autoconsumo sin excedentes de 141,60 kWp, con 4 inversores de 30 kW y una producción anual estimada de 185,4 MWh. El contrato cuenta con un presupuesto total de licitación de 191.612 euros y el plazo para la presentación de ofertas finaliza el 11 de noviembre de 2026",
+   "url": "https://www.pv-magazine.es/2026/10/30/la-ciudad-del-motor-de-aragon-licita-un-proyecto-fotovoltaico-en-motorland/",
+   "fecha": "2026-10-30"
+  }
+ ]
+}
