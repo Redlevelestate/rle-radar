@@ -21,7 +21,7 @@ import urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-UA = "Mozilla/5.0 (RLE radar diario; contacto info@redlevelestate.com)"
+UA = "Mozilla/5.0 (radar diario de datos abiertos)"
 
 # --------------------------------------------------------------------------- utilidades
 

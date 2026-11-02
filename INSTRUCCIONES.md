@@ -33,9 +33,11 @@ con web, email y decisor cuando existan, y un **email resumen** a Bernar.
 
 ## Paso 0 · Preparar
 
-1. Fecha de hoy en Europe/Madrid (`FECHA` = AAAA-MM-DD, salvo que el mensaje de la tarea indique otra). Fin de semana → termina sin hacer nada.
-2. Da acceso al repositorio con la herramienta `add_repo` (owner `Redlevelestate`, repo `rle-radar`, access `read`) y clónalo:
-   `git clone --depth 1 https://github.com/Redlevelestate/rle-radar /tmp/radar` (timeout amplio). Trabaja en `/tmp/radar`.
+1. Clona el repositorio (es público, no necesita permisos): `git clone --depth 1 https://github.com/Redlevelestate/rle-radar /tmp/radar`
+   (timeout amplio). Trabaja en `/tmp/radar`.
+2. `FECHA` = hoy en Europe/Madrid (AAAA-MM-DD). Fin de semana → termina sin hacer nada.
+   **Modo prueba:** si existe `/tmp/radar/data/forzar_fecha.txt`, usa la fecha que contiene como `FECHA` (aunque sea fin de semana),
+   parte de un registro vacío, **no subas** registro nuevo a Drive, nombra el Excel `Radar_RLE_FECHA_PRUEBA.xlsx` y empieza el asunto del email por «PRUEBA ·».
 3. Busca en la carpeta del sistema de Drive los archivos con título que empiece por `registro_`; descarga el **más reciente por título** como
    `/tmp/radar/registro.txt`. Si no hay ninguno, empieza con un archivo vacío.
 4. `pip install --break-system-packages openpyxl pypdf` si faltan.
