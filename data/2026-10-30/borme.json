@@ -140,28 +140,6 @@
   {
    "fecha": "2026-10-30",
    "provincia": "Alicante/Alacant",
-   "empresa": "A & P INFINITY INVESTMENT GROUP SL",
-   "num_acto": "486298",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-03.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "Sí",
-   "prioridad": "C",
-   "capital_constitucion": 5000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "Turismo, hostelería y restauración. Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. Servicios de comidas y bebidas. Servicios de catering y otros servicios de comidas. Actividades de intermediación para los servicios de comidas y bebidas. La explotación de se",
-   "domicilio": "AVDA DEL CABO 9 BAJO - URBANIZACION CABO ROIG (ORIHUELA)",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Unico: SIMMS ANDREW GARY",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 2.10.26. Objeto social: Turismo, hostelería y restauración. Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. Servicios de comidas y bebidas. Servicios de catering y otros servicios de comidas. Actividades de intermediación para los servicios de comidas y bebidas. La explotación de se. Domicilio: AVDA DEL CABO 9 BAJO - URBANIZACION CABO ROIG (ORIHUELA). Capital: 5.000,00 Euros. Nombramientos. Adm. Unico: SIMMS ANDREW GARY. Datos registrales. S 8 , H A 208887, I/A 1 (23.10.26).",
-   "clave": "A & P INFINITY INVESTMENT GROUP"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Alicante/Alacant",
    "empresa": "LEYVA REAL ESTATE SL",
    "num_acto": "486300",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-03.pdf",
@@ -388,7 +366,7 @@
    "señales": "Constitución",
    "sectores": "Retail y operadores",
    "sector_claro": "Sí",
-   "prioridad": "A",
+   "prioridad": "C",
    "capital_constitucion": 3000.0,
    "ampliacion": null,
    "capital_resultante": null,
@@ -470,7 +448,7 @@
   {
    "fecha": "2026-10-30",
    "provincia": "Illes Balears",
-   "empresa": "IBIZA ROCKS HOTEL PROMOCIONES, SOCIEDAD LIMITADA(R.M. EIVISSA)",
+   "empresa": "IBIZA ROCKS HOTEL PROMOCIONES, SOCIEDAD LIMITADA",
    "num_acto": "486459",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-07.pdf",
    "señales": "Nombramientos",
@@ -487,12 +465,12 @@
    "administradores": "Consejero: MCKAY ANDREW CHARLES; Consejero: HANCOCK STEVEN ROBERT; Consejero: HOOGENBOSCH JORIS JAKOB PETER; Presidente: MCKAY ANDREW CHARLES; Secretario: HOOGENBOSCH JORIS JAKOB PETER",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Adm. Unico: DIXON JOHN ROBERT. Nombramientos. Consejero: MCKAY ANDREW CHARLES;HANCOCK STEVEN ROBERT;HOOGENBOSCH JORIS JAKOB PETER. Presidente: MCKAY ANDREW CHARLES. Secretario: HOOGENBOSCH JORIS JAKOB PETER. Modificaciones estatutarias. Modificación del artículo 16º de los estatutos sociales en cuanto a la Presidencia y Secretaría en la Junta General.. Otros conceptos: Cambio del Organo de Administración: Administrador único a Consejo de administración. Datos registrales. S 8 , H IB 9684, I/A 12 (26.10.26).",
-   "clave": "IBIZA ROCKS HOTEL PROMOCIONES R M EIVISSA"
+   "clave": "IBIZA ROCKS HOTEL PROMOCIONES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Illes Balears",
-   "empresa": "IBIZA PROJECT SOLUTIONS, SOCIEDAD LIMITADA(R.M. EIVISSA)",
+   "empresa": "IBIZA PROJECT SOLUTIONS, SOCIEDAD LIMITADA",
    "num_acto": "486461",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-07.pdf",
    "señales": "Constitución",
@@ -509,16 +487,16 @@
    "administradores": "Adm. Unico: SINGH KAUR BALWINDER",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 20.10.26. Objeto social: 1.- Construcción, instalaciones y mantenimiento. 2.- Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. 3.- Actividades inmobiliarias. 4. Industrias manufacturadas y textiles. 5.- Turismo, hostelería y restauración. 6.- Prestación de servicios. Actividades de ge. Domicilio: C/ BARTOLOME VICENTE RAMON, 13 07800 (EIVISSA). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: SINGH KAUR BALWINDER. Nombramientos. Adm. Unico: SINGH KAUR BALWINDER. Datos registrales. S 8 , H IB 23910, I/A 1 (26.10.26).",
-   "clave": "IBIZA PROJECT SOLUTIONS R M EIVISSA"
+   "clave": "IBIZA PROJECT SOLUTIONS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Illes Balears",
-   "empresa": "FLAMIGOS IV HOUSE, SOCIEDAD LIMITADA(R.M. EIVISSA)",
+   "empresa": "FLAMIGOS IV HOUSE, SOCIEDAD LIMITADA",
    "num_acto": "486467",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-07.pdf",
    "señales": "Constitución",
-   "sectores": "Promoción inmobiliaria, Retail y operadores",
+   "sectores": "Promoción inmobiliaria",
    "sector_claro": "",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -531,12 +509,12 @@
    "administradores": "Adm. Solid.: SEYMOUR KIMBERLEY REBECCA; Adm. Solid.: SHEEHY NICHOLAS MICHAEL",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 13.10.26. Objeto social: 1.- Construcción, instalaciones y mantenimiento. 2.- Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. 3.- Actividades inmobiliarias. 4.- Industrias manufactureras y textiles. 5.- Turismo,hostelería y restauración. 6.- Actividades de gestión y administración. S. Domicilio: AVDA SANT AGUSTI, 72 0º 5 07829 (SANT JOSEP DE SA TALAIA). Capital: 3.000,00 Euros. Nombramientos. Adm. Solid.: SEYMOUR KIMBERLEY REBECCA;SHEEHY NICHOLAS MICHAEL. Datos registrales. S 8 , H IB 23913, I/A 1 (26.10.26).",
-   "clave": "FLAMIGOS IV HOUSE R M EIVISSA"
+   "clave": "FLAMIGOS IV HOUSE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Illes Balears",
-   "empresa": "LA CASONA DE CARLA, SOCIEDAD LIMITADA(R.M. EIVISSA)",
+   "empresa": "LA CASONA DE CARLA, SOCIEDAD LIMITADA",
    "num_acto": "486469",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-07.pdf",
    "señales": "Constitución",
@@ -553,12 +531,12 @@
    "administradores": "Adm. Unico: TORRES TUR JAVIER",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 15.10.26. Objeto social: 1.- Construcción, instalaciones y mantenimiento. 2,- Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. 3.- Actividades inmobiliarias. 4. Industrias manufacturadas y textiles. 5.- Turismo, hostelería y restauración. 6.- Prestación de servicios. Actividades de ge. Domicilio: C/ PORTUGAL, 12 07840 (SANTA EULALIA DEL RIO). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: TORRES TUR JAVIER. Nombramientos. Adm. Unico: TORRES TUR JAVIER. Datos registrales. S 8 , H IB 23914, I/A 1 (26.10.26).",
-   "clave": "LA CASONA DE CARLA R M EIVISSA"
+   "clave": "LA CASONA DE CARLA"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Illes Balears",
-   "empresa": "AMUD HASHMAL IBZ, SOCIEDAD LIMITADA(R.M. EIVISSA)",
+   "empresa": "AMUD HASHMAL IBZ, SOCIEDAD LIMITADA",
    "num_acto": "486474",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-07.pdf",
    "señales": "Constitución",
@@ -575,7 +553,7 @@
    "administradores": "Adm. Unico: SHPANAUF DORON",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 29.09.26. Objeto social: 1, Construcción, instalaciones y mantenimiento. 2. Comercio al por mayor y al por menor. Distribución comercial Importación y exportación. 3, Actividades Inmobiliarias, 4. Industrias manufactureros y textiles. 5. Turismo, hostelería y restauración. 6. Prestación de servicios. Actividades de gest. Domicilio: C/ SAN JAIME, 18 BAJOS 07840 (SANTA EULALIA DEL RIO). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: SUFI PROPERTIES SOCIEDAD LIMITADA. Nombramientos. Adm. Unico: SHPANAUF DORON. Datos registrales. S 8 , H IB 23915, I/A 1 (26.10.26).",
-   "clave": "AMUD HASHMAL IBZ R M EIVISSA"
+   "clave": "AMUD HASHMAL IBZ"
   },
   {
    "fecha": "2026-10-30",
@@ -1046,7 +1024,7 @@
    "num_acto": "486572",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-08.pdf",
    "señales": "Constitución",
-   "sectores": "Promoción inmobiliaria, Retail y operadores",
+   "sectores": "Promoción inmobiliaria",
    "sector_claro": "Sí",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -1618,7 +1596,7 @@
    "num_acto": "486693",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-08.pdf",
    "señales": "Constitución",
-   "sectores": "Promoción inmobiliaria, Retail y operadores",
+   "sectores": "Promoción inmobiliaria",
    "sector_claro": "Sí",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -1706,7 +1684,7 @@
    "num_acto": "486723",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-08.pdf",
    "señales": "Constitución",
-   "sectores": "Hoteles y turismo, Retail y operadores",
+   "sectores": "Hoteles y turismo",
    "sector_claro": "",
    "prioridad": "C",
    "capital_constitucion": 3010.0,
@@ -2274,7 +2252,7 @@
   {
    "fecha": "2026-10-30",
    "provincia": "A Coruña",
-   "empresa": "PINO MANSO GRUPO INMOBILIARIO SL(R.M. SANTIAGO DE COMPOSTELA)",
+   "empresa": "PINO MANSO GRUPO INMOBILIARIO SL",
    "num_acto": "486953",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-15.pdf",
    "señales": "Nombramientos",
@@ -2291,7 +2269,7 @@
    "administradores": "Apoderado: MUÑIZ RODRIGUEZ ALBA",
    "web_borme": "",
    "texto": " Nombramientos. Apoderado: MUÑIZ RODRIGUEZ ALBA. Datos registrales. S 8 , H SC 50619, I/A 2 (23.10.26).",
-   "clave": "PINO MANSO GRUPO INMOBILIARIO R M SANTIAGO DE COMPOSTELA"
+   "clave": "PINO MANSO GRUPO INMOBILIARIO"
   },
   {
    "fecha": "2026-10-30",
@@ -2938,7 +2916,7 @@
    "num_acto": "487190",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
    "señales": "Constitución",
-   "sectores": "Promoción inmobiliaria, Residencias y sanitario, Retail y operadores",
+   "sectores": "Promoción inmobiliaria, Residencias y sanitario",
    "sector_claro": "Sí",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -3040,28 +3018,6 @@
    "web_borme": "",
    "texto": " Modificaciones estatutarias. Artículo de los estatutos: 2. Objeto social.-. Cambio de objeto social. 1).- La explotación agropecuaria, forestal y cinegética de fincas rústicas, pudiendo así mismo transformar y comercializar los productos agrícolas, ganaderos y de la caza, ya directamente o mediante la participación en sociedades o cualquier forma de colaboración empresarial. 2).- El turismo rural. Datos registrales. S 8 , H M 736645, I/A 3 (23.10.26).",
    "clave": "FV VALMORISCO AGRARIA"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Madrid",
-   "empresa": "JUNIOR FOODS EUROPA SL",
-   "num_acto": "487213",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "",
-   "prioridad": "C",
-   "capital_constitucion": 3000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "La explotación, administración y gestión de restaurantes, bares (incluidos bares con terraza al aire libre), tabernas, cafeterías, cervecerías y todas aquellas actividades encuadradas en el ramo de la hostelería la restauración gastronómica y los espectáculos públicos",
-   "domicilio": "C/ ARRASTARIA 21 - PLANTA 1ª (MADRID)",
-   "socio_unico": "GG FOODS EUROPA SL",
-   "socio_es_empresa": "Sí",
-   "administradores": "Representan: GIASI GONZALEZ RENZO; Adm. Unico: GG FOODS EUROPA SL",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 8.10.26. Objeto social: La explotación, administración y gestión de restaurantes, bares (incluidos bares con terraza al aire libre), tabernas, cafeterías, cervecerías y todas aquellas actividades encuadradas en el ramo de la hostelería la restauración gastronómica y los espectáculos públicos. Domicilio: C/ ARRASTARIA 21 - PLANTA 1ª (MADRID). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: GG FOODS EUROPA SL. Nombramientos. Representan: GIASI GONZALEZ RENZO. Adm. Unico: GG FOODS EUROPA SL. Datos registrales. S 8 , H M 900250, I/A 1 (23.10.26).",
-   "clave": "JUNIOR FOODS EUROPA"
   },
   {
    "fecha": "2026-10-30",
@@ -3402,7 +3358,7 @@
    "señales": "Ampliación de capital",
    "sectores": "Otro (ampliación grande)",
    "sector_claro": "",
-   "prioridad": "A",
+   "prioridad": "B",
    "capital_constitucion": null,
    "ampliacion": 27487360.0,
    "capital_resultante": null,
@@ -3660,35 +3616,13 @@
   {
    "fecha": "2026-10-30",
    "provincia": "Madrid",
-   "empresa": "BASCOAT EAT SOLUTIONS SL",
-   "num_acto": "487383",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
-   "señales": "Cambio/ampliación de objeto, Cambio de domicilio",
-   "sectores": "Retail y operadores",
-   "sector_claro": "Sí",
-   "prioridad": "B",
-   "capital_constitucion": null,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "La explotación, gestión y administración de restaurantes y establecimientos de restauración, incluyendo la elaboración, preparación y servicio de comidas y bebidas para su consumo en el propio establecimiento, así como la venta de comidas y bebidas para llevar ..................... 5611",
-   "domicilio": "AVDA MANUEL DE FRAGA IRIBARNE 53 - PISO 1º LETRA B (MADRID)",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "",
-   "web_borme": "",
-   "texto": " Ampliación del objeto social. La explotación, gestión y administración de restaurantes y establecimientos de restauración, incluyendo la elaboración, preparación y servicio de comidas y bebidas para su consumo en el propio establecimiento, así como la venta de comidas y bebidas para llevar ..................... 5611. Cambio de domicilio social. AVDA MANUEL DE FRAGA IRIBARNE 53 - PISO 1º LETRA B (MADRID). Datos registrales. S 8 , H M 900791, I/A 4 (23.10.26).",
-   "clave": "BASCOAT EAT SOLUTIONS"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Madrid",
    "empresa": "OKI GOOD VIBES SL",
    "num_acto": "487388",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
    "señales": "Constitución",
    "sectores": "Retail y operadores",
    "sector_claro": "Sí",
-   "prioridad": "A",
+   "prioridad": "C",
    "capital_constitucion": 3000.0,
    "ampliacion": null,
    "capital_resultante": null,
@@ -3752,8 +3686,8 @@
    "num_acto": "487396",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
    "señales": "Constitución",
-   "sectores": "Hoteles y turismo, Retail y operadores",
-   "sector_claro": "Sí",
+   "sectores": "Hoteles y turismo",
+   "sector_claro": "",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
    "ampliacion": null,
@@ -4082,7 +4016,7 @@
    "num_acto": "487481",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
    "señales": "Cambio/ampliación de objeto",
-   "sectores": "Hoteles y turismo, Retail y operadores",
+   "sectores": "Hoteles y turismo",
    "sector_claro": "Sí",
    "prioridad": "B",
    "capital_constitucion": null,
@@ -4280,7 +4214,7 @@
    "num_acto": "487530",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-28.pdf",
    "señales": "Constitución",
-   "sectores": "Industrial y logística, Hoteles y turismo, Retail y operadores",
+   "sectores": "Industrial y logística, Hoteles y turismo",
    "sector_claro": "Sí",
    "prioridad": "A",
    "capital_constitucion": 3000.0,
@@ -4326,7 +4260,7 @@
    "señales": "Constitución, Publica web",
    "sectores": "Promoción inmobiliaria, Hoteles y turismo",
    "sector_claro": "",
-   "prioridad": "A",
+   "prioridad": "C",
    "capital_constitucion": 3000.0,
    "ampliacion": null,
    "capital_resultante": null,
@@ -4480,7 +4414,7 @@
    "señales": "Constitución",
    "sectores": "Retail y operadores",
    "sector_claro": "Sí",
-   "prioridad": "A",
+   "prioridad": "C",
    "capital_constitucion": 3000.0,
    "ampliacion": null,
    "capital_resultante": null,
@@ -5052,7 +4986,7 @@
    "señales": "Ampliación de capital",
    "sectores": "Otro (ampliación grande)",
    "sector_claro": "",
-   "prioridad": "A",
+   "prioridad": "B",
    "capital_constitucion": null,
    "ampliacion": 5925000.0,
    "capital_resultante": null,
@@ -5272,7 +5206,7 @@
    "señales": "Ampliación de capital",
    "sectores": "Otro (ampliación grande)",
    "sector_claro": "",
-   "prioridad": "A",
+   "prioridad": "B",
    "capital_constitucion": null,
    "ampliacion": 4139699.0,
    "capital_resultante": null,
@@ -5838,7 +5772,7 @@
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "RUIZ & CAMACHO ESPECIALIDADES MEDICAS, SOCIEDAD LIMITADA(R.M. LAS PALMAS)",
+   "empresa": "RUIZ & CAMACHO ESPECIALIDADES MEDICAS, SOCIEDAD LIMITADA",
    "num_acto": "487038",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Constitución",
@@ -5855,12 +5789,12 @@
    "administradores": "Adm. Solid.: ANTONIO MATEO CAMACHO TORRES; Adm. Solid.: MARELYS RUIZ BERRIO",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 1.10.26. Objeto social: La prestación de servicios de intermediación y coordinación de actividades de naturaleza profesional relacionadas con la medicina estética y otras especialidades médicas... Domicilio: C/ JUAN MANUEL DURAN GONZALEZ, 52-ESC 2, PUERTA D (PALMAS DE GRAN CANARIA (LAS. Capital: 3.000,00 Euros. Nombramientos. Adm. Solid.: ANTONIO MATEO CAMACHO TORRES;MARELYS RUIZ BERRIO. Datos registrales. S 8 , H GC 67146, I/A 1 (23.10.26).",
-   "clave": "RUIZ & CAMACHO ESPECIALIDADES MEDICAS R M LAS PALMAS"
+   "clave": "RUIZ & CAMACHO ESPECIALIDADES MEDICAS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "URBANTROX, SOCIEDAD LIMITADA(R.M. LAS PALMAS)",
+   "empresa": "URBANTROX, SOCIEDAD LIMITADA",
    "num_acto": "487040",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Constitución",
@@ -5877,12 +5811,12 @@
    "administradores": "Adm. Solid.: NAYARA DEL CARMEN LOPEZ PADRON; Adm. Solid.: JUAN CARMELO LOPEZ RODRIGUEZ",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 23.09.26. Objeto social: La construcción de edificios residenciales. El alquiler, arrendamiento no financiero, explotación, gestión y administración de bienes inmuebles de naturaleza urbana o rústica... Domicilio: C/ ANEMONA, 2LA GARITA 35212 (TELDE). Capital: 3.000,00 Euros. Nombramientos. Adm. Solid.: NAYARA DEL CARMEN LOPEZ PADRON;JUAN CARMELO LOPEZ RODRIGUEZ. Datos registrales. S 8 , H GC 67151, I/A 1 (23.10.26).",
-   "clave": "URBANTROX R M LAS PALMAS"
+   "clave": "URBANTROX"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "CENTRAL DE SERVICIOS HOTELEROS DE PUERTO RICO AIE(R.M. LAS PALMAS)",
+   "empresa": "CENTRAL DE SERVICIOS HOTELEROS DE PUERTO RICO AIE",
    "num_acto": "487056",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Nombramientos",
@@ -5899,12 +5833,12 @@
    "administradores": "Consejero: MARTINEZ ZIMMERMANN MARIA LUISA",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Consejero: ESQUIVEL MARTINEZ ARROYO PATRICIA;PUENTE FERNANDEZ TEODORO. Nombramientos. Consejero: MARTINEZ ZIMMERMANN MARIA LUISA. Datos registrales. S 8 , H GC 33736, I/A 7 (23.10.26).",
-   "clave": "CENTRAL DE SERVICIOS HOTELEROS DE PUERTO RICO AIE R M LAS PALMAS"
+   "clave": "CENTRAL DE SERVICIOS HOTELEROS DE PUERTO RICO AIE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "DAL ZOVO, SOCIEDAD LIMITADA(R.M. LAS PALMAS)",
+   "empresa": "DAL ZOVO, SOCIEDAD LIMITADA",
    "num_acto": "487075",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Cambio/ampliación de objeto, Cambio de domicilio",
@@ -5921,12 +5855,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Modificaciones estatutarias. Artículo de los Estatutos : 3. Domicilio. Artículo de los Estatutos : 2. Objeto. Cambio de domicilio social. C/ LEON TOLSTOI, 25-9º IZQUIERDA 35010 (PALMAS DE GRAN CANARIA (LAS). Cambio de objeto social. Acuicultura marina. La prestación de servicios de limpieza de edificios y locales, lavandería industrial, mantenimiento integral de inmuebles, trabajos de pintura, pequeñas reformas, rehabilitación, reparación, conservación y acondicionamiento de edificaciones. ... Datos registrales. S 8 , H GC 59250, I/A 2 (23.10.26).",
-   "clave": "DAL ZOVO R M LAS PALMAS"
+   "clave": "DAL ZOVO"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "HOTEL ROCA NEGRA AGAETE, SOCIEDAD ANONIMA(R.M. LAS PALMAS)",
+   "empresa": "HOTEL ROCA NEGRA AGAETE, SOCIEDAD ANONIMA",
    "num_acto": "487080",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Nombramientos",
@@ -5943,12 +5877,12 @@
    "administradores": "Apoderado: PINO BECERRA BORJA",
    "web_borme": "",
    "texto": " Nombramientos. Apoderado: PINO BECERRA BORJA. Datos registrales. S 8 , H GC 53878, I/A 28 (23.10.26).",
-   "clave": "HOTEL ROCA NEGRA AGAETE R M LAS PALMAS"
+   "clave": "HOTEL ROCA NEGRA AGAETE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "VEDRO LABS, SOCIEDAD LIMITADA(R.M. LAS PALMAS)",
+   "empresa": "VEDRO LABS, SOCIEDAD LIMITADA",
    "num_acto": "487088",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Constitución",
@@ -5965,12 +5899,12 @@
    "administradores": "Adm. Mancom.: PATRICK KEVIN SCHULLER; Adm. Mancom.: ADNAN TRESNJO",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 22.10.26. Objeto social: Actividades de programación informática. Construcción, instalaciones y mantenimiento. Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. Actividades inmobiliarias. ... Domicilio: C/ JUAN REJON, 83-6º B 35008 (PALMAS DE GRAN CANARIA (LAS). Capital: 2,00 Euros. Nombramientos. Adm. Mancom.: PATRICK KEVIN SCHULLER;ADNAN TRESNJO. Datos registrales. S 8 , H GC 67192, I/A 1 (23.10.26).",
-   "clave": "VEDRO LABS R M LAS PALMAS"
+   "clave": "VEDRO LABS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Las Palmas",
-   "empresa": "FERNARPAM, SOCIEDAD LIMITADA(R.M. LAS PALMAS)",
+   "empresa": "FERNARPAM, SOCIEDAD LIMITADA",
    "num_acto": "487100",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-35.pdf",
    "señales": "Constitución",
@@ -5987,7 +5921,7 @@
    "administradores": "Adm. Unico: FERNANDEZ IRIBARNE MARCELO",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 25.09.26. Objeto social: Alquiler de bienes inmobiliarios por cuenta propia. La adquisición, tenencia, administración, gestión, explotación, arrendamiento y enajenación, por cualquier título, de toda clase de bienes inmuebles, tanto rústicos como urbanos ... Domicilio: C/ LOS LLANILLOS, 45 35259 (INGENIO). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: FERNANDEZ IRIBARNE MARCELO. Nombramientos. Adm. Unico: FERNANDEZ IRIBARNE MARCELO. Datos registrales. S 8 , H GC 67168, I/A 1 (26.10.26).",
-   "clave": "FERNARPAM R M LAS PALMAS"
+   "clave": "FERNARPAM"
   },
   {
    "fecha": "2026-10-30",
@@ -6212,7 +6146,7 @@
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "PETERS Y DIAZ ASESORES INMOBILIARIOS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "PETERS Y DIAZ ASESORES INMOBILIARIOS SL",
    "num_acto": "488172",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6229,38 +6163,16 @@
    "administradores": "Adm. Unico: HEUFKENS PETERS DIANA MARIA; Cambio del Organo de Administración: Administradores solidarios a Administrador único",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Adm. Solid.: DIAZ RODRIGUEZ FRANCISCO JAVIER;HEUFKENS PETERS DIANA MARIA. Nombramientos. Adm. Unico: HEUFKENS PETERS DIANA MARIA. Otros conceptos: Cambio del Organo de Administración: Administradores solidarios a Administrador único. Datos registrales. S 8 , H TF 37935, I/A 9 (13.10.26).",
-   "clave": "PETERS Y DIAZ ASESORES INMOBILIARIOS R M SANTA CRUZ DE TENERIFE"
+   "clave": "PETERS Y DIAZ ASESORES INMOBILIARIOS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "TINTORERO CANARIO LARENSE SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488192",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "",
-   "prioridad": "C",
-   "capital_constitucion": 6130.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "La instalación, administración o explotación de toda clase de restaurantes, bares, cafeterías, heladerías, pastelerías, pizzerías, salas de fiestas, discotecas o establecimientos similares, así como las actividades comerciales o industriales relacionadas con la hostelería y restauración. El asesoram",
-   "domicilio": "PASEO EUGENIO LOPEZ, 8-ESCALERA 1, PLANTA BAJA, PU (TEGUESTE)",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Solid.: LUIS RAMON CARIDAD ARIAS; Adm. Solid.: MONICA ELIZABETH CHACON TELLES",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 24.09.26. Objeto social: La instalación, administración o explotación de toda clase de restaurantes, bares, cafeterías, heladerías, pastelerías, pizzerías, salas de fiestas, discotecas o establecimientos similares, así como las actividades comerciales o industriales relacionadas con la hostelería y restauración. El asesoram. Domicilio: PASEO EUGENIO LOPEZ, 8-ESCALERA 1, PLANTA BAJA, PU (TEGUESTE). Capital: 6.130,00 Euros. Nombramientos. Adm. Solid.: LUIS RAMON CARIDAD ARIAS;MONICA ELIZABETH CHACON TELLES. Datos registrales. S 8 , H TF 78462, I/A 1 (13.10.26).",
-   "clave": "TINTORERO CANARIO LARENSE R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "SANSANTA SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "SANSANTA SL",
    "num_acto": "488197",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
-   "sectores": "Promoción inmobiliaria, Hoteles y turismo, Retail y operadores",
+   "sectores": "Promoción inmobiliaria, Hoteles y turismo",
    "sector_claro": "Sí",
    "prioridad": "B",
    "capital_constitucion": null,
@@ -6273,12 +6185,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. La prestación de todo tipo de servicios de hospedajes en alojamientos turísticos extrahoteleros, fondas y casas de huéspedes, casas rurales, negocios de hostelería, turismo y restauración, hostales y pensiones, y estudiantil. - La gestión inmobiliaria en toda su extensión. - La prestación de todo ti. Datos registrales. S 8 , H TF 61714, I/A 3 (13.10.26).",
-   "clave": "SANSANTA R M SANTA CRUZ DE TENERIFE"
+   "clave": "SANSANTA"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "CLINICAS DEL SUR SOCIEDAD LIMITADA(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "CLINICAS DEL SUR SOCIEDAD LIMITADA",
    "num_acto": "488202",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6295,12 +6207,12 @@
    "administradores": "Apo.Sol.: PEREZ MENDEZ JUAN CARLOS; Apo.Man.Soli: MELO ROBAYNA QUINTIN MARCOS; Apo.Man.Soli: PEREZ MENDEZ JUAN CARLOS",
    "web_borme": "",
    "texto": " Nombramientos. Apo.Sol.: PEREZ MENDEZ JUAN CARLOS. Datos registrales. S 8 , H TF 3729, I/A 143 (13.10.26). Nombramientos. Apo.Man.Soli: MELO ROBAYNA QUINTIN MARCOS;PEREZ MENDEZ JUAN CARLOS. Datos registrales. S 8 , H TF 3729, I/A 144 (13.10.26).",
-   "clave": "CLINICAS DEL SUR R M SANTA CRUZ DE TENERIFE"
+   "clave": "CLINICAS DEL SUR"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "CLINICAS DEL SUR SOCIEDAD LIMITADA(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "CLINICAS DEL SUR SOCIEDAD LIMITADA",
    "num_acto": "488204",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6317,12 +6229,12 @@
    "administradores": "Apoderado: LUCIA CANA GONZALEZ",
    "web_borme": "",
    "texto": " Nombramientos. Apoderado: LUCIA CANA GONZALEZ. Datos registrales. S 8 , H TF 3729, I/A 145 (15.10.26).",
-   "clave": "CLINICAS DEL SUR R M SANTA CRUZ DE TENERIFE"
+   "clave": "CLINICAS DEL SUR"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "TEJAVANA FOTOVOLTAICA CANARIA SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "TEJAVANA FOTOVOLTAICA CANARIA SL",
    "num_acto": "488212",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6339,12 +6251,12 @@
    "administradores": "Apo.Man.Soli: JERONIMO CRUZ DIEZ DEL CORRAL",
    "web_borme": "",
    "texto": " Nombramientos. Apo.Man.Soli: JERONIMO CRUZ DIEZ DEL CORRAL. Datos registrales. S 8 , H TF 70593, I/A 17 (13.10.26).",
-   "clave": "TEJAVANA FOTOVOLTAICA CANARIA R M SANTA CRUZ DE TENERIFE"
+   "clave": "TEJAVANA FOTOVOLTAICA CANARIA"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ASESORES AGGA CANARIAS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "ASESORES AGGA CANARIAS SL",
    "num_acto": "488220",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6361,12 +6273,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 25.09.26. Objeto social: - La prestación de servicios de asesoramiento, gestión, auditoría interna, contabilidad y consultoría en materia fiscal, laboral, contable, económica y financiera a personas físicas y jurídicas, así como la realización de trámites, representación ante administraciones públicas y la elaboración de in. Domicilio: C/ JOSE BETANCOR CABRERA, 18 38410 (REALEJOS (LOS)). Capital: 3.200,00 Euros. Declaración de unipersonalidad. Socio único: AGUSTIN JESUS",
-   "clave": "ASESORES AGGA CANARIAS R M SANTA CRUZ DE TENERIFE"
+   "clave": "ASESORES AGGA CANARIAS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "INVERSIONES Y PROMOCIONES LAGUPONTE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "INVERSIONES Y PROMOCIONES LAGUPONTE SL",
    "num_acto": "488227",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6383,12 +6295,12 @@
    "administradores": "Consejero: CRISTOBAL BEAUTELL BRAVO DE LAGUNA; Consejero: MENCIA BRAVO DE LAGUNA TABARES; Consejero: FRANCISCO DE BORJA ANABITARTE BRAVO DE LAGUNA; Presidente: CRISTOBAL BEAUTELL BRAVO DE LAGUNA; Secretario: MENCIA BRAVO DE LAGUNA TABARES; Cons.Del.Sol: CRISTOBAL BEAUTELL BRAVO DE LAGUNA; Cons.Del.Sol: MENCIA BRAVO DE LAGUNA TABARES",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Consejero: ANABITARTE PRIETO CARLOS. Secretario: BRAVO DE LAGUNA PONTE BEATRIZ. Consejero: BRAVO DE LAGUNA PONTE BEATRIZ. Cons.Del.Sol: BRAVO DE LAGUNA PONTE BEATRIZ. Presidente: BRAVO DE LAGUNA Y PONTE MARIA DEL PINO. Consejero: BRAVO DE LAGUNA Y PONTE MARIA DEL PINO. Cons.Del.Sol: BRAVO DE LAGUNA Y PONTE MARIA DEL PINO. Consejero: TABARES MIRANDA MENCIA. Cons.Del.Sol: TABARES MIRANDA MENCIA. Nombramientos. Consejero: CRISTOBAL BEAUTELL BRAVO DE LAGUNA;MENCIA BRAVO DE LAGUNA TABARES;FRANCISCO DE BORJA ANABITARTE BRAVO DE LAGUNA. Presidente: CRISTOBAL BEAUTELL BRAVO DE LAGUNA. Secretario: MENCIA BRAVO DE LAGUNA TABARES. Cons.Del.Sol: CRISTOBAL BEAUTELL BRAVO DE LAGUNA;MENCIA BRAVO DE LAGUNA TABARES. Datos registrales. S 8 , H TF 38138, I/A 5 (14.10.26).",
-   "clave": "INVERSIONES Y PROMOCIONES LAGUPONTE R M SANTA CRUZ DE TENERIFE"
+   "clave": "INVERSIONES Y PROMOCIONES LAGUPONTE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "AGANA DENTAL Y PERICIAL SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "AGANA DENTAL Y PERICIAL SL",
    "num_acto": "488228",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6405,12 +6317,12 @@
    "administradores": "Adm. Mancom.: GOMEZ ALVAREZ ALFREDO; Adm. Mancom.: YARINA HERRERA ARTEAGA",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 11.09.26. Objeto social: La actividad principal: (CNAE-2025)- 86.23.- Actividades odontológicas. Actividades secundarias: a) Actividad odontológica: la explotación, organización, administración y gestión de clínicas, centros y consultas dentales, así como la intermediación, coordinación y puesta a disposición de los medios. Domicilio: C/ SAN VICENTE FERRER, 5-PLANTA 2ª, PUERTA IZQUIER (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Nombramientos. Adm. Mancom.: GOMEZ ALVAREZ ALFREDO;YARINA HERRERA ARTEAGA. Datos registrales. S 8 , H TF 78468, I/A 1 (14.10.26). Cierre provisional de la hoja registral por revocación del NIF. Datos registrales. S 8 , H TF 74386, I/AREVOC (14.10.26).",
-   "clave": "AGANA DENTAL Y PERICIAL R M SANTA CRUZ DE TENERIFE"
+   "clave": "AGANA DENTAL Y PERICIAL"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "FURGOS 9 TENERIFE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "FURGOS 9 TENERIFE SL",
    "num_acto": "488242",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
@@ -6427,12 +6339,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. -la prestación de servicios de transporte de viajeros por carretera mediante vehículos con conductor, tanto en régimen de transporte discrecional como en cualesquiera otras modalidades legalmente permitidas, nacionales o internacionales. la realización de servicios de traslado de viajeros, transfe. Datos registrales. S 8 , H TF 76425, I/A 3 (14.10.26).",
-   "clave": "FURGOS 9 TENERIFE R M SANTA CRUZ DE TENERIFE"
+   "clave": "FURGOS 9 TENERIFE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "NOLAN GROUP PROPERTY SERVICES SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "NOLAN GROUP PROPERTY SERVICES SL",
    "num_acto": "488244",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio de domicilio",
@@ -6449,12 +6361,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de domicilio social. C/ GRANDE, 57 38670 (ADEJE). Datos registrales. S 8 , H TF 66803, I/A 4 (14.10.26).",
-   "clave": "NOLAN GROUP PROPERTY SERVICES R M SANTA CRUZ DE TENERIFE"
+   "clave": "NOLAN GROUP PROPERTY SERVICES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "EUROFINS LGS MEGALAB ANALISIS CLINICOS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "EUROFINS LGS MEGALAB ANALISIS CLINICOS SL",
    "num_acto": "488245",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6471,16 +6383,16 @@
    "administradores": "Apoderado: MARIA LORENA PALACIO LOPEZ; Adm. Unico: AINHOA ALMAZAN COLOMER",
    "web_borme": "",
    "texto": " Revocaciones. Apoderado: DANIEL MELENDEZ GARCIA. Nombramientos. Apoderado: MARIA LORENA PALACIO LOPEZ. Datos registrales. S 8 , H TF 60600, I/A 29 (14.10.26). Constitución. Comienzo de operaciones: 8.09.26. Objeto social: objeto social principal el relativo a la actividad 70.20º: Otras actividades de consultoría de gestión empresarial. de la Clasificación Nacional de actividades Económicas 2025 (C.N.A.E.-2025). Y como otras actividades: a) Servicios de administración y gestión. Los servicios de administración, gestió. Domicilio: C/ TEOBALDO POWER, 2-APARTAMENTO 2D 38003 (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: AINHOA ALMAZAN COLOMER. Datos registrales. S 8 , H TF 78472, I/A 1 (14.10.26).",
-   "clave": "EUROFINS LGS MEGALAB ANALISIS CLINICOS R M SANTA CRUZ DE TENERIFE"
+   "clave": "EUROFINS LGS MEGALAB ANALISIS CLINICOS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ALMA HOYA VERDE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "ALMA HOYA VERDE SL",
    "num_acto": "488250",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
-   "sectores": "Hoteles y turismo, Retail y operadores",
+   "sectores": "Hoteles y turismo",
    "sector_claro": "Sí",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -6493,12 +6405,12 @@
    "administradores": "Adm. Unico: YEVHENIIA RATSKEVYCH",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 29.09.26. Objeto social: Hoteles y alojamientos similares. (CNAE 55.10) - Alojamientos turísticos y otros alojamientos de corta estancia. (CNAE 55.20) Otros servicios de alojamiento. (CNAE 55. 90) -Los servicios de restauración, bar y cafetería, y la organización de eventos y celebraciones, la organización y comercializació. Domicilio: C/ EL CARDON, 17-AMARILLA GOLF 38639 (SAN MIGUEL DE ABONA). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: YEVHENIIA RATSKEVYCH. Datos registrales. S 8 , H TF 78473, I/A 1 (14.10.26).",
-   "clave": "ALMA HOYA VERDE R M SANTA CRUZ DE TENERIFE"
+   "clave": "ALMA HOYA VERDE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "FG CONSULTORES 1985 FISCAL LABORAL Y CONTABLE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "FG CONSULTORES 1985 FISCAL LABORAL Y CONTABLE SL",
    "num_acto": "488258",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6515,12 +6427,12 @@
    "administradores": "Adm. Unico: MARYLOLA FERNANDEZ HERNANDEZ",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 30.09.26. Objeto social: Actividad principal: 6920 Actividades de contabilidad, teneduría de libros, auditoría y asesoría fiscal. Otras: b) La prestación de servicios administrativos y auxiliares de oficina, incluyendo la gestión, preparación, tratamiento y archivo de documentación, procesamiento de datos, etc. Domicilio: PLAZA FLOR DE PASCUA, 7 38360 (SAUZAL (EL)). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: MARYLOLA FERNANDEZ HERNANDEZ. Datos registrales. S 8 , H TF 78480, I/A 1 (15.10.26).",
-   "clave": "FG CONSULTORES 1985 FISCAL LABORAL Y CONTABLE R M SANTA CRUZ DE TENERIFE"
+   "clave": "FG CONSULTORES 1985 FISCAL LABORAL Y CONTABLE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "HERGONZA TENERIFE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "HERGONZA TENERIFE SL",
    "num_acto": "488261",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6537,12 +6449,12 @@
    "administradores": "Adm. Unico: ASIER HERNANDEZ GONZALEZ",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 10.09.26. Objeto social: Actividad principal: CNAE 6920: Actividades de contabilidad, teneduría de libros, auditoría y asesoría fiscal. Secundarias: CNAE 6811 Compraventa de bienes inmobiliarias por cuenta propia. CNAE 6812 Promoción inmobiliaria. CNAE 6820 Alquiler de bienes inmobiliarios por cuenta propia., etc. Domicilio: C/ CALAVARIO, 26 7 38300 (OROTAVA (LA)). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: ASIER HERNANDEZ GONZALEZ. Nombramientos. Adm. Unico: ASIER HERNANDEZ GONZALEZ. Datos registrales. S 8 , H TF 78482, I/A 1 (15.10.26).",
-   "clave": "HERGONZA TENERIFE R M SANTA CRUZ DE TENERIFE"
+   "clave": "HERGONZA TENERIFE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "PARODI MEDINA SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "PARODI MEDINA SL",
    "num_acto": "488268",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6559,12 +6471,12 @@
    "administradores": "Adm. Unico: GABRIELE PARODI CERRUTI",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 17.09.26. Objeto social: Artículo 2º.- Objeto social. La sociedad tiene por objeto: Como actividad principal: 1.- La intermediación en la compra, venta o arrendamiento de terrenos, así como en la compra, venta, construcción o arrendamiento de inmuebles o partes de inmuebles, no asumiendo riesgos propios y operando por cuent. Domicilio: C/ VIA DEL CABILDO, 11-BARRANCO HONDO 38510 (CANDELARIA). Capital: 27.000,00 Euros. Nombramientos. Adm. Unico: GABRIELE PARODI CERRUTI. Datos registrales. S 8 , H TF 78483, I/A 1 (15.10.26).",
-   "clave": "PARODI MEDINA R M SANTA CRUZ DE TENERIFE"
+   "clave": "PARODI MEDINA"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "EXPLOTACIONES INMOBILIARIAS MAZO SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "EXPLOTACIONES INMOBILIARIAS MAZO SL",
    "num_acto": "488278",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6581,12 +6493,12 @@
    "administradores": "Apoderado: JESUS SANDER GIL HERNANDEZ; Adm. Unico: QUINTANA RAVELO ISIDRO",
    "web_borme": "",
    "texto": " Nombramientos. Apoderado: JESUS SANDER GIL HERNANDEZ. Datos registrales. S 8 , H TF 75766, I/A 3 (16.10.26). Constitución. Comienzo de operaciones: 5.10.26. Objeto social: Artículo 2º: OBJETO. La Sociedad tiene por objeto principal el C.N.A.E. 59.12. Actividades de posproducción cinematográfica, de vídeo y de programas de televisión. Además: Servicios de postproducción audiovisual y efectos visuales para cine, series, documentales y publicidad, y producción de obras a. Domicilio: C/ VOLCAN NEVADO DEL RUIZ, 25-PISO 1, PUERTA D 381 (SAN CRISTOBAL DE LA LAGUNA. Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: METANOIA INVESTMENTS SL. Nombramientos. Adm. Unico: QUINTANA RAVELO ISIDRO. Datos registrales. S 8 , H TF 78486, I/A 1 (15.10.26).",
-   "clave": "EXPLOTACIONES INMOBILIARIAS MAZO R M SANTA CRUZ DE TENERIFE"
+   "clave": "EXPLOTACIONES INMOBILIARIAS MAZO"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "EXPLOTACIONES INMOBILIARIAS MAZO SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "EXPLOTACIONES INMOBILIARIAS MAZO SL",
    "num_acto": "488279",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
@@ -6603,12 +6515,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. Actividad turística y de alojamiento: La explotación de alojamientos turísticos y otros alojamientos de corta estancia, incluyendo viviendas vacacionales, apartamentos turísticos, villas, casas rurales y cualesquiera otras modalidades permitidas por la normativa vigente, como actividad principal, co. Datos registrales. S 8 , H TF 75766, I/A 4 (21.10.26).",
-   "clave": "EXPLOTACIONES INMOBILIARIAS MAZO R M SANTA CRUZ DE TENERIFE"
+   "clave": "EXPLOTACIONES INMOBILIARIAS MAZO"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "TENERIFE BOOPK DIRECT SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "TENERIFE BOOPK DIRECT SL",
    "num_acto": "488284",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6625,34 +6537,12 @@
    "administradores": "Adm. Unico: JAIRO SANTIAGO AVILA PLATA",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 13.10.26. Objeto social: La sociedad tiene por objeto el desarrollo de las actividades correspondientes a los siguientes códigos y descripciones de la Clasificación Nacional de Actividades Económicas E Actividad principal: CNAE 6831: servicios de intermediación para actividades inmobiliarias. Si alguna de las actividades. Domicilio: AVDA LOS PLAYEROS, 8-PUERTA 53, CRISTIANOS (LOS) 3 (ARONA). Capital: 30.000,00 Euros. Declaración de unipersonalidad. Socio único: JAIRO SANTIAGO AVILA PLATA. Nombramientos. Adm. Unico: JAIRO SANTIAGO AVILA PLATA. Datos registrales. S 8 , H TF 78488, I/A 1 (15.10.26).",
-   "clave": "TENERIFE BOOPK DIRECT R M SANTA CRUZ DE TENERIFE"
+   "clave": "TENERIFE BOOPK DIRECT"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "JEKUA BABA SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488290",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "",
-   "prioridad": "C",
-   "capital_constitucion": 12000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "Actividad prinipal: Puestos de comidas CNAE 56.12. Otras: Turismo, hostelería y restauración. - Limpieza general de edificios. - Construcción, instalaciones y mantenimiento. - Comercio al por mayor y al por menor. - Distribución comercial. Importación y exportación., etc",
-   "domicilio": "C/ OASIS, 2 104, GUARGACHO 38632 (ARONA)",
-   "socio_unico": "GEORGIANA LAVINIA VASILOANCA",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Unico: GEORGIANA LAVINIA VASILOANCA",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 29.07.26. Objeto social: Actividad prinipal: Puestos de comidas CNAE 56.12. Otras: Turismo, hostelería y restauración. - Limpieza general de edificios. - Construcción, instalaciones y mantenimiento. - Comercio al por mayor y al por menor. - Distribución comercial. Importación y exportación., etc. Domicilio: C/ OASIS, 2 104, GUARGACHO 38632 (ARONA). Capital: 12.000,00 Euros. Declaración de unipersonalidad. Socio único: GEORGIANA LAVINIA VASILOANCA. Nombramientos. Adm. Unico: GEORGIANA LAVINIA VASILOANCA. Datos registrales. S 8 , H TF 78492, I/A 1 (16.10.26).",
-   "clave": "JEKUA BABA R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "REM STRATEGY SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "REM STRATEGY SL",
    "num_acto": "488298",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6669,12 +6559,12 @@
    "administradores": "Adm. Unico: ANTONIO JESUS PADRON HERNANDEZ",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 17.09.26. Objeto social: a) La prestación de servicios de consultoría estratégica, de organización, planificación, dirección, gestión y administración empresarial, incluyendo el apoyo administrativo y de gestión a sociedades del grupo REMBANDO o vinculadas a su socio único. b) La mediación, intermediación y gestión en oper. Domicilio: C/ EMILIO CALZADILLA, 4 1º 38002 (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: ANTONIO JESUS PADRON HERNANDEZ. Nombramientos. Adm. Unico: ANTONIO JESUS PADRON HERNANDEZ. Datos registrales. S 8 , H TF 78494, I/A 1 (16.10.26).",
-   "clave": "REM STRATEGY R M SANTA CRUZ DE TENERIFE"
+   "clave": "REM STRATEGY"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ASANTE CANARIAS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "ASANTE CANARIAS SL",
    "num_acto": "488301",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6691,12 +6581,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 1.10.26. Objeto social: CNAE actividad principal: 68.11. Compraventa de bienes Inmobiliarios por cuenta propia. Otras actividades: 68.12. Promoción Inmobiliaria. 68.20. Alquiler de bienes Inmobiliarios por cuenta propia. 68.31. Servicios de intermediación para actividades inmobiliarias. 63.32. Otras actividades inmobiliari. Domicilio: PLAZA CANDELARIA, 1EDIFICIO OLYMPO, PISO 3, OFICI (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio",
-   "clave": "ASANTE CANARIAS R M SANTA CRUZ DE TENERIFE"
+   "clave": "ASANTE CANARIAS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "PAPATEIDE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "PAPATEIDE SL",
    "num_acto": "488308",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6713,12 +6603,12 @@
    "administradores": "Adm. Unico: YANES DELGADO MIGUEL ANGEL; Adm. Unico: LUIS MIGUEL NGALE NGALE",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 15.09.26. Objeto social: El objeto social es: La sociedad tiene por objeto el desarrollo de las actividades correspondientes a los siguientes códigos y descripciones de la Clasificación Nacional de Actividades Económicas: Actividad principal: (CNAE F4333) Revestimiento de suelo y paredes. Otras actividades: 1. Agricultura,. Domicilio: C/ NUESTRA SEÑORA DE CANDELARIA, 4-OROTEANDA BAJA. (SAN MIGUEL DE ABONA). Capital: 1.000,00 Euros. Nombramientos. Adm. Unico: YANES DELGADO MIGUEL ANGEL. Datos registrales. S 8 , H TF 78497, I/A 1 (19.10.26). Constitución. Comienzo de operaciones: 1.10.26. Objeto social: CNAE actividad principal: 68.11. Compraventa de bienes Inmobiliarios por cuenta propia. Otras actividades: 68.12. Promoción Inmobiliaria. 68.20. Alquiler de bienes Inmobiliarios por cuenta propia. 68.31. Servicios de intermediación para actividades in",
-   "clave": "PAPATEIDE R M SANTA CRUZ DE TENERIFE"
+   "clave": "PAPATEIDE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "SUDARTA CANARIAS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "SUDARTA CANARIAS SL",
    "num_acto": "488312",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6735,56 +6625,12 @@
    "administradores": "Adm. Unico: LUIS MIGUEL NGALE NGALE",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 1.10.26. Objeto social: CNAE actividad principal: 68.12. Promoción Inmobiliaria. Otras actividades: 68.11. Compraventa de bienes Inmobiliarios por cuenta propia. 68.20. Alquiler de bienes Inmobiliarios por cuenta propia. 68.31. Servicios de intermediación para actividades inmobiliarias. 63.32. Otras actividades inmobiliari. Domicilio: PLAZA CANDELARIA, 1-EDIFICIO OLYMPO, PISO 3, OFICI (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: AYANTI GESTION SL. Nombramientos. Adm. Unico: LUIS MIGUEL NGALE NGALE. Datos registrales. S 8 , H TF 78491, I/A 1 (19.10.26).",
-   "clave": "SUDARTA CANARIAS R M SANTA CRUZ DE TENERIFE"
+   "clave": "SUDARTA CANARIAS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ALEGRA TENERIFE SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488326",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "",
-   "prioridad": "C",
-   "capital_constitucion": 1000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "Artículo 2.-OBJETO. La sociedad tiene por objeto: 1) La explotación de negocios de restauración, cafeterías, restaurantes, heladerías, panaderías, y demás servicios relacionados con la hostelería. Establecimientos de bebidas. Provisión de comidas preparadas para eventos. Otros servicios de comidas",
-   "domicilio": "AVDA TRES DE MAYO, 11-PORTAL 1B, PISO 1, PUERTA H (SANTA CRUZ DE TENERIFE)",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Solid.: ALDANA MARTIN JOSE DOMINGO; Adm. Solid.: KEVIN JAVIER PADILLA ALONSO",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 5.10.26. Objeto social: Artículo 2.-OBJETO. La sociedad tiene por objeto: 1) La explotación de negocios de restauración, cafeterías, restaurantes, heladerías, panaderías, y demás servicios relacionados con la hostelería. Establecimientos de bebidas. Provisión de comidas preparadas para eventos. Otros servicios de comidas. Domicilio: AVDA TRES DE MAYO, 11-PORTAL 1B, PISO 1, PUERTA H (SANTA CRUZ DE TENERIFE). Capital: 1.000,00 Euros. Nombramientos. Adm. Solid.: ALDANA MARTIN JOSE DOMINGO;KEVIN JAVIER PADILLA ALONSO. Datos registrales. S 8 , H TF 78500, I/A 1 (19.10.26).",
-   "clave": "ALEGRA TENERIFE R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "BOUTUMAST SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488331",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "",
-   "prioridad": "C",
-   "capital_constitucion": 9440.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": ": ACTIVIDAD PRINCIPAL: (CNAE: 5611) Restaurantes. El desarrollo y realización, la instalación y explotación industrial y comercial de todas las actividades de tipo turístico, especialmente las características y propias del negocio de la hostelería y la restauración, en locales propios o arrendados,",
-   "domicilio": "C/ EL VIENTO, 14 Ptl.B 1º-EDIFICIO CENTRO, APARTAM (SAN CRISTOBAL DE LA LAGUNA",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Unico: SERGIO ALEJANDRO RODRIGUEZ MAST",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 3.06.26. Objeto social: : ACTIVIDAD PRINCIPAL: (CNAE: 5611) Restaurantes. El desarrollo y realización, la instalación y explotación industrial y comercial de todas las actividades de tipo turístico, especialmente las características y propias del negocio de la hostelería y la restauración, en locales propios o arrendados,. Domicilio: C/ EL VIENTO, 14 Ptl.B 1º-EDIFICIO CENTRO, APARTAM (SAN CRISTOBAL DE LA LAGUNA. Capital: 9.440,00 Euros. Nombramientos. Adm. Unico: SERGIO ALEJANDRO RODRIGUEZ MAST. Datos registrales. S 8 , H TF 78506, I/A 1 (19.10.26).",
-   "clave": "BOUTUMAST R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "OIU OBRAS Y CONSTRUCCIONES SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "OIU OBRAS Y CONSTRUCCIONES SL",
    "num_acto": "488333",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6801,12 +6647,12 @@
    "administradores": "Adm. Unico: SANCHEZ GIL JUAN IGNACIO",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 28.09.26. Objeto social: Artículo 2. Objeto. La sociedad tendrá por objeto las siguientes actividades: Construcción de edificios residenciales (CNAE 41.01). Construcción de edificios no residenciales (CNAE 41.02) Demolición. (CNAE 43. 11) Preparación de terrenos. (CNAE 43.12) Perforaciones y sondeos. (CNAE 43. 13) Instala. Domicilio: C/ DOCTOR ANTONIO GONZALEZ, 6-PLANTA PRIMERA, PUER (SAN CRISTOBAL DE LA LAGUNA. Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: SANCHEZ GIL JUAN IGNACIO. Datos registrales. S 8 , H TF 78502, I/A 1 (19.10.26).",
-   "clave": "OIU OBRAS Y CONSTRUCCIONES R M SANTA CRUZ DE TENERIFE"
+   "clave": "OIU OBRAS Y CONSTRUCCIONES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ORLY ARRENDAMIENTOS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "ORLY ARRENDAMIENTOS SL",
    "num_acto": "488337",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6823,12 +6669,12 @@
    "administradores": "Adm. Unico: RAMESH-MURLIDHAR DASWANI DASWANI",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 25.09.26. Objeto social: Artículo 2º.- La Sociedad tiene por objeto, debiendo consignarse como actividad principal, la citada en primer lugar: 1.- 68.20 Alquiler de bienes inmobiliarios por cuenta propia. 2.- 55.20 Alojamientos turísticos y otros alojamientos de corta estancia. La explotación, gestión y administración de es. Domicilio: C/ BETHENCOURT ALFONSO, 17-4º, IZQUIERDA 38002 (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: RAMESH-MURLIDHAR DASWANI DASWANI. Nombramientos. Adm. Unico: RAMESH-MURLIDHAR DASWANI DASWANI. Datos registrales. S 8 , H TF 78503, I/A 1 (19.10.26).",
-   "clave": "ORLY ARRENDAMIENTOS R M SANTA CRUZ DE TENERIFE"
+   "clave": "ORLY ARRENDAMIENTOS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "SIMPLEX ARRENDAMIENTOS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "SIMPLEX ARRENDAMIENTOS SL",
    "num_acto": "488340",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6845,12 +6691,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 25.09.26. Objeto social: Artículo 2º.- La Sociedad tiene por objeto, debiendo consignarse como actividad principal, la citada en primer lugar: 1.- 68.20 Alquiler de bienes inmobiliarios por cuenta propia. 2.- 47.40 Comercio al por menor de equipos para las tecnologías de la información y las comunidades. 3.- 47.54 Comercio. Domicilio: C/ BETHENCOURT ALFONSO, 22-BAJO 38002 (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único:",
-   "clave": "SIMPLEX ARRENDAMIENTOS R M SANTA CRUZ DE TENERIFE"
+   "clave": "SIMPLEX ARRENDAMIENTOS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "CASTILLO ACTIVOS SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "CASTILLO ACTIVOS SL",
    "num_acto": "488341",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6867,12 +6713,12 @@
    "administradores": "Adm. Unico: SHILA CHANDRU DASWANI DASWANI",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 25.09.26. Objeto social: Artículo 2º.- La Sociedad tiene por objeto, debiendo consignarse como actividad principal, la citada en primer lugar: 1.- 68.20 Alquiler de bienes inmobiliarios por cuenta propia. 2.- 55.20 Alojamientos turísticos y otros alojamientos de corta estancia. La explotación, gestión y administración de es. Domicilio: C/ BETHENCOURT ALFONSO, 17-4º, IZQUIERDA 38002 (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: SHILA CHANDRU DASWANI DASWANI. Datos registrales. S 8 , H TF 78505, I/A 1 (19.10.26).",
-   "clave": "CASTILLO ACTIVOS R M SANTA CRUZ DE TENERIFE"
+   "clave": "CASTILLO ACTIVOS"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "TENERIFE PROPERTIES COLLECTION SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "TENERIFE PROPERTIES COLLECTION SL",
    "num_acto": "488345",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6889,12 +6735,12 @@
    "administradores": "Adm. Unico: TATIANA DEKTIAR",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 17.09.26. Objeto social: Artículo 2º.- La sociedad tiene por objeto social principal el relativo a la actividad \"68.31º: Servicios de intermediación para actividades inmobiliarias\" de la Clasificación Nacional de Actividades Económicas 2025 (C.N.A.E. 2025). Y como otras actividades: a) Compraventa de bienes inmuebles, Arren. Domicilio: C/ EL VELERO, 35APARTAMENTO E1, PLAYA SAN JUAN 38 (GUIA DE ISORA). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: TATIANA DEKTIAR. Datos registrales. S 8 , H TF 78514, I/A 1 (19.10.26).",
-   "clave": "TENERIFE PROPERTIES COLLECTION R M SANTA CRUZ DE TENERIFE"
+   "clave": "TENERIFE PROPERTIES COLLECTION"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "URBANIZADORA ARONA 2001 SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "URBANIZADORA ARONA 2001 SL",
    "num_acto": "488347",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -6911,34 +6757,12 @@
    "administradores": "Adm. Solid.: PROMOTORA PUNTA LARGA SA; Adm. Solid.: BARROSO MARQUEZ SL; Representan: PLASENCIA ROMERO MARIA EUGENIA; Representan: PLASENCIA ROMERO MARIA EUGENIA; Cambio del Organo de Administración: Administrador único a Administradores solidarios",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Adm. Unico: PLASENCIA ROMERO JOSE ALFREDO. Nombramientos. Adm. Solid.: PROMOTORA PUNTA LARGA SA;BARROSO MARQUEZ SL. Representan: PLASENCIA ROMERO MARIA EUGENIA;PLASENCIA ROMERO MARIA EUGENIA. Otros conceptos: Cambio del Organo de Administración: Administrador único a Administradores solidarios. Datos registrales. S 8 , H TF 20571, I/A 8 (20.10.26).",
-   "clave": "URBANIZADORA ARONA 2001 R M SANTA CRUZ DE TENERIFE"
+   "clave": "URBANIZADORA ARONA 2001"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "CALETILLAS TASTY SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488375",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "Sí",
-   "prioridad": "C",
-   "capital_constitucion": null,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "Artículo 2º.- Objeto social La sociedad tiene por objeto las siguientes actividades: 1) La explotación de negocios de restauración, cafetería, hostelería, heladería, panadería, cafetería, y demás servicios relacionados con la hostelería. 2) Explotación de negocios de alimentación y cualquier otra an",
-   "domicilio": "AVDA REPUBLICA",
-   "socio_unico": "",
-   "socio_es_empresa": "",
-   "administradores": "",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 15.09.26. Objeto social: Artículo 2º.- Objeto social La sociedad tiene por objeto las siguientes actividades: 1) La explotación de negocios de restauración, cafetería, hostelería, heladería, panadería, cafetería, y demás servicios relacionados con la hostelería. 2) Explotación de negocios de alimentación y cualquier otra an. Domicilio: AVDA REPUBLICA",
-   "clave": "CALETILLAS TASTY R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "DWB MANAGEMENT SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "DWB MANAGEMENT SL",
    "num_acto": "488376",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -6955,12 +6779,12 @@
    "administradores": "Adm. Unico: DAVID WAYNE BEVAN",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 10.07.26. Objeto social: Artículo 2º.- OBJETO SOCIAL. Constituye el objeto de la sociedad: 1- Actividad principal: CNAE 6820.- Alquiler de bienes inmobiliarios por cuenta propia. 2.- Además podrá desarrollar las siguientes actividades: Otras actividades de apoyo a las empresas n.c.o.p. Otras actividades inmobiliarias por cu. Domicilio: AVDA DE LOS PUEBLOS, 20-C.C. SAN EUGENIO, LOCAL 72 (ADEJE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: DAVID WAYNE BEVAN. Nombramientos. Adm. Unico: DAVID WAYNE BEVAN. Datos registrales. S 8 , H TF 78522, I/A 1 (20.10.26).",
-   "clave": "DWB MANAGEMENT R M SANTA CRUZ DE TENERIFE"
+   "clave": "DWB MANAGEMENT"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "HOTEL ATLANTIC EL TOPE SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "HOTEL ATLANTIC EL TOPE SL",
    "num_acto": "488377",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Ampliación de capital",
@@ -6977,12 +6801,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Ampliación de capital. Capital: 700.000,00 Euros. Resultante Suscrito: 4.900.000,00 Euros. Datos registrales. S 8 , H TF 67487, I/A 11 (21.10.26).",
-   "clave": "HOTEL ATLANTIC EL TOPE R M SANTA CRUZ DE TENERIFE"
+   "clave": "HOTEL ATLANTIC EL TOPE"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "VENETO LUX PROPERTIES SA(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "VENETO LUX PROPERTIES SA",
    "num_acto": "488390",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Ampliación de capital, Cambio de domicilio",
@@ -6999,34 +6823,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Ampliación de capital. Capital: 18.000,00 Euros. Resultante Suscrito: 78.000,00 Euros. Modificaciones estatutarias. Artículo 7º.Acciones. El capital social se halla dividido en CIENTO TREINTA ACCIONES NOMINATIVAS de SEISCIENTOS EUROS (600,00 ?) de Otros conceptos: MODIFICADOS LOS DATOS PERSONALES DE LA ADMINISTRADORA DOÑA MARIA LAURA MARTINEZ ROTONDARO.- Cambio de domicilio social. C/ ALONSO CASTRO, 18 2º-LA CUESTA 38320 (SAN CRISTOBAL DE LA LAGUNA). Datos registrales. S 8 , H TF 58181, I/A 3 (21.10.26). valor nominal cada una de ellas, siendo todas ellas de la misma clase, que se hallan representadas mediante títulos, numerados de manera correlativa con los números \"1\" a \"130\", ambos inclusive, conteniendo todas estas las men. Datos registrales. S 8 , H TF 68398, I/A 4 (21.10.26).",
-   "clave": "VENETO LUX PROPERTIES R M SANTA CRUZ DE TENERIFE"
+   "clave": "VENETO LUX PROPERTIES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "DE ORIGENES GUANCHES SL(R.M. SANTA CRUZ DE TENERIFE)",
-   "num_acto": "488399",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "Sí",
-   "prioridad": "A",
-   "capital_constitucion": 3000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": "Artículo 3º.- Objeto social: Constituye el objeto de la compañía el siguiente: .- La realización de cualquier actividad relacionada con la hostelería y restauración, en concreto la explotación de restaurantes, cafeterías, heladerías, panaderías, churrerías, tascas, catering, con servicio en el propi",
-   "domicilio": "C/ LAS INDUSTRIAS, 184-ESQUINA A CARRETERA GENERAL (SANTA CRUZ DE TENERIFE)",
-   "socio_unico": "SERVICIOS DE HOSTELERIA TENERIFE 13 SL",
-   "socio_es_empresa": "Sí",
-   "administradores": "Adm. Unico: SANTANA NEGRIN ROMMEL MANUEL",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 9.09.26. Objeto social: Artículo 3º.- Objeto social: Constituye el objeto de la compañía el siguiente: .- La realización de cualquier actividad relacionada con la hostelería y restauración, en concreto la explotación de restaurantes, cafeterías, heladerías, panaderías, churrerías, tascas, catering, con servicio en el propi. Domicilio: C/ LAS INDUSTRIAS, 184-ESQUINA A CARRETERA GENERAL (SANTA CRUZ DE TENERIFE). Capital: 3.000,00 Euros. Declaración de unipersonalidad. Socio único: SERVICIOS DE HOSTELERIA TENERIFE 13 SL. Nombramientos. Adm. Unico: SANTANA NEGRIN ROMMEL MANUEL. Datos registrales. S 8 , H TF 78525, I/A 1 (21.10.26).",
-   "clave": "DE ORIGENES GUANCHES R M SANTA CRUZ DE TENERIFE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Santa Cruz De Tenerife",
-   "empresa": "ESPROTAX ASESORES SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "ESPROTAX ASESORES SL",
    "num_acto": "488406",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -7043,12 +6845,12 @@
    "administradores": "Adm. Solid.: DARIA SVERDLOVA IVAKHNENKO; Adm. Solid.: ALMUDENA NOVO DE LA FUENTE",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 15.09.26. Objeto social: Artículo 2º.- Objeto.- La sociedad tiene por objeto social principal la actividad con código CNAE 70.20-Otras actividades de consultoría de gestión empresarial, y como secundarias: Actividades de creación, artísticas y artes escénicas. Construcción de edificios. Actividades de construcción especiali. Domicilio: C/ DEGOLLADA, 59EN ARICO VIEJO (ARICO). Capital: 3.000,00 Euros. Nombramientos. Adm. Solid.: DARIA SVERDLOVA IVAKHNENKO;ALMUDENA NOVO DE LA FUENTE. Datos registrales. S 8 , H TF 78526, I/A 1 (21.10.26).",
-   "clave": "ESPROTAX ASESORES R M SANTA CRUZ DE TENERIFE"
+   "clave": "ESPROTAX ASESORES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "MINIMA, COMPAÑIA DE COMUNICACION VISUAL SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "MINIMA, COMPAÑIA DE COMUNICACION VISUAL SL",
    "num_acto": "488411",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
@@ -7065,12 +6867,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. 1. Publicidad, comunicación y diseño. La prestación de servicios de agencia de publicidad, comprendiendo la consultoría estratégica de marca e imagen corporativa, la planificación, creación, producción, gestión, contratación, difusión y evaluación de campañas publicitarias y de promoción comercial e. Datos registrales. S 8 , H TF 30314, I/A 11 (21.10.26).",
-   "clave": "MINIMA COMPANIA DE COMUNICACION VISUAL R M SANTA CRUZ DE TENERIFE"
+   "clave": "MINIMA COMPANIA DE COMUNICACION VISUAL"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "TENERIFE RESORTS MANAGEMENT SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "TENERIFE RESORTS MANAGEMENT SL",
    "num_acto": "488413",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Nombramientos",
@@ -7087,12 +6889,12 @@
    "administradores": "Apo.Man.Soli: RODRIGUEZ DIAZ SANDRA",
    "web_borme": "",
    "texto": " Nombramientos. Apo.Man.Soli: RODRIGUEZ DIAZ SANDRA. Datos registrales. S 8 , H TF 24489, I/A 31 (21.10.26).",
-   "clave": "TENERIFE RESORTS MANAGEMENT R M SANTA CRUZ DE TENERIFE"
+   "clave": "TENERIFE RESORTS MANAGEMENT"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "GENKIEVOLUTION SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "GENKIEVOLUTION SL",
    "num_acto": "488427",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto, Nombramientos",
@@ -7109,12 +6911,12 @@
    "administradores": "Adm. Unico: MEDINA GARCIA JOSE ALEJANDRO; Cambio del Organo de Administración: Consejo de administración a Administrador único",
    "web_borme": "",
    "texto": " Ceses/Dimisiones. Consejero: ESTEVEZ CABELLO OMAR YERAY;HERNANDEZ GONZALEZ DOMINGO SEBASTIAN. Secretario: RODRIGUEZ ARMAS JUAN ANTONIO. Consejero: RODRIGUEZ ARMAS JUAN ANTONIO;CABRERA GONZALEZ ZEBENSUI. Presidente: MEDINA GARCIA JOSE ALEJANDRO. Con.Delegado: MEDINA GARCIA JOSE ALEJANDRO. Consejero: MEDINA GARCIA JOSE ALEJANDRO. Nombramientos. Adm. Unico: MEDINA GARCIA JOSE ALEJANDRO. Otros conceptos: Cambio del Organo de Administración: Consejo de administración a Administrador único. Ampliación del objeto social. La Sociedad tiene por objeto: (i) el fomento y promoción de una cultura de vida saludable, basada en la cultura de autocuidado, la autodefensa y la autonomía de movimiento mediante la práctica de disciplinas físicas basadas en la cultura oriental de forma general y japonesa de forma más específica,. Datos registrales. S 8 , H TF 65128, I/A 3 (22.10.26).",
-   "clave": "GENKIEVOLUTION R M SANTA CRUZ DE TENERIFE"
+   "clave": "GENKIEVOLUTION"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "EMPRESA PUBLICA DE INSERCION MUNICIPAL DAVIA SA(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "EMPRESA PUBLICA DE INSERCION MUNICIPAL DAVIA SA",
    "num_acto": "488431",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
@@ -7131,12 +6933,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. El objeto social de la sociedad mercantil está representado por la gestión directa de servicios públicos de titularidad del Ayuntamiento de Adeje y por la prestación de servicios mediante la contratación in House para la satisfacción de necesidades de la Entidad Local, teniendo la clasificación de m. Datos registrales. S 8 , H TF 63745, I/A 8 (22.10.26).",
-   "clave": "EMPRESA PUBLICA DE INSERCION MUNICIPAL DAVIA R M SANTA CRUZ DE TENERIFE"
+   "clave": "EMPRESA PUBLICA DE INSERCION MUNICIPAL DAVIA"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "BEERHOUSE CANARIES SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "BEERHOUSE CANARIES SL",
    "num_acto": "488445",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -7153,18 +6955,18 @@
    "administradores": "Adm. Unico: ARIAS FRIAS MORALES DAVID",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 8.10.26. Objeto social: - Restaurantes. (CNAE 56.11), Servicios de bebidas. (CNAE 56.30) construcción, instalaciones y mantenimiento. Limpieza general de edificios. - Comercio al por mayor y al por menor. Distribución comercial. Importación y exportación. Actividades inmobiliarias. Actividades profesionales. Industrias man. Domicilio: C/ LA LAVA, 2EDIFICIO \"PERLA BLANCA\", LOCAL R, EN (ADEJE). Capital: 3.000,00 Euros. Nombramientos. Adm. Unico: ARIAS FRIAS MORALES DAVID. Datos registrales. S 8 , H TF 78531, I/A 1 (23.10.26).",
-   "clave": "BEERHOUSE CANARIES R M SANTA CRUZ DE TENERIFE"
+   "clave": "BEERHOUSE CANARIES"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "SOLUTION OPEN SOLAR SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "SOLUTION OPEN SOLAR SL",
    "num_acto": "488451",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio de domicilio, Nombramientos",
    "sectores": "Energía y renovables",
    "sector_claro": "Sí",
-   "prioridad": "A",
+   "prioridad": "B",
    "capital_constitucion": null,
    "ampliacion": null,
    "capital_resultante": null,
@@ -7175,12 +6977,12 @@
    "administradores": "Adm. Unico: PROMYCONSFOT CANARIA SL",
    "web_borme": "",
    "texto": " Declaración de unipersonalidad. Socio único: PROMYCONSFOT CANARIA SL. Ceses/Dimisiones. Adm. Unico: RODRIGUEZ GARCIA MARIA CINTIA. Nombramientos. Adm. Unico: PROMYCONSFOT CANARIA SL. Cambio de domicilio social. C/ PIEDRAS DE MOLINO, 1 38410 (REALEJOS (LOS)). Datos registrales. S 8 , H TF 66620, I/A 3 (23.10.26).",
-   "clave": "SOLUTION OPEN SOLAR R M SANTA CRUZ DE TENERIFE"
+   "clave": "SOLUTION OPEN SOLAR"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "SENIORBEL SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "SENIORBEL SL",
    "num_acto": "488467",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio de domicilio",
@@ -7197,12 +6999,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de domicilio social. C/ 1-, PLAN PARCIAL ANDORIÑAS, LAS CHAFIRAS 38639 (SAN MIGUEL DE ABONA). Datos registrales. S 8 , H TF 57018, I/A 6 (23.10.26).",
-   "clave": "SENIORBEL R M SANTA CRUZ DE TENERIFE"
+   "clave": "SENIORBEL"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "INAMES 2016 SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "INAMES 2016 SL",
    "num_acto": "488470",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Cambio/ampliación de objeto",
@@ -7219,12 +7021,12 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Cambio de objeto social. 1.- Actividad Principal: CNAE 43.24 Construcción, instalaciones y mantenimiento. Otras actividades: 2.Promoción inmobiliaria. (CNAE 68.12). 3.- Comercio al por mayor y al por menor. 4.- Distribución comercial. Importación y exportación. 5.- Actividades inmobiliarias. 6.- Actividades profesionales. Datos registrales. S 8 , H TF 51124, I/A 6 (23.10.26).",
-   "clave": "INAMES 2016 R M SANTA CRUZ DE TENERIFE"
+   "clave": "INAMES 2016"
   },
   {
    "fecha": "2026-10-30",
    "provincia": "Santa Cruz De Tenerife",
-   "empresa": "D28 PROP SL(R.M. SANTA CRUZ DE TENERIFE)",
+   "empresa": "D28 PROP SL",
    "num_acto": "488475",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-38.pdf",
    "señales": "Constitución",
@@ -7241,7 +7043,7 @@
    "administradores": "",
    "web_borme": "",
    "texto": " Constitución. Comienzo de operaciones: 9.09.26. Objeto social: si bien tiene por actividad principal la correspondiente con el epígrafe de la Clasificación Nacional de Actividades Económicas 2025 (CNAE-2025): PRINCIPAL: CNAE 6820 - Alquiler de bienes inmobiliarios por cuenta propia. Domicilio: C/ OREGON-RESORT PORTOFINO 14, CRISTIANOS (LOS) 38 (ARONA). Capital: 100.000,00 Euros.",
-   "clave": "D28 PROP R M SANTA CRUZ DE TENERIFE"
+   "clave": "D28 PROP"
   },
   {
    "fecha": "2026-10-30",
@@ -8460,7 +8262,7 @@
    "num_acto": "488627",
    "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-46.pdf",
    "señales": "Constitución",
-   "sectores": "Hoteles y turismo, Retail y operadores",
+   "sectores": "Hoteles y turismo",
    "sector_claro": "Sí",
    "prioridad": "C",
    "capital_constitucion": 3000.0,
@@ -8584,28 +8386,6 @@
    "web_borme": "",
    "texto": " Cambio de objeto social. 1.- La prestación de servicios de consultoría, asesoramiento y gestión de intereses en el ámbito deportivo, dirigidos a agencias de representación, clubes, federaciones y otras entidades del sector. Dichas actividades comprenden, entre otras: La realización de análisis y estudios de mercado sobre el. Datos registrales. S 8 , H V 225098, I/A 5 (23.10.26).",
    "clave": "MSS CRETA"
-  },
-  {
-   "fecha": "2026-10-30",
-   "provincia": "Valencia/València",
-   "empresa": "VERTIKA SOLUCIONES SOCIEDAD LIMITADA",
-   "num_acto": "488672",
-   "fuente_url": "https://www.boe.es/borme/dias/2026/10/30/pdfs/BORME-A-2026-210-46.pdf",
-   "señales": "Constitución",
-   "sectores": "Retail y operadores",
-   "sector_claro": "Sí",
-   "prioridad": "C",
-   "capital_constitucion": 5000.0,
-   "ampliacion": null,
-   "capital_resultante": null,
-   "objeto_social": ": a.- La rehabilitación, reforma, restauración, reparación, conservación y mantenimiento integral de edificios, viviendas, locales comerciales, naves e instalaciones de toda clase y, en particular, de fachadas, patios de luces, medianeras, cubiertas, tejados, terrazas y demás elementos comunes de co",
-   "domicilio": "C/ ERAS 13 (CHESTE)",
-   "socio_unico": "MORATALLA KIMBERLY GISBERT",
-   "socio_es_empresa": "",
-   "administradores": "Adm. Unico: GISBERT MORATALLA KIMBERLY",
-   "web_borme": "",
-   "texto": " Constitución. Comienzo de operaciones: 6.10.26. Objeto social: : a.- La rehabilitación, reforma, restauración, reparación, conservación y mantenimiento integral de edificios, viviendas, locales comerciales, naves e instalaciones de toda clase y, en particular, de fachadas, patios de luces, medianeras, cubiertas, tejados, terrazas y demás elementos comunes de co. Domicilio: C/ ERAS 13 (CHESTE). Capital: 5.000,00 Euros. Declaración de unipersonalidad. Socio único: MORATALLA KIMBERLY GISBERT. Nombramientos. Adm. Unico: GISBERT MORATALLA KIMBERLY. Datos registrales. S 8 , H V 238591, I/A 1 (23.10.26).",
-   "clave": "VERTIKA SOLUCIONES"
   },
   {
    "fecha": "2026-10-30",
