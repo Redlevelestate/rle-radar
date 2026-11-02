@@ -1,0 +1,68 @@
+name: Radar diario RLE
+
+on:
+  schedule:
+    - cron: "30 6 * * 1-5"   # 07:30 Madrid en invierno / 08:30 en verano, lunes a viernes
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: "Fecha AAAA-MM-DD (vacío = hoy)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          pip install -q pypdf
+
+      - name: Fecha
+        run: |
+          F="${{ github.event.inputs.fecha }}"
+          if [ -z "$F" ]; then F=$(TZ=Europe/Madrid date +%F); fi
+          echo "FECHA=$F" >> $GITHUB_ENV
+          mkdir -p "data/$F"
+
+      - name: BORME (espera hasta 60 min si aún no está publicado)
+        continue-on-error: true
+        run: |
+          for i in 1 2 3 4 5 6 7; do
+            python3 radar.py borme "$FECHA" "data/$FECHA/borme.json" | tee "data/$FECHA/borme.log"
+            if python3 -c "import json,sys;d=json.load(open('data/$FECHA/borme.json'));sys.exit(0 if d.get('pdfs',0)>0 else 1)"; then break; fi
+            [ $i -lt 7 ] && sleep 600
+          done
+
+      - name: BOE V-B (renovables)
+        continue-on-error: true
+        run: python3 radar.py boe5b "$FECHA" "data/$FECHA/renovables.json" | tee "data/$FECHA/boe5b.log"
+
+      - name: Plataforma de Contratación
+        continue-on-error: true
+        run: python3 radar.py placsp "$FECHA" "data/$FECHA/licitaciones.json" | tee "data/$FECHA/placsp.log"
+
+      - name: Prensa (RSS)
+        continue-on-error: true
+        run: python3 radar.py rss "$FECHA" "data/$FECHA/rss.json" | tee "data/$FECHA/rss.log"
+
+      - name: Guardar resultados
+        run: |
+          echo "$FECHA" > data/ultimo.txt
+          git config user.name "radar-rle"
+          git config user.email "radar-rle@users.noreply.github.com"
+          git add data
+          git commit -m "Radar $FECHA" || echo "sin cambios"
+          git pull --rebase -q || true
+          git push
