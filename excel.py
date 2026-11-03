@@ -331,9 +331,13 @@ def construir(out, registro, fecha):
         slug = re.sub(r"[^A-Za-z0-9]+", "_", ws_.title.replace("★", "")).strip("_")
         with open(f"{out}/csv/{slug}.csv", "w", newline="", encoding="utf-8") as fh:
             w = _csv.writer(fh)
-            for row in ws_.iter_rows(values_only=True):
-                if any(v not in (None, "") for v in row):
-                    w.writerow(["" if v is None else v for v in row])
+            for i, row in enumerate(ws_.iter_rows(values_only=True)):
+                if not any(v not in (None, "") for v in row):
+                    continue
+                # versión compacta: textos largos recortados; en BORME solo prioridad A y B (y la cabecera/nota)
+                if ws_.title.startswith("BORME") and row[0] not in ("A", "B") and i > 1:
+                    continue
+                w.writerow(["" if v is None else (v[:160] + "…" if isinstance(v, str) and len(v) > 160 else v) for v in row])
 
     # ---- registro actualizado
     for k in [f["clave"] for f in b] + [f["clave"] for f in r] + [f["clave"] for f in l] \

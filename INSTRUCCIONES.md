@@ -106,7 +106,7 @@ headhunter sin nombre de cliente, descártala). Campos: `empresa, sector, puesto
 4. **Entrega en Drive (carpeta principal `1RNgeJhabBqyb_xc10NKbWtZl0a7vJS3N`) — siempre como Google Sheets desde los CSV**, que es lo fiable:
    - Sube `out/csv/Para_contactar.csv` con título «Radar RLE · AAAA-MM-DD · Para contactar» (`textContent` con el CSV,
      `contentMimeType text/csv`, SIN `disableConversionToGoogleType`, para que se convierta en hoja de Google).
-   - Sube igual `out/csv/BORME_se_ales.csv` → «Radar RLE · AAAA-MM-DD · BORME» y `out/csv/Carta_f_sica.csv` → «… · Carta física».
+   - Sube igual `out/csv/BORME_se_ales.csv` (ya viene solo con prioridad A y B) → «Radar RLE · AAAA-MM-DD · BORME» y `out/csv/Carta_f_sica.csv` → «… · Carta física».
      Las demás hojas (Renovables, Licitaciones, Noticias, Empleo) solo si tienen filas.
    - Si un CSV es muy grande para una llamada (más de ~60.000 caracteres), sube solo las filas de prioridad A y B y dilo en el email.
    - Opcional: intenta además subir el .xlsx en base64; si falla, no es una alerta.
