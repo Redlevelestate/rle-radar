@@ -322,6 +322,18 @@ def construir(out, registro, fecha):
 
     nombre = f"Radar_RLE_{fecha}.xlsx"
     wb.save(f"{out}/{nombre}")
+    # Copia en CSV de cada hoja (texto: se sube a Drive como Google Sheet si el .xlsx no se puede subir)
+    import csv as _csv
+    os.makedirs(f"{out}/csv", exist_ok=True)
+    for ws_ in wb.worksheets:
+        if ws_.title == "Resumen":
+            continue
+        slug = re.sub(r"[^A-Za-z0-9]+", "_", ws_.title.replace("★", "")).strip("_")
+        with open(f"{out}/csv/{slug}.csv", "w", newline="", encoding="utf-8") as fh:
+            w = _csv.writer(fh)
+            for row in ws_.iter_rows(values_only=True):
+                if any(v not in (None, "") for v in row):
+                    w.writerow(["" if v is None else v for v in row])
 
     # ---- registro actualizado
     for k in [f["clave"] for f in b] + [f["clave"] for f in r] + [f["clave"] for f in l] \
