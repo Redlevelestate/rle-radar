@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-03",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (7)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "La oposición a los megacentros de datos se organiza en España",
+   "resumen": "Plataformas vecinales y organizaciones ecologistas de Aragón, Extremadura, Castilla y León y Madrid coordinan sus protestas contra la expansión de los centros de datos y reclaman una moratoria ante su impacto energético, hídrico y territorial.",
+   "url": "https://www.pv-magazine.es/2026/11/02/la-oposicion-a-los-megacentros-de-datos-se-organiza-en-espana/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Aena adjudica por 3,9 millones el proyecto solar de autoconsumo de 5 MW del Aeropuerto de Sevilla",
+   "resumen": "Aena ha adjudicado la construcción de una planta solar fotovoltaica de autoconsumo en el Aeropuerto de Sevilla a Acisa, por un importe de 3,9 millones de euros. La planta fotovoltaica se ubicará en los terrenos interiores del recinto aeroportuario sevillano, donde ocupará una superficie cercana a las cinco hectáreas.",
+   "url": "https://www.pv-magazine.es/2026/11/02/aena-adjudica-por-39-millones-el-proyecto-solar-de-autoconsumo-de-5-mw-del-aeropuerto-de-sevilla/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Luz verde ambiental a la modificación urbanística que permitirá instalar la gigafactoría de Gotion en Valladolid",
+   "resumen": "La gigafactoría de baterías de Gotion en Valladolid avanza con el visto bueno ambiental al cambio urbanístico de los terrenos.",
+   "url": "https://www.pv-magazine.es/2026/11/02/luz-verde-ambiental-a-la-modificacion-urbanistica-que-permitira-instalar-la-gigafactoria-de-gotion-en-valladolid/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Longi presenta un nuevo módulo back contact de 690 W y una eficiencia del 25,54 %",
+   "resumen": "El fabricante chino de módulos fotovoltaicos Longi ha presentado su nueva serie Hi-MO X12, basada en tecnología back contact integrada con una lámina conductora que sustituye las cintas soldadas convencionales por circuitos de lámina metálica. Según la compañía, este diseño elimina más de 15.000 posibles puntos de fallo en las uniones soldadas de cada módulo, mejora la capacidad de conducción de c",
+   "url": "https://www.pv-magazine.es/2026/11/02/longi-presenta-un-nuevo-modulo-back-contact-de-690-w-y-una-eficiencia-del-2554/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "BOE: nueve proyectos renovables con 235 MW FV, 155 MW BESS y 72 MW de hibridación durante la última semana de octubre",
+   "resumen": "El Boletín Oficial del Estado ha publicado, en la última semana de octubre, nueve proyectos renovables, entre los que destaca un proyecto fotovoltaico de 165 MW en Toledo.",
+   "url": "https://www.pv-magazine.es/2026/11/02/boe-nueve-proyectos-renovables-con-235-mw-fv-155-mw-bess-y-72-mw-de-hibridacion-durante-la-ultima-semana-de-octubre/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Uno de cada tres proyectos fotovoltaicos tramitados en octubre ya incorpora baterías",
+   "resumen": "En una nueva colaboración mensual, Sondeva reúne en exclusiva para pv magazine todos los proyectos fotovoltaicos, de hibridación y almacenamiento en tramitación en España el pasado mes, con los datos extraídos de todos los boletines oficiales. Octubre reúne trámites de 103 proyectos con almacenamiento en baterías, el triple que hace un año. La hibridación con plantas solares ya supera al almacenam",
+   "url": "https://www.pv-magazine.es/2026/11/02/uno-de-cada-tres-proyectos-fotovoltaicos-tramitados-en-octubre-ya-incorpora-baterias/",
+   "fecha": "2026-11-02"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tona licita la construcción de una pérgola fotovoltaica de 100 kW en la Escuela L’Era de Dalt",
+   "resumen": "El Ayuntamiento de Tona (Barcelona) ha publicado la licitación para el «Proyecto básico y ejecutivo para la construcción de una pérgola fotovoltaica sobre la pista del patio de la Escuela municipal L'Era de Dalt». El contrato cuenta con un presupuesto total de licitación de 613.103 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/02/tona-licita-la-construccion-de-una-pergola-fotovoltaica-de-100-kw-en-la-escuela-lera-de-dalt/",
+   "fecha": "2026-11-02"
+  }
+ ]
+}
