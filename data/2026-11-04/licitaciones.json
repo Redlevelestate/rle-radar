@@ -1,0 +1,64 @@
+{
+ "fecha": "2026-11-04",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1459,
+ "filas": [
+  {
+   "fecha": "2026-11-04",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "EDHINOR, S.A.",
+   "nif": "A28695021",
+   "objeto": "Obras de acondicionamiento general de plantas bajo rasante en edificio de oficinas situado en el Paseo de la Castellana, 147 de Madrid, propiedad del Consorcio de Compensación de Seguros.",
+   "organo": "Consorcio de Compensación de Seguros",
+   "lugar": "Madrid",
+   "importe_licitacion": 3988633.98,
+   "importe_adjudicacion": 3197289.12,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3JZNyE3KBSCAAM7L03kM8A%3D%3D",
+   "clave": "EDHINOR"
+  },
+  {
+   "fecha": "2026-11-04",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "Imesapi S.A.",
+   "nif": "A28010478",
+   "objeto": "Redacción del Proyecto (incluyendo la dirección de obras superior y técnica) y la construcción de la obra “Rehabilitación de las casas de asociaciones y otros. Corredor colectivo, dentro de la escuela de gimnasia de Toledo”.\r\nEn base a la resolución de la línea 2 de la convocatoria de ayudas para la rehabilitación de edificios de titularidad pública",
+   "organo": "Junta de Gobierno del Ayuntamiento de Toledo",
+   "lugar": "Toledo",
+   "importe_licitacion": 2799895.58,
+   "importe_adjudicacion": 2459148.29,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=v9O9QEKf3Vg36J9Lctlsuw%3D%3D",
+   "clave": "IMESAPI"
+  },
+  {
+   "fecha": "2026-11-04",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "TAIS MARTÍNEZ CASADO",
+   "nif": "***5898**",
+   "objeto": "Enajenación de las parcelas resultantes, propiedad del Ayuntamiento de Villaquilambre, 25 y 27 del Sector SAU 20.1, sitas en Villarrodrigo de las Regueras.",
+   "organo": "Junta de Gobierno del Ayuntamiento de Villaquilambre",
+   "lugar": "León",
+   "importe_licitacion": 80636.1,
+   "importe_adjudicacion": 41000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=A9c30PLnGOFQFSeKCRun4Q%3D%3D",
+   "clave": "TAIS MARTINEZ CASADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "SEGUNDO ANDRES SERRANO",
+   "nif": "***2772**",
+   "objeto": "Enajenación de las parcelas resultantes, propiedad del Ayuntamiento de Villaquilambre, 25 y 27 del Sector SAU 20.1, sitas en Villarrodrigo de las Regueras.",
+   "organo": "Junta de Gobierno del Ayuntamiento de Villaquilambre",
+   "lugar": "León",
+   "importe_licitacion": 80636.1,
+   "importe_adjudicacion": 42000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=A9c30PLnGOFQFSeKCRun4Q%3D%3D",
+   "clave": "SEGUNDO ANDRES SERRANO"
+  }
+ ]
+}

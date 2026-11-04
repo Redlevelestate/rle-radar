@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-04",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (7)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Castilla y León tramita un complejo de hidrógeno verde y e-SAF de más de 632 millones en El Bayo",
+   "resumen": "La Junta de Castilla y León tramita el proyecto Compostilla Green, que contempla un complejo de 250 MW de capacidad de electrólisis y una inversión superior a 632 millones de euros para producir hidrógeno renovable y combustible sostenible de aviación (e-SAF) en Cubillos del Sil (León). La planta prevé cargar diariamente hasta siete camiones cisterna de e-SAF y dos de nafta.",
+   "url": "https://www.pv-magazine.es/2026/11/03/castilla-y-leon-tramita-un-complejo-de-hidrogeno-verde-y-e-saf-de-mas-de-632-millones-en-el-bayo/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Envision afirma haber desarrollado la primera arquitectura de 800 V CC para un centro de datos de IA",
+   "resumen": "Se trata de un sistema integrado que combina un transformador de estado sólido y almacenamiento en baterías, desplegado en un centro de datos de IA en China. La arquitectura de 800 V CC permite aumentar la potencia de computación dentro de la misma superficie física.",
+   "url": "https://www.pv-magazine.es/2026/11/03/envision-afirma-haber-desarrollado-la-primera-arquitectura-de-800-v-cc-para-un-centro-de-datos-de-ia/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Hanwha Q-Cells se centrará en investigación y desarrollo en Europa tras su reestructuración",
+   "resumen": "Q-Cells rechaza tajantemente los actuales rumores del mercado que apuntan a que la empresa fotovoltaica podría cesar próximamente sus operaciones en Europa. Sí habrá una reorientación y una concentración en el negocio principal en Europa, según explicó un portavoz a pv magazine.",
+   "url": "https://www.pv-magazine.es/2026/11/03/hanwha-q-cells-se-centrara-en-investigacion-y-desarrollo-en-europa-tras-su-reestructuracion/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La fotovoltaica reduce en 17.021 millones de euros el coste de la electricidad en España en 18 meses",
+   "resumen": "Un estudio de UNEF estima que, sin la aportación solar, el precio medio del mercado diario habría alcanzado 112 €/MWh frente a los 60,2 €/MWh registrados, mientras que el autoconsumo habría generado 2.791 millones de euros de ahorro adicional.",
+   "url": "https://www.pv-magazine.es/2026/11/03/la-fotovoltaica-reduce-en-17-021-millones-de-euros-el-coste-de-la-electricidad-en-espana-en-18-meses/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Un grupo alimentario completa en León una instalación fotovoltaica con baterías de 1,26 MW  / 1,8 MWh",
+   "resumen": "Hijolusa elevará su capacidad fotovoltaica hasta 1,26 MWp, incorporando 1.800 kWh de almacenamiento y un sistema de respaldo de 1.000 kVA capaz, según la compañía, de garantizar el suministro al 100% de la planta. El proyecto renovable cuenta con una inversión de 1,3 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/03/un-grupo-alimentario-completa-en-leon-una-instalacion-fotovoltaica-con-baterias-de-126-mw-18-mwh/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Bilbao licita la instalación de tres sistemas de almacenamiento BESS en los mercados del Ensanche y Otxarkoaga",
+   "resumen": "Bilbao Zerbitzuak ha publicado la licitación para la instalación de tres sistemas de almacenamiento energético mediante baterías en los mercados del Ensanche y Otxarkoaga, en Bilbao. El contrato cuenta con un presupuesto de licitación de 214.747 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/03/bilbao-licita-la-instalacion-de-tres-sistemas-de-almacenamiento-bess-en-los-mercados-del-ensanche-y-otxarkoaga/",
+   "fecha": "2026-11-03"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de empresas: Greenyellow, Holaluz, Alterna, Finlight",
+   "resumen": "Greenyellow adquiere el 100 % de Getting Greener, Holaluz reduce un 40 % sus pérdidas en el primer semestre, Alterna Energía alcanza 1 GW en contratos O&#38;M, y Finlight elige a Pontio como socio exclusivo para financiar el autoconsumo residencial.",
+   "url": "https://www.pv-magazine.es/2026/11/03/anuncios-de-empresas-greenyellow-holaluz-alterna-finlight/",
+   "fecha": "2026-11-03"
+  }
+ ]
+}
