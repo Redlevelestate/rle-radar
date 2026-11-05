@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-05",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (7)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "El Servicio Andaluz de Salud licita el contrato de oficina técnica de 4,78 MW FV en 80 centros",
+   "resumen": "El Servicio Andaluz de Salud (SAS) ha publicado la licitación para la redacción de proyectos, dirección facultativa y coordinación de seguridad y salud para la implantación de instalaciones solares fotovoltaicas de autoconsumo en centros sanitarios de la provincia de Jaén. El contrato, que se divide en 80 lotes, cuenta con un presupuesto total de licitación de 474.498 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/05/el-servicio-andaluz-de-salud-licita-el-contrato-de-oficina-tecnica-de-478-mw-fv-en-80-centros/",
+   "fecha": "2026-11-05"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Endesa y Masdar construyen 120 MWh de baterías para hibridar tres plantas fotovoltaicas en España",
+   "resumen": "Endesa ha iniciado la construcción de tres sistemas de almacenamiento con baterías LFP que sumarán 60,16 MW y 120,34 MWh y se integrarán con plantas fotovoltaicas existentes en Extremadura y Andalucía. Los proyectos, basados en tecnología grid-forming, movilizarán una inversión conjunta de 25,2 millones de euros y está previsto que entren en operación a finales de 2027.",
+   "url": "https://www.pv-magazine.es/2026/11/04/endesa-y-masdar-construyen-120-mwh-de-baterias-para-hibridar-tres-plantas-fotovoltaicas-en-espana/",
+   "fecha": "2026-11-04"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Almansa instala una planta fotovoltaica de 600 kW en el hospital general",
+   "resumen": "El Hospital General de Almansa (Albacete) ha puesto en marcha un plan integral de eficiencia energética cofinanciado por Fondos FEDER que contempla la instalación fotovoltaica de 600 kWp, la sustitución de su parque de calderas por bombas de calor y la implantación de iluminación LED para optimizar el rendimiento de sus 22.000 m² operativamente ininterrumpidos. El hospital prevé recortar cerca de ",
+   "url": "https://www.pv-magazine.es/2026/11/04/almansa-instala-una-planta-fotovoltaica-de-600-kw-en-el-hospital-general/",
+   "fecha": "2026-11-04"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Huawei prevé subidas de hasta el 15% en los precios de equipos de almacenamiento",
+   "resumen": "Huawei Digital Power prevé aumentar entre un 5% y un 15% los precios de sus productos solares y de almacenamiento de energía para los segmentos residencial, comercial y de servicios públicos, debido al incremento de los costes del cobre, las placas de circuito impreso y los componentes electrónicos.",
+   "url": "https://www.pv-magazine.es/2026/11/04/huawei-preve-subidas-de-hasta-el-15-en-los-precios-de-equipos-de-almacenamiento/",
+   "fecha": "2026-11-04"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La fotovoltaica baja al 3er puesto del mix en octubre, detrás de nuclear y ciclos combinados",
+   "resumen": "No obstante, la generación renovable aportó durante el décimo mes del año un 48,4% del mix de generación, un porcentaje que asciende a 49,9% si se tiene en cuenta el autoconsumo.",
+   "url": "https://www.pv-magazine.es/2026/11/04/la-fotovoltaica-baja-al-3er-puesto-del-mix-en-octubre-detras-de-nuclear-y-ciclos-combinados/",
+   "fecha": "2026-11-04"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Polonia pone en marcha las subastas de renovables de 2026",
+   "resumen": "Las subastas para proyectos fotovoltaicos y eólicos terrestres se celebrarán los días 9 y 10 de noviembre y estarán divididas en dos categorías de potencia: instalaciones de hasta 1 MW y aquellas de más de 1 MW.",
+   "url": "https://www.pv-magazine.es/2026/11/04/polonia-pone-en-marcha-las-subastas-de-renovables-de-2026/",
+   "fecha": "2026-11-04"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tramitan un centro de datos de 1.225 millones y 144 MW IT vinculado a 458 MW renovables en Botorrita",
+   "resumen": "El proyecto, promovido por Merlín Properties en Zaragoza, contempla una demanda eléctrica garantizada de 227,4 MW y un esquema de autoconsumo con excedentes asociado a instalaciones renovables conectadas a las subestaciones María y Los Vientos. La inversión total prevista asciende a 1.225 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/04/tramitan-un-centro-de-datos-de-1-225-millones-y-144-mw-it-vinculado-a-458-mw-renovables-en-botorrita/",
+   "fecha": "2026-11-04"
+  }
+ ]
+}

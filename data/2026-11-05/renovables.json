@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-11-05",
+ "estado": "ok",
+ "anuncios": 1,
+ "filas": [
+  {
+   "fecha": "2026-11-05",
+   "id_boe": "BOE-B-2026-36166",
+   "titulo": "Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Salamanca por el que se somete a información pública la solicitud de declaración de impacto ambiental (DIA) y autorización administrativa previa (AAP) del proyecto del módulo eólico Santiz I, de 49 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la planta híbrida Solaria-Santiz I, formada por un módulo fotovoltaico de 49,989 MW y un módulo de almacenamiento de energ",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Eólica, Almacenamiento/BESS",
+   "potencia": "49 MW",
+   "provincia": "Salamanca",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36166",
+   "clave": ""
+  }
+ ]
+}

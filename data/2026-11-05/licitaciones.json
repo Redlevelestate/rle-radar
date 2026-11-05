@@ -1,0 +1,64 @@
+{
+ "fecha": "2026-11-05",
+ "estado": "ok",
+ "paginas": 4,
+ "entradas_leidas": 1577,
+ "filas": [
+  {
+   "fecha": "2026-11-05",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "PAVASAL EMPRESA CONSTRUCTORA, S.A.",
+   "nif": "A46015129",
+   "objeto": "Obras contenidas en el Proyecto de reurbanización del ERRP Barrio Virgen del Remedio de Alicante, dentro del Plan de Recuperación, Transformación y Resiliencia, Gobierno de España",
+   "organo": "Junta de Gobierno Local del Ayuntamiento de Alicante",
+   "lugar": "Alicante/Alacant",
+   "importe_licitacion": 3762646.18,
+   "importe_adjudicacion": 2995000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IHM5l9%2F0z4c36J9Lctlsuw%3D%3D",
+   "clave": "PAVASAL EMPRESA CONSTRUCTORA"
+  },
+  {
+   "fecha": "2026-11-05",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "ESFOR PROJECT MANAGER SL",
+   "nif": "B44201218",
+   "objeto": "Ejecución de obras de 12 viviendas en Albarracín",
+   "organo": "Suelo y Vivienda de Aragón, S.L.U.",
+   "lugar": "Teruel",
+   "importe_licitacion": 2100000.0,
+   "importe_adjudicacion": 1979000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9nOhzxupcgj%2Fa9DgO%2BoYKQ%3D%3D",
+   "clave": "ESFOR PROJECT MANAGER"
+  },
+  {
+   "fecha": "2026-11-05",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "UTE Edificio Ferroviario Santander",
+   "nif": "U88878954",
+   "objeto": "Obras del proyecto de ejecución de edificio ferroviario de oficinas en Santander",
+   "organo": "ADIF -Consejo de Administración",
+   "lugar": "",
+   "importe_licitacion": 24420584.95,
+   "importe_adjudicacion": 20332579.02,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=O5NP41xYIQjL1rX3q%2FMAPA%3D%3D",
+   "clave": "UTE EDIFICIO FERROVIARIO SANTANDER"
+  },
+  {
+   "fecha": "2026-11-05",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "UTE Dragados Sa-tecsa Empresa Constructora Sa- Siecsa Construccion Y Servicios SA",
+   "nif": "331994",
+   "objeto": "Obras del proyecto de ejecución de edificio ferroviario de oficinas en Santander",
+   "organo": "ADIF -Consejo de Administración",
+   "lugar": "",
+   "importe_licitacion": 24420584.95,
+   "importe_adjudicacion": 20332579.02,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=O5NP41xYIQjL1rX3q%2FMAPA%3D%3D",
+   "clave": "UTE DRAGADOS TECSA EMPRESA CONSTRUCTORA SIECSA CONSTRUCCION Y SERVICIOS"
+  }
+ ]
+}
