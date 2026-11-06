@@ -1,0 +1,22 @@
+{
+ "fecha": "2026-11-06",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1177,
+ "filas": [
+  {
+   "fecha": "2026-11-06",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "ABALA INFRAESTRUCTURAS, S.L.",
+   "nif": "B73939472",
+   "objeto": "Ejecución de las obras de reforma integral del Edificio CIE II, sede de la Agencia de Transformación Digital de Castilla-La Mancha, para su adecuación a uso de oficinas y mejora de la eficiencia energética.",
+   "organo": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "lugar": "Toledo",
+   "importe_licitacion": 13978753.15,
+   "importe_adjudicacion": 12147536.49,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UVbRBe8yXv6Izo3LHNPGcQ%3D%3D",
+   "clave": "ABALA INFRAESTRUCTURAS"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "fecha": "2026-11-06",
+ "estado": "ok",
+ "anuncios": 3,
+ "filas": [
+  {
+   "fecha": "2026-11-06",
+   "id_boe": "BOE-B-2026-36301",
+   "titulo": "Anuncio de la Dependencia del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en Soria, por el que se somete a Información Pública la solicitud de Autorización Administrativa Previa y Autorización Administrativa de Construcción del proyecto de \"Módulo de Hibridación por Baterías (30 MW de potencia instalada) de la Planta Fotovoltaica existente OPDE Trévago 2 (34,8 MW de potencia instalada) y de su infraestructura de evacuación\", promovido por la entidad Planta Solar OPDE 4",
+   "promotor": "Planta Solar OPDE 47 S.L.U",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "30 MW",
+   "provincia": "Soria",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36301",
+   "clave": "PLANTA SOLAR OPDE 47"
+  },
+  {
+   "fecha": "2026-11-06",
+   "id_boe": "BOE-B-2026-36324",
+   "titulo": "Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Andalucía por el que se somete a información pública, la solicitud de autorización administrativa previa y autorización administrativa de construcción para el módulo de almacenamiento por baterías BESS Prisca, de 42 MW de potencia instalada, para su hibridación con el parque solar fotovoltaico existente Prisca, de 49,45 MW, en la provincia de Cádiz. Expdte. PFot-ALM-235.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "42 MW",
+   "provincia": "Andalucía",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36324",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-06",
+   "id_boe": "BOE-B-2026-36327",
+   "titulo": "Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Murcia, por el que se somete al trámite de información pública la solicitud de Autorización Administrativa Previa (AAP) y de Autorización Administrativa de Construcción (AAC) para el módulo por baterías BAT Peñarrubia de 40,500 MW, para su hibridación con la planta fotovoltaica FV Peñarrubia de 44,681 MW en el término municipal de Yecla, provincia de Murcia. Expediente PFot-ALM-179.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "40,500 MW",
+   "provincia": "Murcia",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36327",
+   "clave": ""
+  }
+ ]
+}

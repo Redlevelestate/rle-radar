@@ -1,0 +1,58 @@
+{
+ "fecha": "2026-11-06",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (6)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Mancomunidad de Aguas de Monegros licita 268 kWp fotovoltaicos y 1.075 kWh de almacenamiento",
+   "resumen": "La actuación contempla dos nuevas instalaciones solares en la estación de bombeo de San Mateo de Gállego y la depuradora de Leciñena, con 570 módulos de 470 Wp y cinco sistemas de baterías de 215 kWh. El contrato cuenta con un presupuesto de licitación de 517.510 euros y financiación del Fondo Europeo de Desarrollo Regional (FEDER).",
+   "url": "https://www.pv-magazine.es/2026/11/06/la-mancomunidad-de-aguas-de-monegros-licita-268-kwp-fotovoltaicos-y-1-075-kwh-de-almacenamiento/",
+   "fecha": "2026-11-06"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Guardia Civil de Pamplona activa una comunidad energética de 130 kW",
+   "resumen": "La Comunidad Energética Local Ensanche Pamplona finaliza la instalación de una planta fotovoltaica de 130 kW en cubiertas cedidas por la Guardia Civil en el centro urbano. El proyecto, integrado por 220 paneles solares repartidos en 653 m², suministrará energía en modalidad de autoconsumo compartido a 260 comercios y familias en un radio de 5 km.",
+   "url": "https://www.pv-magazine.es/2026/11/05/la-guardia-civil-de-pamplona-activa-una-comunidad-energetica-de-130-kw/",
+   "fecha": "2026-11-05"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de proyectos: BNZ, Greenvolt, Alter Enersun y Opengy",
+   "resumen": "BNZ, Greenvolt y Alter Enersun amplían sus proyectos de almacenamiento y generación fotovoltaica en Italia, Japón y España. Entre los nuevos desarrollos destacan 216 MWh de BESS híbridos en Italia, los primeros 8 MWh de almacenamiento de Greenvolt en Japón y una cartera fotovoltaica de 564 MWp de Alter Enersun en Italia.",
+   "url": "https://www.pv-magazine.es/2026/11/05/anuncios-de-proyectos-bnz-greenvolt-alter-enersun-y-opengy/",
+   "fecha": "2026-11-05"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Revolta instala en Alemania su primera batería residencial de iones de sodio de 10 kWh",
+   "resumen": "La startup alemana ha puesto en servicio su primer sistema para un cliente en una ubicación poco habitual y prevé realizar nuevas instalaciones piloto en distintos puntos de Alemania durante las próximas semanas.",
+   "url": "https://www.pv-magazine.es/2026/11/05/revolta-instala-en-alemania-su-primera-bateria-residencial-de-iones-de-sodio-de-10-kwh/",
+   "fecha": "2026-11-05"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Aragón autoriza la Fase 4B de Stellantis Figueruelas con 28 MW eólicos y 15 MW BESS",
+   "resumen": "La Dirección General de Energía y Minas de Aragón ha otorgado la autorización administrativa previa y de construcción para la ampliación del complejo de autoconsumo hibridado de Stellantis en Figueruelas, un proyecto con una inversión conjunta de 22,8 millones de euros que añadirá cuatro aerogeneradores Nordex de 7 MW y un sistema de baterías BESS de 30,9 MWh. La potencia total proyectada para el ",
+   "url": "https://www.pv-magazine.es/2026/11/05/aragon-autoriza-la-fase-4b-de-stellantis-figueruelas-con-28-mw-eolicos-y-15-mw-bess/",
+   "fecha": "2026-11-05"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "¿Qué hay que revisar en un BESS para que siga funcionando y asegurado dentro de diez años?",
+   "resumen": "Muchas baterías que se venden hoy tienen las celdas certificadas, pero el sistema completo nunca se ha ensayado ni cumple los estándares requeridos por la normativa. Esa diferencia no aparece de forma clara en la ficha técnica. Pero las aseguradoras sí la miran, y puede dejar la instalación sin cobertura. Y la administración sin legalización. Para evitar problemas con una batería hay que elegir má",
+   "url": "https://www.pv-magazine.es/2026/11/05/que-hay-que-revisar-en-un-bess-para-que-siga-funcionando-y-asegurado-dentro-de-diez-anos/",
+   "fecha": "2026-11-05"
+  }
+ ]
+}
