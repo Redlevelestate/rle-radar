@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-10",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (7)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Portugal abre dos concursos para asignar 1.050 MVA de capacidad de red a proyectos con baterías",
+   "resumen": "Hasta el 22 de diciembre estarán abiertos en Portugal dos procedimientos competitivos para asignar hasta 1.050 MVA de capacidad de conexión a proyectos de almacenamiento: 750 MVA para sistemas de almacenamiento autónomo y 300 MVA para instalaciones renovables con almacenamiento colocalizado.",
+   "url": "https://www.pv-magazine.es/2026/11/09/portugal-abre-dos-concursos-para-asignar-1-050-mva-de-capacidad-de-red-a-proyectos-con-baterias/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Un VPPA híbrido cubre el 14% de la generación de 1,3 GWp solar y 300 MW eólicos en Rumanía",
+   "resumen": "El acuerdo, de 10 años y 370 GWh anuales, combina por primera vez en un mismo VPPA los proyectos Dama Solar y Dunarea East, cuya producción conjunta prevista alcanza 2.580 GWh/año.",
+   "url": "https://www.pv-magazine.es/2026/11/09/un-vppa-hibrido-cubre-el-14-de-la-generacion-de-13-gwp-solar-y-300-mw-eolicos-en-rumania/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Empresas españolas en LatAm: luz verde en México a Iberdrola y Cox para 435,8 MW fotovoltaicos y 121,8 MW/360 MWh BESS",
+   "resumen": "Cuatro proyectos fotovoltaicos promovidos por empresas vinculadas a grupos españoles suman 434,8 MWac de generación y 117,19 MW/360,05 MWh de almacenamiento en México. Green Park Energy desarrollará tres instalaciones en Aguascalientes, Jalisco y Guanajuato, mientras Viva el Sol F1 promoverá una cuarta en Coahuila.",
+   "url": "https://www.pv-magazine.es/2026/11/09/empresas-espanolas-en-latam-luz-verde-en-mexico-a-iberdrola-y-cox-para-4358-mw-fotovoltaicos-y-1218-mw-360-mwh-bess/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "SolarEdge sale del mercado australiano",
+   "resumen": "SolarEdge abandona el mercado australiano y ha comunicado a los instaladores que dejará de realizar directamente sus actividades comerciales y operativas locales con efecto inmediato.",
+   "url": "https://www.pv-magazine.es/2026/11/09/solaredge-sale-del-mercado-australiano/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Castilla y León autoriza una planta fotovoltaica de 725 kW para autoconsumo en el Hospital General de Segovia",
+   "resumen": "Este proyecto, que cuenta con un plazo de ejecución de seis meses, contempla 1.273 módulos fotovoltaicos que generarán 744,71 kWp, ocho inversores y un dispositivo antivertido. Se trata de una instalación valorada en más de 960.000 euros, con apoyo de los fondos FEDER.",
+   "url": "https://www.pv-magazine.es/2026/11/09/castilla-y-leon-autoriza-una-planta-fotovoltaica-de-725-kw-para-autoconsumo-en-el-hospital-general-de-segovia/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Capital Energy abandona su 3º campus de datos en Aragón y vende sus 150 MW a Blackstone ante protestas en la región",
+   "resumen": "Box2Bit, filial de Capital Energy, abandona el proyecto Epilon en Épila y transfiere a Blackstone los 150 MW de capacidad para el campus de Calatorao, que prevé alcanzar 430 MW de potencia IT y una inversión superior a 13.000 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/09/capital-energy-abandona-su-3o-campus-de-datos-en-aragon-y-vende-sus-150-mw-a-blackstone-ante-protestas-en-la-region/",
+   "fecha": "2026-11-09"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "BOE: nueve proyectos renovables con 220 MW FV, 132 MW BESS y 82 MW de hibridación durante la primera semana de noviembre",
+   "resumen": "El Boletín Oficial del Estado ha publicado en la primera semana de noviembre nueve proyectos renovables, entre los que destaca una hibridación de 120 MW de fotovoltaica con el grupo 3 de la central hidráulica existente de Azután, en Toledo.",
+   "url": "https://www.pv-magazine.es/2026/11/09/boe-nueve-proyectos-renovables-con-220-mw-fv-132-mw-bess-y-82-mw-de-hibridacion-durante-la-primera-semana-de-noviembre/",
+   "fecha": "2026-11-09"
+  }
+ ]
+}
