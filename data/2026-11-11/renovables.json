@@ -1,0 +1,43 @@
+{
+ "fecha": "2026-11-11",
+ "estado": "ok",
+ "anuncios": 3,
+ "filas": [
+  {
+   "fecha": "2026-11-11",
+   "id_boe": "BOE-B-2026-36883",
+   "titulo": "Resolución de la Presidencia de la Autoridad Portuaria de Baleares por la que se anuncia el otorgamiento de una concesión para la gestión de un centro de almacenamiento y distribución de cemento en el arranque del dique de abrigo, en el puerto de Alcúdia (GSP-193).",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36883",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-11",
+   "id_boe": "BOE-B-2026-36894",
+   "titulo": "Anuncio del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en A Coruña, por el que se somete, al trámite de Información Pública (IP), la solicitud de autorización administrativa previa (AAP) y el estudio de impacto ambiental (EsIA) del parque eólico «Bátega», de 36 MW de potencia instalada, para su hibridación con la central hidroeléctrica «Belesar-Grupo 3», y de una parte de su infraestructura de evacuación asociada, en los términos municipales de Carballedo y Chantada, ",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Eólica, Almacenamiento/BESS",
+   "potencia": "36 MW",
+   "provincia": "A Coruña",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36894",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-11",
+   "id_boe": "BOE-B-2026-36911",
+   "titulo": "Anuncio de los Servicios Territoriales del Departamento de Territorio, Vivienda y Transición Ecológica en Lleida, por el que se hace pública la convocatoria para la redacción de las actas previas a la ocupación de los bienes y/o derechos afectados por el procedimiento de expropiación derivado de la ejecución del proyecto de la infraestructura de evacuación, líneas soterradas a 25 kV y la LAT subterránea a 25KV, de la planta solar fotovoltaica denominada 22CER, de 4,5 MW, sobre terreno en suelo n",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "4,5 MW",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36911",
+   "clave": ""
+  }
+ ]
+}

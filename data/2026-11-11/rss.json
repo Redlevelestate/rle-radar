@@ -1,0 +1,37 @@
+{
+ "fecha": "2026-11-11",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (3)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Las renovables evitan a España 26.000 millones de dólares en importaciones de gas hasta 2024",
+   "resumen": "La IEA reclama más almacenamiento, redes y electrificación para integrar las renovables de España, que evitaron 26.000 millones de dólares en costes de importación de gas entre 2011 y 2024.",
+   "url": "https://www.pv-magazine.es/2026/11/10/las-renovables-evitan-a-espana-26-000-millones-de-dolares-en-importaciones-de-gas-hasta-2024/",
+   "fecha": "2026-11-10"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "España prepara un nuevo sistema de garantías de origen para gases renovables e hipocarbónicos",
+   "resumen": "El MITECO propone un nuevo procedimiento para gestionar las garantías de origen de gases renovables e hipocarbónicos, que ampliará la información asociada a cada garantía e incorporará datos de sostenibilidad, reducción de emisiones, origen del gas y sector de consumo.",
+   "url": "https://www.pv-magazine.es/2026/11/10/espana-prepara-un-nuevo-sistema-de-garantias-de-origen-para-gases-renovables-e-hipocarbonicos/",
+   "fecha": "2026-11-10"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Barcelona licita una instalación fotovoltaica de autoconsumo en la cubierta del mercado de La Guineueta",
+   "resumen": "El Institut Municipal de Mercats de Barcelona ha publicado la licitación para la ejecución de una instalación fotovoltaica de 60 kW. El plazo de presentación de ofertas finaliza el 25 de noviembre de 2026, con un presupuesto base de licitación que asciende a 174.531 euros y un plazo de ejecución de 18 semanas.",
+   "url": "https://www.pv-magazine.es/2026/11/10/barcelona-licita-una-instalacion-fotovoltaica-de-autoconsumo-en-la-cubierta-del-mercado-de-la-guineueta/",
+   "fecha": "2026-11-10"
+  }
+ ]
+}
