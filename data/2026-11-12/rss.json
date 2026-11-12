@@ -1,0 +1,44 @@
+{
+ "fecha": "2026-11-12",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (4)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Autorizan una instalación eólica-fotovoltaica de 27 MW para una planta de hidrógeno verde en Palencia",
+   "resumen": "Castilla y León ha autorizado a Univergy la construcción de 13,73 MWp fotovoltaicos y 13,2 MW eólicos para el autoconsumo de una planta de electrólisis de 10 MW ubicada en Villamuriel de Cerrato. El proyecto de hidrógeno verde contempla una segunda fase de 300 MW de electrólisis.",
+   "url": "https://www.pv-magazine.es/2026/11/11/autorizan-una-instalacion-eolica-fotovoltaica-de-27-mw-para-una-planta-de-hidrogeno-verde-en-palencia/",
+   "fecha": "2026-11-11"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Lunas Energy ofrece hasta 20.000 euros/MWp a propietarios de plantas solares en España",
+   "resumen": "Lunas Energy ofrece a propietarios de plantas solares operativas en España un incentivo de hasta 20.000 euros/MWp para incorporar baterías detrás de sus conexiones existentes mediante el programa Merchant Plus. La oferta inicial se limita a 250 MWp de capacidad.",
+   "url": "https://www.pv-magazine.es/2026/11/11/lunas-energy-ofrece-hasta-20-000-euros-mwp-a-propietarios-de-plantas-solares-en-espana/",
+   "fecha": "2026-11-11"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Más del 90 % de la cadena de suministro solar de China registra pérdidas, según la IEA",
+   "resumen": "La Agencia Internacional de la Energía (IEA) señala que, pese a la consolidación del sector y al crecimiento de la fabricación en otras regiones, las cadenas de suministro solares seguirán estando muy concentradas en China hasta 2031, especialmente en la producción de polisilicio y obleas.",
+   "url": "https://www.pv-magazine.es/2026/11/11/mas-del-90-de-la-cadena-de-suministro-solar-de-china-registra-perdidas-segun-la-iea/",
+   "fecha": "2026-11-11"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Almendral licita un proyecto fotovoltaico con baterías de 40 kW / 80 kWh para la biblioteca municipal",
+   "resumen": "El Ayuntamiento de Almendral (Badajoz) ha publicado la licitación para la ejecución de una planta fotovoltaica de autoconsumo colectivo con acumulación en la biblioteca municipal. El plazo de presentación de ofertas finaliza el 31 de noviembre de 2026, con un presupuesto base de licitación que asciende a 128.199 euros y un plazo de ejecución de dos meses.",
+   "url": "https://www.pv-magazine.es/2026/11/11/almendral-licita-un-proyecto-fotovoltaico-con-baterias-de-40-kw-80-kwh-para-la-biblioteca-municipal/",
+   "fecha": "2026-11-11"
+  }
+ ]
+}

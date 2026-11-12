@@ -1,0 +1,22 @@
+{
+ "fecha": "2026-11-12",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1134,
+ "filas": [
+  {
+   "fecha": "2026-11-12",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "OBRAS GENERALES DEL NORTE, S.A.",
+   "nif": "A33208505",
+   "objeto": "Construcción de un edificio destinado a unidad de convivencia para personas mayores bajo la estrategia Cuidas en el Municipio de Peñamellera Baja cofinanciado por la Unión Europea, con fondos NextGenerationEU, procedentes del Mecanismo de Recuperación y Resiliencia ( en adelante, MRR) a través de la Consejería de Derechos Sociales y Bienestar del Principado de Asturias.",
+   "organo": "Pleno del Ayuntamiento de Peñamellera Baja",
+   "lugar": "Asturias",
+   "importe_licitacion": 1666011.66,
+   "importe_adjudicacion": 1666007.53,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bwAUl3gzjbeLAncw3qdZkA%3D%3D",
+   "clave": "OBRAS GENERALES DEL NORTE"
+  }
+ ]
+}

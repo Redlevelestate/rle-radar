@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-11-12",
+ "estado": "ok",
+ "anuncios": 2,
+ "filas": [
+  {
+   "fecha": "2026-11-12",
+   "id_boe": "BOE-B-2026-36983",
+   "titulo": "Anuncio de la Delegación del Gobierno en Madrid, por el que se establece la modificación de la convocatoria del levantamiento de actas previas a la ocupación y, si procediera, formalización de las actas de ocupación en el Ayuntamiento de Nuevo Baztán, correspondiente al procedimiento de expropiación forzosa para la ejecución del proyecto \"instalación fotovoltaica Quilla Solar, de 51,04 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Nuevo Baztán, Valv",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "51,04 MW",
+   "provincia": "Madrid",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36983",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-12",
+   "id_boe": "BOE-B-2026-36985",
+   "titulo": "Resolución de la Delegación del Gobierno en la Comunitat Valenciana por la que se convoca el levantamiento de actas previas a la ocupación en el expediente de expropiación forzosa de los bienes y derechos afectados por las obras del proyecto de Línea Aérea de Alta Tensión de transporte de energía eléctrica en 400 kV simple circuito de conexión desde \"SE2-Valle Solar\" hasta \"SE1-Colectora Ayora\", en el término municipal de Zarra, en la provincia de Valencia.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "192 MW",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36985",
+   "clave": ""
+  }
+ ]
+}
