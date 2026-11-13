@@ -1,0 +1,22 @@
+{
+ "fecha": "2026-11-13",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1107,
+ "filas": [
+  {
+   "fecha": "2026-11-13",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "EURO ELECTRODOMESTICOS EXTREMADURA, S.L.",
+   "nif": "B10208965",
+   "objeto": "Enajenación de solar municipal. Calle Gravina. Parcela 9 B, subsector S2-B. Referencia Catastral: 3117019QC3731N0001HM",
+   "organo": "Alcaldia del Ayuntamiento de Villafranca de los Barros",
+   "lugar": "",
+   "importe_licitacion": 369028.24,
+   "importe_adjudicacion": 370000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=lq0tAwzFE%2BTua%2Fi14w%2FPLA%3D%3D",
+   "clave": "EURO ELECTRODOMESTICOS EXTREMADURA"
+  }
+ ]
+}

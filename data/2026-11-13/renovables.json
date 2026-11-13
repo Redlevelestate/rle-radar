@@ -1,0 +1,43 @@
+{
+ "fecha": "2026-11-13",
+ "estado": "ok",
+ "anuncios": 3,
+ "filas": [
+  {
+   "fecha": "2026-11-13",
+   "id_boe": "BOE-B-2026-37119",
+   "titulo": "Anuncio de la Autoridad Portuaria de Cartagena por la que se somete a información pública la oferta seleccionada para el trámite de otorgamiento de concesión administrativa con destino a la manipulación y almacenamiento de graneles sólidos u otras mercancías en la zona de ampliación de la Dársena de Escombreras, que incluye el Proyecto Básico construcción y explotación de nave para la manipulación de graneles sólidos en la Dársena de Escombreras- Concesión 4.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37119",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-13",
+   "id_boe": "BOE-B-2026-37129",
+   "titulo": "Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Castilla-La Mancha por el que se somete a información pública la solicitud de Autorización Administrativa Previa de la modificaciones y Autorización Administrativa de Construcción de las modificaciones del proyecto para la instalación de módulo de baterías Almacenamiento Elawan Torrijos I Híbrido de 20 MW de potencia instalada, para su hibridación con la Planta Fotovoltaica existente Elawan Torrijos I de 48,818 MW de potenc",
+   "promotor": "ELAWAN TORRIJOS 220, S.L",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "20 MW",
+   "provincia": "Castilla-La Mancha",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37129",
+   "clave": "ELAWAN TORRIJOS 220"
+  },
+  {
+   "fecha": "2026-11-13",
+   "id_boe": "BOE-B-2026-37130",
+   "titulo": "Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Castellón por el que se someten al trámite de información pública la solicitud de modificación de autorización administrativa previa y la solicitud de autorización administrativa de construcción para el proyecto de planta de almacenamiento de baterías BESS Cuevas de 55,176 MW, y su infraestructura de evacuación, en el término municipal de la Vall d'Uixó, provincia de Castellón. Expediente: SGIISE/ALM-02",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "55,176 MW",
+   "provincia": "Castellón",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37130",
+   "clave": ""
+  }
+ ]
+}

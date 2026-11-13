@@ -1,0 +1,72 @@
+{
+ "fecha": "2026-11-13",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (8)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Castilla-La Mancha autoriza cinco plantas piloto para producir hidrógeno verde y combustibles renovables en Cuenca",
+   "resumen": "El proyecto del Centro Nacional del Hidrógeno en Cuenca integrará cinco plantas piloto dedicadas a electrólisis alcalina, upgrading de biogás, gasificación de biomasa, síntesis de metanol y producción de hidrocarburos mediante tecnología Fischer-Tropsch, alimentadas por una planta fotovoltaica de autoconsumo de 1.300 m2. La resolución destaca el carácter experimental de las instalaciones.",
+   "url": "https://www.pv-magazine.es/2026/11/12/castilla-la-mancha-autoriza-cinco-plantas-piloto-para-producir-hidrogeno-verde-y-combustibles-renovables-en-cuenca/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Matrix automatiza la construcción de Tormes Solar con ensamblaje robotizado y vehículos autónomos",
+   "resumen": "Matrix Renewables incorpora Terafab V2 en Tormes Solar para automatizar el ensamblaje, la inspección y el transporte de estructuras fotovoltaicas mediante robótica, inteligencia artificial, un sistema MES y vehículos autónomos.",
+   "url": "https://www.pv-magazine.es/2026/11/12/matrix-automatiza-la-construccion-de-tormes-solar-con-ensamblaje-robotizado-y-vehiculos-autonomos/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de empresas: GS EU, Recurrent Energy, TotalEnergies, GRS",
+   "resumen": "GS EU amplía su cartera europea de almacenamiento con 550 MWh, Recurrent Energy inicia la operación comercial de Villameca, de 200 MWp, TotalEnergies firma un PPA de 15 años con Avient y GRS alcanza la aceptación provisional de su 40ª planta fotovoltaica en España.",
+   "url": "https://www.pv-magazine.es/2026/11/12/anuncios-de-empresas-gs-eu-recurrent-energy-totalenergies-grs/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "BNEF prevé 209 GW de nuevas baterías en 2027",
+   "resumen": "Entre los mercados que acelerarán su despliegue se encuentran España, Emiratos Árabes Unidos, Chile y Japón. Para 2036, la capacidad acumulada mundial podría alcanzar 3 TW/11 TWh, aproximadamente diez veces los niveles de 2025.",
+   "url": "https://www.pv-magazine.es/2026/11/12/bnef-preve-209-gw-de-nuevas-baterias-en-2027/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Santa Pola pone en marcha una comunidad energética para el autoconsumo colectivo de 200 vecinos",
+   "resumen": "El Ayuntamiento de Santa Pola pone en marcha dos instalaciones fotovoltaicas de autoconsumo colectivo, con una potencia conjunta de 200 kW y una producción anual estimada superior a 300.000 kWh, para abastecer a familias y comercios del municipio.",
+   "url": "https://www.pv-magazine.es/2026/11/12/santa-pola-pone-en-marcha-una-comunidad-energetica-para-el-autoconsumo-colectivo-de-200-vecinos/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Huawei presenta un sistema residencial de almacenamiento todo en uno de 20 kW",
+   "resumen": "Huawei ha presentado el Luterra S2, un sistema residencial de almacenamiento energético todo en uno que integra inversores híbridos, baterías de LFP y gestión energética basada en inteligencia artificial. Ofrece potencias de inversor de entre 3 kW y 20 kW, capacidad de almacenamiento escalable de hasta 336 kWh y una eficiencia máxima declarada del 99 %.",
+   "url": "https://www.pv-magazine.es/2026/11/12/huawei-presenta-un-sistema-residencial-de-almacenamiento-todo-en-uno-de-20-kw/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Una utility alemana proyecta un BESS de zinc-bromo de 30 MWh",
+   "resumen": "Stadtwerke Gaggenau y Capac AG proyectan un sistema de 15,2 millones de euros (16,8 millones de dólares) basado en la tecnología de baterías de zinc-bromo apilables del fabricante estadounidense Eos. La construcción comenzará en 2027 y la puesta en operación está prevista para 2028.",
+   "url": "https://www.pv-magazine.es/2026/11/12/una-utility-alemana-proyecta-un-bess-de-zinc-bromo-de-30-mwh/",
+   "fecha": "2026-11-12"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Huelva licita un sistema de almacenamiento de 2 MWh para el Palacio de Deportes Carolina Marín",
+   "resumen": "El Ayuntamiento de Huelva ha publicado una licitación para ampliar la red de autoconsumo compartido del Palacio de Deportes Carolina Marín. El proyecto cuenta con presupuesto de 1,11 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/12/huelva-licita-un-sistema-de-almacenamiento-de-2-mwh-para-el-palacio-de-deportes-carolina-marin/",
+   "fecha": "2026-11-12"
+  }
+ ]
+}
