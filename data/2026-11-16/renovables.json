@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-11-16",
+ "estado": "ok",
+ "anuncios": 2,
+ "filas": [
+  {
+   "fecha": "2026-11-16",
+   "id_boe": "BOE-B-2026-37679",
+   "titulo": "Anuncio del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en A Coruña, por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la instalación eléctrica Parque Eólico «ORZAR», de 52 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Carballo y Tordoia, en la provincia de A Coruña. Expediente: PEol-335-ORZAR.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Eólica",
+   "potencia": "52 MW",
+   "provincia": "A Coruña",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37679",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-16",
+   "id_boe": "BOE-B-2026-37680",
+   "titulo": "Anuncio del Área Funcional de Industria y Energía de la Delegación del Gobierno en Aragón por el que se somete a información pública la solicitud de autorización administrativa y aprobación del proyecto de ejecución de las instalaciones del proyecto denominado Anexo al proyecto gasoducto Serrablo – Zaragoza. Modificación de la posición A-6 con estación de medida compacta G-65 para inyección de biometano. Término municipal de Zuera (Zaragoza).",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Biogás/biometano",
+   "potencia": "",
+   "provincia": "Aragón",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37680",
+   "clave": ""
+  }
+ ]
+}

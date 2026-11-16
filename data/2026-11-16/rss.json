@@ -1,0 +1,37 @@
+{
+ "fecha": "2026-11-16",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (3)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tener Sodium, la nueva batería de sodio de 4 horas de CATL",
+   "resumen": "Las nuevas especificaciones de la batería de sodio de cuatro horas de CATL muestran cómo la compañía pretende posicionar el producto frente a las baterías basadas en LFP en términos de costes. Las entregas internacionales comenzarán previsiblemente en verano de 2027.",
+   "url": "https://www.pv-magazine.es/2026/11/16/tener-sodium-la-nueva-bateria-de-sodio-de-4-horas-de-catl/",
+   "fecha": "2026-11-16"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Fabricante de vidrio proyecta una planta fotovoltaica de 853 kWp para autoconsumo en La Rioja",
+   "resumen": "La empresa riojana Vinalsa ha solicitado autorización administrativa previa y de construcción para instalar 700 kW de potencia fotovoltaica en sus instalaciones de Alesón, mediante 1.202 módulos de 710 Wp y siete inversores de 100 kW.",
+   "url": "https://www.pv-magazine.es/2026/11/16/fabricante-de-vidrio-proyecta-una-planta-fotovoltaica-de-853-kwp-para-autoconsumo-en-la-rioja/",
+   "fecha": "2026-11-16"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Sant Joan Despí licita licita dos instalaciones fotovoltaicas en el Mercado y el Campo de Fútbol de Les Planes",
+   "resumen": "El Ayuntamiento de Sant Joan Despí ha publicado la licitación del proyecto ejecutivo para la instalación fotovoltaica de 80 kW en modalidad de autoconsumo colectivo en el Mercado Municipal de Les Planes. El proyecto cuenta con un presupuesto base de licitación de 299.679 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/16/sant-joan-despi-licita-licita-dos-instalaciones-fotovoltaicas-en-el-mercado-y-el-campo-de-futbol-de-les-planes/",
+   "fecha": "2026-11-16"
+  }
+ ]
+}
