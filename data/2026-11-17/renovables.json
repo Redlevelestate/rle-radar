@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-11-17",
+ "estado": "ok",
+ "anuncios": 1,
+ "filas": [
+  {
+   "fecha": "2026-11-17",
+   "id_boe": "BOE-B-2026-37868",
+   "titulo": "Resolución de la Dirección General de Energía, por la que se otorga a la empresa Renew Green Generator, SL., la declaración de utilidad pública de la planta de almacenamiento llamada PHFV Castellet, de 4,990 MW, en suelo no urbanizable, en el término municipal de L'Arboç, en la comarca del Baix Penedès, y su infraestructura de empalme a una línea existente, en el término municipal de Castellet y la Gornal, en la comarca del Alt Penedès (expte. FUE-2024-04101401).",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "4,990 MW",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37868",
+   "clave": ""
+  }
+ ]
+}
