@@ -1,0 +1,72 @@
+{
+ "fecha": "2026-11-18",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (8)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Imágenes por satélite revelan la recuperación de la vegetación en una planta solar de una región semiárida de China",
+   "resumen": "Las imágenes por satélite de un complejo solar de 21 GW en China muestran que la vegetación se recuperó en los dos años posteriores a la instalación fotovoltaica. Los investigadores observaron que la densidad de la vegetación aumentó un 28,4% de media entre el segundo y el quinto año después de la construcción, en comparación con los niveles previos a la instalación.",
+   "url": "https://www.pv-magazine.es/2026/11/17/imagenes-por-satelite-revelan-la-recuperacion-de-la-vegetacion-en-una-planta-solar-de-una-region-semiarida-de-china/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Autorizada en Alicante una planta fotovoltaica flotante de 967 kWp con 554 kWh de almacenamiento",
+   "resumen": "La Generalitat Valenciana ha otorgado la autorización administrativa y de construcción para una planta fotovoltaica flotante híbrida de 967,68 kWp ubicada sobre balsas de riego en Los Montesinos. El proyecto, promovido por Operativa 2000, incorpora un sistema de almacenamiento en baterías de 554 kWh y requerirá una inversión de 748.248 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/17/autorizada-en-alicante-una-planta-fotovoltaica-flotante-de-967-kwp-con-554-kwh-de-almacenamiento/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "PVcase lanza una herramienta para evaluar emplazamientos solares en fase preliminar",
+   "resumen": "PVcase ha lanzado PVcase Concept, una aplicación basada en la nube orientada a las fases iniciales del desarrollo de plantas fotovoltaicas a gran escala. La herramienta se sitúa entre la selección del emplazamiento y el diseño detallado y permite generar implantaciones preliminares a partir de las restricciones del terreno y de determinados parámetros de diseño.",
+   "url": "https://www.pv-magazine.es/2026/11/17/pvcase-lanza-una-herramienta-para-evaluar-emplazamientos-solares-en-fase-preliminar/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "ESMC lanza un mapa europeo de fabricantes de inversores con 212 GW de capacidad disponible",
+   "resumen": "El European Inverter Dashboard de ESMC identifica la disponibilidad de inversores en los mercados europeos y compara su oferta con la demanda. Los proveedores europeos y de otros países no considerados de alto riesgo disponen de 212 GW de capacidad frente a una demanda anual de 59 GW, con una cobertura de 3,6 veces y superior a seis veces en utility-scale.",
+   "url": "https://www.pv-magazine.es/2026/11/17/esmc-lanza-un-mapa-europeo-de-fabricantes-de-inversores-con-212-gw-de-capacidad-disponible/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Las instalaciones solares mundiales afrontan su primer descenso anual en ocho años",
+   "resumen": "El cambio de China hacia tarifas determinadas por el mercado provocará la mayor parte del descenso de las nuevas instalaciones solares mundiales este año, antes de que el abaratamiento de las baterías impulse de nuevo el crecimiento a partir de 2027, según GlobalData.",
+   "url": "https://www.pv-magazine.es/2026/11/17/las-instalaciones-solares-mundiales-afrontan-su-primer-descenso-anual-en-ocho-anos/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "HoloSolis capta 15 millones de euros y da entrada a cuatro nuevos accionistas",
+   "resumen": "La financiación permitirá avanzar en el desarrollo de una fábrica de células y módulos solares en Hambach, Francia, con una capacidad de producción anual de 5 GW. El proyecto prevé crear 1.900 empleos y comenzar la producción en 2027.",
+   "url": "https://www.pv-magazine.es/2026/11/17/holosolis-capta-15-millones-de-euros-y-da-entrada-a-cuatro-nuevos-accionistas/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tramitan un centro de datos de 300 MW con 2,2 MW fotovoltaicos para autoconsumo en Villamayor de Gállego",
+   "resumen": "El Gobierno de Aragón ha aprobado inicialmente el Plan de Interés General de Aragón (PIGA) del proyecto Tillion Aragón, una iniciativa promovida por el Grupo Azora, para desarrollar un campus de centros de datos en Zaragoza con una potencia prevista de 300 MW y una inversión estimada de 2.360 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/17/tramitan-un-centro-de-datos-de-300-mw-con-22-mw-fotovoltaicos-para-autoconsumo-promovido-por-azora/",
+   "fecha": "2026-11-17"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Villarrubia de Santiago licita la instalación de 6 sistemas fotovoltaicos para la creación de una comunidad energética",
+   "resumen": "El Ayuntamiento de Villarrubia de Santiago (Toledo) ha publicado la licitacion para la ejecución de un sistema de generación de energía eléctrica renovable mediante la implantación de varias plantas solares fotovoltaicas. El proyecto cuenta con un presupuesto total de licitación de 1,15 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/17/villarrubia-de-santiago-licita-la-instalacion-de-6-sistemas-fotovoltaicos-para-la-creacion-de-una-comunidad-energetica/",
+   "fecha": "2026-11-17"
+  }
+ ]
+}

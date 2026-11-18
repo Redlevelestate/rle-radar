@@ -1,0 +1,22 @@
+{
+ "fecha": "2026-11-18",
+ "estado": "ok",
+ "paginas": 4,
+ "entradas_leidas": 1546,
+ "filas": [
+  {
+   "fecha": "2026-11-18",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "ASOCIACIÓN EMPRESARIAL CENTRO TECNOLÓGICO DEL METAL DE LA REGIÓN DE MURCIA",
+   "nif": "G30572473",
+   "objeto": "Enajenación directa del inmueble denominado, Conjunto del Centro Tecnológico del Metal, del Instituto de Fomento de la Región de Murcia, sito en el Polígono Industrial Oeste de la localidad de Alcantarilla (Murcia).",
+   "organo": "Instituto de Fomento de la Región de Murcia (INFO)",
+   "lugar": "Murcia",
+   "importe_licitacion": 3535391.1,
+   "importe_adjudicacion": 3535391.1,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=vhfn2teXLaY7%2B9FIQYNjeQ%3D%3D",
+   "clave": "ASOCIACION EMPRESARIAL CENTRO TECNOLOGICO DEL METAL DE LA REGION DE MURCIA"
+  }
+ ]
+}

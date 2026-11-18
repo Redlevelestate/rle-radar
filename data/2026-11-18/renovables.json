@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-11-18",
+ "estado": "ok",
+ "anuncios": 1,
+ "filas": [
+  {
+   "fecha": "2026-11-18",
+   "id_boe": "BOE-B-2026-37949",
+   "titulo": "Anuncio de la Delegación del Gobierno en Castilla y León por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la instalación fotovoltaica «Navabuena Solar», de 449,148 MW de potencia pico, 424,710 MW de potencia instalada, y sus infraestructuras de evacuación, en Villalba de los Alcores, La Mudarra y Valladolid, en la provincia de Valladolid.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "449,148 MW",
+   "provincia": "Castilla y León",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37949",
+   "clave": ""
+  }
+ ]
+}
