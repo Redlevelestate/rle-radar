@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-19",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (5)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Los ingresos de las baterías en Europa migran de los servicios auxiliares al trading",
+   "resumen": "Los ingresos de las baterías en Europa están desplazándose de los servicios auxiliares hacia los mercados diario e intradiario a medida que aumenta la penetración del almacenamiento. La saturación de las reservas reduce su remuneración y sitúa el arbitraje de precios como una fuente creciente de ingresos.",
+   "url": "https://www.pv-magazine.es/2026/11/18/los-ingresos-de-las-baterias-en-europa-migran-de-los-servicios-auxiliares-al-trading/",
+   "fecha": "2026-11-18"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de almacenamiento: proyectos BESS avanzan en EE. UU., Australia y España",
+   "resumen": "X-Elio, Solaria y Verano Energy anuncian proyectos BESS en EE UU, España y Latinoamérica, con sistemas que suman desde 10 MW/40 MWh hasta 200 MW/482 MWh.",
+   "url": "https://www.pv-magazine.es/2026/11/18/anuncios-de-almacenamiento-proyectos-bess-avanzan-en-ee-uu-australia-y-espana/",
+   "fecha": "2026-11-18"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Convertidor de 5 MVA y 4,8 MW para alimentar centros de datos de IA a 800 VDC de Norvento TECHnPower",
+   "resumen": "Norvento TECHnPower desarrolla dos soluciones para la alimentación de centros de datos de IA: una UPS de media tensión con BESS para garantizar la continuidad y calidad del suministro, y un convertidor de 5 MVA y 4,8 MW que proporciona un bus regulado de 800 VDC para racks de alta densidad.",
+   "url": "https://www.pv-magazine.es/2026/11/18/convertidor-de-5-mva-y-48-mw-para-alimentar-centros-de-datos-de-ia-a-800-vdc-de-norvento-technpower/",
+   "fecha": "2026-11-18"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "“GDV ya es la primera empresa en España en completar el ciclo de reciclado de las baterías”",
+   "resumen": "GDV desarrolla en Alicante un proceso integral para reparar, reutilizar y reciclar baterías, con una capacidad de tratamiento de hasta 3.600 toneladas anuales y recuperación de hasta el 82% de sus materiales para su reincorporación a la cadena de valor.",
+   "url": "https://www.pv-magazine.es/2026/11/18/gdv-ya-es-la-primera-empresa-en-espana-en-completar-el-ciclo-de-reciclado-de-las-baterias/",
+   "fecha": "2026-11-18"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Defensa licita la ampliación de la planta fotovoltaica de la estación de seguimiento de satélites de Cebreros",
+   "resumen": "El Ministerio de Defensa, a través de ISDEFE, ha publicado la licitación para ampliar con otros 100 kW la instalación fotovoltaica de la Estación de Seguimiento de Satélites de Cebreros, en Ávila. El contrato cuenta con un presupuesto de licitación de 266.200 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/18/defensa-licita-la-ampliacion-de-la-planta-fotovoltaica-de-la-estacion-de-seguimiento-de-satelites-de-cebreros/",
+   "fecha": "2026-11-18"
+  }
+ ]
+}
