@@ -1,0 +1,36 @@
+{
+ "fecha": "2026-11-20",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1275,
+ "filas": [
+  {
+   "fecha": "2026-11-20",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "BRAVO HIDALGO CARMEN",
+   "nif": "09218462Q",
+   "objeto": "Enajenación de bien inmueble municipal vivienda localizado en la calle Pizarro nº 5 La Zarza",
+   "organo": "Alcaldía del Ayuntamiento de La Zarza",
+   "lugar": "",
+   "importe_licitacion": 38171.52,
+   "importe_adjudicacion": 38300.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mhzsMKF9IH3ua%2Fi14w%2FPLA%3D%3D",
+   "clave": "BRAVO HIDALGO CARMEN"
+  },
+  {
+   "fecha": "2026-11-20",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "ALPESA DESARROLLO CORPORATIVO, SL",
+   "nif": "B21867072",
+   "objeto": "Procedimiento de contratación para la enajenación mediante subasta pública de parcela municipal nº 112 del Sector S-26 \"Villalonquéjar IV\", finca 59068 ref.catastral 2007306VM4920N0001DO",
+   "organo": "Junta de Gobierno del Ayuntamiento de Burgos",
+   "lugar": "Burgos",
+   "importe_licitacion": 829755.91,
+   "importe_adjudicacion": 829755.91,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=GOkr1J78eWc%2B1TMyIiZmzw%3D%3D",
+   "clave": "ALPESA DESARROLLO CORPORATIVO"
+  }
+ ]
+}

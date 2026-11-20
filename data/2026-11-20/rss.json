@@ -1,0 +1,72 @@
+{
+ "fecha": "2026-11-20",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR ParseError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (8)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Retrato de empresa: Bikote Solar",
+   "resumen": "La ingeniería vasca Bikote Solar identifica el almacenamiento y la aerotermia como sus principales oportunidades de expansión en el mercado industrial, donde prevé cerrar 2026 con alrededor de 90 proyectos y espera que ambas tecnologías aceleren su implantación durante 2027 y 2028.",
+   "url": "https://www.pv-magazine.es/2026/11/19/retrato-de-empresa-bikote-solar/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de centros de datos en España: Valfortec y Solaria",
+   "resumen": "Valfortec proyecta en Castellón un centro de datos de 100 millones de euros vinculado a generación fotovoltaica local, mientras Solaria desarrolla en Madrid una instalación de 70 MW con una inversión estimada de 480 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/19/anuncios-de-centros-de-datos-en-espana-valfortec-y-solaria/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Solyco presenta un módulo residencial full black de 485 Wp con protección de acero inoxidable",
+   "resumen": "Solyco Solar presenta un módulo de doble vidrio de 485 W y 23,8 % de eficiencia que incorpora cables de conexión protegidos mediante una cubierta de acero inoxidable frente a daños mecánicos, radiación UV y mordeduras de animales.",
+   "url": "https://www.pv-magazine.es/2026/11/19/solyco-presenta-un-modulo-residencial-full-black-de-485-wp-con-proteccion-de-acero-inoxidable/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de proyectos fotovoltaicos en España, Italia, Alemania y EE UU",
+   "resumen": "Green Arrow Capital completa 135 MWp en Sanlúcar, N-Sun obtiene 90 millones para añadir 150 MWp en Italia, Blue Elephant Energy financia 96 MWp de agri-PV en Alemania y Repsol avanza con 269 MW de potencia fotovoltaica instalada en Ohio.",
+   "url": "https://www.pv-magazine.es/2026/11/19/anuncios-de-proyectos-fotovoltaicos-en-espana-italia-alemania-y-ee-uu/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Portugal aprueba 1.581 millones de euros para reforzar la red de distribución hasta 2030",
+   "resumen": "Portugal prevé elevar hasta 7.178 MVA la capacidad de recepción de la red de distribución en 2030, frente a los 4.288 MVA comprometidos actualmente, con el 96 % de esta potencia asociada a proyectos solares. El plan incorpora además inversiones para autoconsumo, almacenamiento, flexibilidad y digitalización.",
+   "url": "https://www.pv-magazine.es/2026/11/19/portugal-aprueba-1-581-millones-de-euros-para-reforzar-la-red-de-distribucion-hasta-2030/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La UE prepara una convocatoria de 36 millones de euros para impulsar la fabricación avanzada de células solares",
+   "resumen": "La iniciativa busca reforzar la industria solar europea mediante el apoyo a células solares de alta eficiencia, equipos de producción avanzados, procesos de fabricación automatizados y líneas piloto de producción a escala industrial.",
+   "url": "https://www.pv-magazine.es/2026/11/19/la-ue-prepara-una-convocatoria-de-36-millones-de-euros-para-impulsar-la-fabricacion-avanzada-de-celulas-solares/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Avanza una planta de hidrógeno y amoniaco verde de 200 MW en Baltanás",
+   "resumen": "El proyecto Deméter, previsto en Palencia, contempla una producción anual de 155.960 toneladas de amoniaco y 27.720 toneladas de hidrógeno. El promotor Capital Energy ha solicitado una concesión de aguas subterráneas de hasta 351.315 m³ anuales para abastecer el proceso industrial.",
+   "url": "https://www.pv-magazine.es/2026/11/19/avanza-una-planta-de-hidrogeno-y-amoniaco-verde-de-200-mw-en-baltanas/",
+   "fecha": "2026-11-19"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Zona Franca de Cádiz licita 645 kW fotovoltaicos y sistemas de almacenamiento en diez lotes",
+   "resumen": "El Consorcio de la Zona Franca de Cádiz ha publicado la licitación de diez lotes de obras para la ejecución de instalaciones solares fotovoltaicas en diferentes edificios y espacios de su recinto con una potencia conjunta de 645 kW. El presupuesto total de licitación asciende a 1,50 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/19/la-zona-franca-de-cadiz-licita-645-kw-fotovoltaicos-y-sistemas-de-almacenamiento-en-diez-lotes/",
+   "fecha": "2026-11-19"
+  }
+ ]
+}

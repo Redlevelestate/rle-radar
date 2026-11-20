@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-11-20",
+ "estado": "ok",
+ "anuncios": 2,
+ "filas": [
+  {
+   "fecha": "2026-11-20",
+   "id_boe": "BOE-B-2026-38153",
+   "titulo": "Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Mantenimiento de cabinas almacenamiento Huawei 2027/2028. Expediente: Z27IN006/P40.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38153",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-20",
+   "id_boe": "BOE-B-2026-38155",
+   "titulo": "Anuncio de licitación de: Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P. Objeto: Contratación de Servicio gestionado de backup con almacenamiento del mismo tanto en local como externo a las instalaciones del TPFE, M.P. Expediente: 2026/00084.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38155",
+   "clave": ""
+  }
+ ]
+}
