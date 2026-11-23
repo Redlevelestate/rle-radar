@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-11-23",
+ "estado": "ok",
+ "anuncios": 2,
+ "filas": [
+  {
+   "fecha": "2026-11-23",
+   "id_boe": "BOE-B-2026-38515",
+   "titulo": "Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: SERCOFER.TA BAM 316/24. Recepción, almacenamiento y suministro por vía marítima de combustible diesel naval DFM F-76 destinado a buques de la Armada y de otras naciones aliadas, a través de disponibilidad permanente de dos puntos de atraque, LOTE 1. Expediente: 2026/AR42U/00002430.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38515",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-23",
+   "id_boe": "BOE-B-2026-38532",
+   "titulo": "Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: BAM. Servicio de almacenamiento y recogida de aguas residuales mediante contenedores normalizados para el CEFOT 2 Acto. Camposoto del 09 al 16 diciembre 2026 en San Fernando (Cádiz). Expediente: 2026/ETSAE0226/00005412E.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Almacenamiento/BESS",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38532",
+   "clave": ""
+  }
+ ]
+}

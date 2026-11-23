@@ -1,0 +1,44 @@
+{
+ "fecha": "2026-11-23",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ok (4)",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (0)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "La ley Lider de Madrid reducirá los plazos de planificación urbanística y agilizará la construcción de viviendas",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La normativa sustituirá a la legislación vigente de 2001, dará más capacidad de decisión a los ayuntamientos y facilitará la rehabilitación de barrios. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate New",
+   "url": "https://brainsre.news/ley-lider-madrid-agilizara-construccion-viviendas/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "PSOE o PP: ¿quién construyó más vivienda protegida en los últimos 30 años?",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News El PP lidera en viviendas protegidas terminadas; el PSOE, en obras iniciadas, según datos del Ministerio de Vivienda. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/quien-construyo-mas-vivienda-protegida-psoe-pp/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Vivir en Pozuelo de Alarcón: cuánto cuesta comprar o alquilar",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Una vivienda en Pozuelo de Alarcón cuesta de media unos 1,95 millones de euros y alquilarla, unos 3.400 euros al mes. Precios, obra nueva y cómo es vivir en el municipio más rico de España. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias ",
+   "url": "https://brainsre.news/vivir-pozuelo-de-alarcon-precios/",
+   "fecha": "2026-11-22"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "ARPO (Pozuelo de Alarcón): viviendas, fases y plazos (2026)",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News ARPO (Área de Reparto Pozuelo Oeste): unas 5.500 viviendas en Pozuelo de Alarcón, 709 ya con licencia. Historia, promotoras, cooperativas y plazos. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/arpo-pozuelo/",
+   "fecha": "2026-11-22"
+  }
+ ]
+}
