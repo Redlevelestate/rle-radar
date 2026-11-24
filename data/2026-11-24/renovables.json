@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-11-24",
+ "estado": "ok",
+ "anuncios": 1,
+ "filas": [
+  {
+   "fecha": "2026-11-24",
+   "id_boe": "BOE-B-2026-38776",
+   "titulo": "Anuncio de corrección de errores del Anuncio del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en A Coruña, por el que se somete, al trámite de Información Pública (IP), la solicitud de autorización administrativa previa (AAP) y el estudio de impacto ambiental (EsIA) del parque eólico «Bátega», de 36 MW de potencia instalada, para su hibridación con la central hidroeléctrica «Belesar-Grupo 3», y de una parte de su infraestructura de evacuación asociada, en los términos m",
+   "promotor": "Naturgy Generación, S.L.U",
+   "otros_promotores": "",
+   "tecnologia": "Eólica",
+   "potencia": "36 MW",
+   "provincia": "A Coruña",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38776",
+   "clave": "NATURGY GENERACION"
+  }
+ ]
+}

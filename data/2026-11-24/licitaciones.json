@@ -1,0 +1,22 @@
+{
+ "fecha": "2026-11-24",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1090,
+ "filas": [
+  {
+   "fecha": "2026-11-24",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "Edhinor SA",
+   "nif": "A28695021",
+   "objeto": "Obras de ejecución del proyecto de construcción para la rehabilitación integral del edificio del Paseo del Rey, 28 de Madrid.",
+   "organo": "ADIF - Presidencia",
+   "lugar": "",
+   "importe_licitacion": 3222669.94,
+   "importe_adjudicacion": 2634854.94,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oHTxxqIn2yWExvMJXBMHHQ%3D%3D",
+   "clave": "EDHINOR"
+  }
+ ]
+}

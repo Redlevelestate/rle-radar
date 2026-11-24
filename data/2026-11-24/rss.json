@@ -1,0 +1,121 @@
+{
+ "fecha": "2026-11-24",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ok (7)",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (8)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "MYR Hoteles invierte 150 millones en cinco hoteles en Valencia",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News MYR Hoteles suma cinco hoteles y unas 250 habitaciones en Valencia con una inversión de 150 millones mientras estudia entrar en Madrid y Sevilla Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/myr-hoteles-150-millones-cinco-hoteles-valencia/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Grupo Insur apuesta por la construcción industrializada con 156 nuevas viviendas en Córdoba",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La promoción Insur Avora, situada en Parque Azahara, apuesta por un nuevo modelo de construcción que permitirá reducir los plazos de ejecución. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/grupo-insur-industrializada-156-viviendas-cordoba/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Los visados de obra nueva crecen hasta julio un 10,9% interanual y alcanzan su nivel más alto desde 2008",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News España contabilizó 93.200 autorizaciones para construir nuevas viviendas hasta septiembre, y los certificados de fin de obra aumentaron un 13,9%. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/visados-obra-nueva-crecen-hasta-julio-10-9/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "El Gobierno Vasco compra 57 viviendas a Kutxabank por 5,7 millones para alquiler social",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Alokabide paga 5,7 millones de euros por los inmuebles, distribuidos entre Álava, Gipuzkoa y Bizkaia. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/alquiler-social-euskadi-compra-viviendas/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Las pernoctaciones hoteleras crecen en octubre un 1,6% interanual",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Los hoteles superan los 34,7 millones de pernoctaciones en octubre y las de viajeros residentes crecen un 2,7%, más del doble que las de no residentes, según el INE. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains R",
+   "url": "https://brainsre.news/pernoctaciones-hoteleras-octubre-2026-ine/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "StepHouse supera el 93% de ocupación en sus residencias de estudiantes y prevé la incorporación de 3.000 nuevas camas",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La plataforma de alojamiento trabaja en el desarrollo de cuatro nuevas residencias que permitirán ampliar su presencia en la península ibérica. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/stephouse-93-ocupacion-residencias-estudiantes/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Hipatia Capital irrumpe en el mercado inmobiliario con el objetivo de gestionar 600 millones en activos",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La nueva plataforma impulsada por Carmen Panadero prevé captar 300 millones de euros de inversores privados y ‘family offices’ hasta 2029. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/hipatia-capital-gestionar-600-millones-activos/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Sungrow presenta en Genera 2026 soluciones de recarga eléctrica de hasta 3,5 MW",
+   "resumen": "Sungrow Charging presentó en Genera 2026 una gama de soluciones de recarga DC que abarca desde aplicaciones comerciales y flotas hasta sistemas de megavatio para transporte pesado. La propuesta incluye el IDC80E, el IDC480E de potencia compartida y el ChargeStack 1000, con arquitectura modular y escalable de 1 a 3,5 MW.",
+   "url": "https://www.pv-magazine.es/2026/11/24/sungrow-presenta-en-genera-2026-soluciones-de-recarga-electrica-de-hasta-35-mw/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "España capta 83,7 millones para calor industrial y Europa prepara una nueva subasta de 1.000 millones",
+   "resumen": "España ha obtenido 83,7 millones de euros para 14 proyectos de electrificación del calor industrial en la primera subasta europea del Innovation Fund. Mientras, Bruselas prepara una segunda convocatoria de 1.000 millones de euros que ampliará el apoyo a bombas de calor, almacenamiento térmico, calderas eléctricas, solar térmica y geotermia, entre otras tecnologías.",
+   "url": "https://www.pv-magazine.es/2026/11/23/espana-capta-837-millones-para-calor-industrial-y-europa-prepara-una-nueva-subasta-de-1-000-millones/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Investigadores españoles desarrollan un colector fotovoltaico-térmico de grafito y parafina",
+   "resumen": "El prototipo desarrollado por investigadores de la Universidad de Burgos integra un material de cambio de fase de parafina y grafito expandido entre el módulo fotovoltaico y el absorbedor térmico. Los ensayos exteriores mostraron un aumento de 33,5 veces en la conductividad térmica del PCM y una eficiencia global diaria máxima del 48,7%.",
+   "url": "https://www.pv-magazine.es/2026/11/23/investigadores-espanoles-desarrollan-un-colector-fotovoltaico-termico-de-grafito-y-parafina/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "El Gobierno modifica el marco regulatorio para impulsar la repotenciación eólica y el autoconsumo industrial",
+   "resumen": "El Gobierno ha aprobado nuevas medidas para liberar capacidad de acceso, facilitar la repotenciación de parques eólicos y ampliar el autoconsumo industrial, además de introducir cambios regulatorios para el almacenamiento hidroeléctrico y termosolar y aumentar la capacidad de las redes mediante sistemas DLR.",
+   "url": "https://www.pv-magazine.es/2026/11/23/el-gobierno-modifica-el-marco-regulatorio-para-impulsar-la-repotenciacion-eolica-y-el-autoconsumo-industrial/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Andalucía tramita una planta de biometano con una fotovoltaica de autoconsumo de 642 kWp en Palma del Río",
+   "resumen": "La Junta de Andalucía ha delegado en la Delegación Territorial de Sostenibilidad y Medio Ambiente en Córdoba la tramitación y resolución de la autorización ambiental integrada de una planta de biofertilizantes y biometano promovida por Biofertilizantes CH4, sociedad participada al 100% por Ence. A través de Magnon Green Energy, el grupo cuenta con 266 MW de capacidad instalada de biomasa y opera c",
+   "url": "https://www.pv-magazine.es/2026/11/23/andalucia-tramita-una-planta-de-biometano-con-una-fotovoltaica-de-autoconsumo-de-642-kwp-en-palma-del-rio/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "BOE: seis proyectos renovables con 22 MW FV, 148 MW BESS y 164 MW desestimados durante la tercera de noviembre",
+   "resumen": "El Boletín Oficial del Estado ha publicado en la tercera semana de noviembre seis proyectos renovables, entre los que destacan tres plantas de almacenamiento en Valladolid con un total de 143 MW BESS.",
+   "url": "https://www.pv-magazine.es/2026/11/23/boe-seis-proyectos-renovables-con-22-mw-fv-148-mw-bess-y-164-mw-desestimados-durante-la-tercera-de-noviembre/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Enphase presenta nuevas baterías y soluciones de carga bidireccional",
+   "resumen": "Enphase amplía su oferta de almacenamiento residencial y comercial, carga de vehículos eléctricos bidireccional mediante conexión al contador y un transformador de estado sólido de media tensión.",
+   "url": "https://www.pv-magazine.es/2026/11/23/enphase-presenta-nuevas-baterias-y-soluciones-de-carga-bidireccional/",
+   "fecha": "2026-11-23"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Fuerteventura licita la renovación de la cubierta y una instalación fotovoltaica de 494 kWp en una nave de Puerto del Rosario",
+   "resumen": "El Consorcio de Abastecimiento de Aguas de Fuerteventura ha publicado la licitación para la obra de renovación de la estructura portante y cubierta e instalación fotovoltaica de 494 kWp sin vertido a red de la nave almacén del CAAF en Puerto del Rosario. El contrato cuenta con un presupuesto total de licitación de 2,24 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/23/fuerteventura-licita-la-renovacion-de-la-cubierta-y-una-instalacion-fotovoltaica-de-494-kwp-en-una-nave-de-puerto-del-rosario/",
+   "fecha": "2026-11-23"
+  }
+ ]
+}
