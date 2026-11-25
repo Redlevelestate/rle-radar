@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-25",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ERROR URLError",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (7)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "pv magazine España",
+   "titulo": "Anuncios de proyectos: Grenergy y Naturgy",
+   "resumen": "Naturgy pone en operación 42,4 MW/89,4 MWh de almacenamiento híbrido en Tabernas y prepara otros siete proyectos en España. Grenergy firma en Perú un PPA de 900 GWh anuales para dos plantas solares de 450 MW.",
+   "url": "https://www.pv-magazine.es/2026/11/24/anuncios-de-proyectos-grenergy-y-naturgy/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Turbo Energy presenta en GENERA 2026 su batería residencial apilable Lithium Series Brick",
+   "resumen": "La empresa presenta su batería residencial de baja tensión basada en módulos apilables de 5,12 kWh, con arquitectura modular ampliable, conexión sin cableado externo y protección IP65.",
+   "url": "https://www.pv-magazine.es/2026/11/24/turbo-energy-presenta-en-genera-2026-su-bateria-residencial-apilable-lithium-series-brick/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Differ Power presenta una bomba de calor solar y de almacenamiento «9 en 1»",
+   "resumen": "La empresa china ha desarrollado un sistema de bomba de calor residencial que integra un inversor híbrido de 6 kW y admite almacenamiento en baterías. El sistema, basado en propano, se ofrece en tres versiones con potencias de calefacción de entre 12 kW y 16 kW y puede suministrar agua caliente a temperaturas de hasta 75 °C.",
+   "url": "https://www.pv-magazine.es/2026/11/24/differ-power-presenta-una-bomba-de-calor-solar-y-de-almacenamiento-9-en-1/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tenerife adjudica por 1,06 millones cuatro proyectos de cubiertas fotovoltaicas en campos de fútbol",
+   "resumen": "El Ayuntamiento de Santa Cruz de Tenerife ha adjudicado las obras para instalar estructuras de sombra con generación fotovoltaica y almacenamiento energético en cuatro campos de fútbol municipales. Las actuaciones contemplan cuatro instalaciones con idéntica configuración, cada una con aproximadamente 50 kW y un sistema de almacenamiento de 126 kWh, integrados en nuevas cubiertas metálicas para la",
+   "url": "https://www.pv-magazine.es/2026/11/24/tenerife-adjudica-por-106-millones-cuatro-proyectos-de-cubiertas-fotovoltaicas-en-campos-de-futbol/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Tramitan una central híbrida de autoconsumo con 6,5 MWp fotovoltaicos, 9 MW eólicos y 2,42 MW BESS para un complejo minero en Toledo",
+   "resumen": "La segunda fase del proyecto MSM Villarrubia contempla una nueva instalación fotovoltaica de 6,5 MWp, dos aerogeneradores de 4,5 MW y un sistema BESS con 2,4219 MW de potencia y 4,845 MWh de capacidad de almacenamiento para abastecer el complejo minero El Castellar, en Villarrubia de Santiago.",
+   "url": "https://www.pv-magazine.es/2026/11/24/tramitan-una-central-hibrida-de-autoconsumo-con-65-mwp-fotovoltaicos-9-mw-eolicos-y-242-mw-bess-para-un-complejo-minero-en-toledo/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "GameChange Energy presentará en Genera 2026 GeniusHub para monitorizar y controlar seguidores solares",
+   "resumen": "GameChange Energy presentará en Genera 2026 GeniusHub, un sistema instalado en planta que centraliza la monitorización, diagnóstico y control de los seguidores Genius Tracker. Integrado con Genius Vision Pro y los algoritmos MaxGen, permite analizar datos históricos y en tiempo real, automatizar inspecciones mediante drones y optimizar el seguimiento solar, con mejoras de producción de hasta un 4,",
+   "url": "https://www.pv-magazine.es/2026/11/24/gamechange-energy-presentara-en-genera-2026-geniushub-para-monitorizar-y-controlar-seguidores-solares/",
+   "fecha": "2026-11-24"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Argés licita instalaciones térmicas y de autoconsumo fotovoltaico en los centros educativos Tirso de Molina y Miguel de Cervantes",
+   "resumen": "El Ayuntamiento toledano de Argés ha publicado la licitación para la mejora de las instalaciones térmicas y fomento del autoconsumo solar fotovoltaico del Centro Público educativo Tirso de Molina y Centro Público educativo de Miguel de Cervantes. El contrato, que se divide en dos lotes, cuenta con un presupuesto total de licitación de 377.041 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/24/arges-licita-instalaciones-termicas-y-de-autoconsumo-fotovoltaico-en-los-centros-educativos-tirso-de-molina-y-miguel-de-cervantes/",
+   "fecha": "2026-11-24"
+  }
+ ]
+}

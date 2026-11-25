@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-11-25",
+ "estado": "ok",
+ "anuncios": 1,
+ "filas": [
+  {
+   "fecha": "2026-11-25",
+   "id_boe": "BOE-B-2026-38879",
+   "titulo": "Anuncio de la Delegación del Gobierno en Castilla y León por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la instalación eólica Ampliación Tórtoles, de 53,1 MW de potencia instalada y sus infraestructuras de evacuación, en los términos municipales de Tórtoles de Esgueva, en la provincia de Burgos, y Castrillo de Don Juan, Cevico Navero, Villaconancio y Baltanás, en la provincia de Palencia.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Eólica",
+   "potencia": "53,1 MW",
+   "provincia": "Castilla y León",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38879",
+   "clave": ""
+  }
+ ]
+}
