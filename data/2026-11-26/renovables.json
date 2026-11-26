@@ -1,0 +1,43 @@
+{
+ "fecha": "2026-11-26",
+ "estado": "ok",
+ "anuncios": 3,
+ "filas": [
+  {
+   "fecha": "2026-11-26",
+   "id_boe": "BOE-B-2026-39041",
+   "titulo": "Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Teruel por el que se somete a información pública la solicitud de Autorización Administrativa Previa y la solicitud de Autorización Administrativa de Construcción del proyecto CCC-002-ALM Módulo de almacenamiento BESS Castelnou, de 100 MW de potencia instalada, para su hibridación con la CTCC Castelnou, de 790,68 MW y la planta fotovoltaica Saurus, de 152,25 MW de potencia instalada y su infraestructura",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "100 MW",
+   "provincia": "Teruel",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39041",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-26",
+   "id_boe": "BOE-B-2026-39044",
+   "titulo": "Anuncio de la Dependencia del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en Guadalajara por el que se somete a información pública la solicitud de Autorización Administrativa Previa de modificaciones y Autorización Administrativa de Construcción de modificaciones para la instalación fotovoltaica Aluvión Solar, de 47,52 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Lupiana, Centenera, Horche y Guadalajara, en la provincia ",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica, Almacenamiento/BESS",
+   "potencia": "47,52 MW",
+   "provincia": "Guadalajara",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39044",
+   "clave": ""
+  },
+  {
+   "fecha": "2026-11-26",
+   "id_boe": "BOE-B-2026-39075",
+   "titulo": "Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Tarragona por la que se anuncia convocatoria de subasta pública para la enajenación de inmuebles de su propiedad en la provincia de Tarragona (expte. 2026/430324), solar sito en c/ Vial, nº6, parcela M6-D, sector PPU-10 \"autovía de Reus\", de Tarragona.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39075",
+   "clave": ""
+  }
+ ]
+}

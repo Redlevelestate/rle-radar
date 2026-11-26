@@ -1,0 +1,100 @@
+{
+ "fecha": "2026-11-26",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ok (8)",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (4)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "El Gobierno aprueba un marco para los créditos al consumo y la compraventa de créditos dudosos",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Los créditos dudosos cuentan con un marco propio que exige autorización a sus administradores y mantiene los derechos del deudor tras la venta. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/gobierno-marco-credito-consumo-creditos-dudosos/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Metrovacesa aprueba repartir 152 millones en dividendos y reduce a diez los miembros de su consejo",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La junta extraordinaria de la promotora inmobiliaria da luz verde al reparto de un euro por acción, que se abonará el 23 de diciembre. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/metrovacesa-aprueba-repartir-152-millones-dividendos/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Azur Group inicia las obras de Azurean Marbella, un complejo de 100 millones en Benahavís",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Azur Group inicia las obras de Azurean Marbella, un complejo en Benahavís con 133 residencias de marca, 164 habitaciones hoteleras y entrega prevista para 2029. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real E",
+   "url": "https://brainsre.news/azurean-marbella-residencias-marca-benahavis/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "La familia Courtin (Clarins) toma el control total de Evok Collection, dueño del hotel Brach Madrid",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News El grupo inversor de la familia Courtin adquiere el 100% de la cadena hotelera francesa, que cuenta con siete establecimientos de cinco estrellas. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/familia-courtin-control-evok-collection-brach-madrid/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Wecity alcanza los 315 millones financiados desde 2021 y prevé cerrar 2026 con cerca de 160 millones",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La plataforma de financiación inmobiliaria ha canalizado cerca de 125 millones de euros en lo que va de año a través de 90 proyectos. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/wecity-315-millones-euros-financiados-desde-2021/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Las hipotecas suben un 2,3% interanual y marcan su mejor septiembre desde 2010",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Las hipotecas sobre viviendas suman 46.469 operaciones en septiembre y su importe medio sube un 3,7%, hasta 178.352 euros, según el INE. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/hipotecas-viviendas-septiembre-2026-ine/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Nuovit lanza una promoción de 164 viviendas en Fuengirola (Málaga)",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News El residencial contará con viviendas de uno a cuatro dormitorios, certificación Breeam y calificación energética AA, además de piscina y spa. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/nuovit-lanza-promocion-164-viviendas-fuengirola/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "CaixaBank compra dos edificios del complejo empresarial Manoteras, en Madrid",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Adquiere los inmuebles París y Sidney, que ya utilizaba como oficinas en régimen de alquiler, en una operación que rondaría los 70 millones. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/caixabank-compra-dos-edificios-complejo-manoteras/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "El Gobierno destina 7 millones de euros a nuevas capacidades de fabricación de baterías para automoción",
+   "resumen": "El Gobierno destina 7 millones de euros a la Comunitat Valenciana y Castilla y León para impulsar nuevas plantas y líneas de fabricación o ensamblaje de baterías para automoción. Las comunidades deberán aportar al menos otros 7 millones, movilizando un mínimo de 14 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/25/el-gobierno-destina-7-millones-de-euros-a-nuevas-capacidades-de-fabricacion-de-baterias-para-automocion/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Escelco presenta un módulo solar de 250 W para aplicaciones agrovoltaicas",
+   "resumen": "El fabricante español de módulos solares ha desarrollado un panel solar monocristalino de 48 células para aplicaciones agrovoltaicas. El módulo de doble vidrio presenta una eficiencia de conversión de potencia del 13,25 % y cuenta con una garantía de rendimiento de 25 años.",
+   "url": "https://www.pv-magazine.es/2026/11/25/escelco-presenta-un-modulo-solar-de-250-w-para-aplicaciones-agrovoltaicas/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Autorizan una planta fotovoltaica de autoconsumo de 4 MWp para reciclaje PET en Torremejía",
+   "resumen": "La planta de reciclaje de PET de Veolia en Badajoz ha obtenido la autorización administrativa previa para una instalación fotovoltaica de 4,04 MWp para autoconsumo, con 3,6 MW de potencia nominal en inversores y una inversión de ejecución de 2,56 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/25/autorizan-una-planta-fotovoltaica-de-autoconsumo-de-4-mwp-para-reciclaje-pet-en-torremejia/",
+   "fecha": "2026-11-25"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Universitat Jaume I licita el suministro eléctrico renovable para sus tres puntos de consumo por 2,5 millones de euros",
+   "resumen": "La Universitat Jaume I de Castelló ha publicado la licitación del suministro de electricidad procedente íntegramente de fuentes de energía renovables (E-FER) para los diferentes puntos de consumo de sus instalaciones. El contrato tendrá una duración de nueve meses y cuenta con un presupuesto total de licitación de 2,5 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/25/la-universitat-jaume-i-licita-el-suministro-electrico-renovable-para-sus-tres-puntos-de-consumo-por-25-millones-de-euros/",
+   "fecha": "2026-11-25"
+  }
+ ]
+}
