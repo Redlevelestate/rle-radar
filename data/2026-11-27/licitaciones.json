@@ -1,0 +1,78 @@
+{
+ "fecha": "2026-11-27",
+ "estado": "ok",
+ "paginas": 3,
+ "entradas_leidas": 1140,
+ "filas": [
+  {
+   "fecha": "2026-11-27",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "ALERION SPAIN, SL",
+   "nif": "b67364885",
+   "objeto": "Procedimiento de contratación para la enajenación mediante subasta pública de parcela municipal de uso industrial identificada como La nueva parcela nº 42 del Sector S26 Villalonquéjar IV",
+   "organo": "Junta de Gobierno del Ayuntamiento de Burgos",
+   "lugar": "Burgos",
+   "importe_licitacion": 437126.2,
+   "importe_adjudicacion": 437550.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0jWV4b1GxskQyBAnWzHfCg%3D%3D",
+   "clave": "ALERION SPAIN"
+  },
+  {
+   "fecha": "2026-11-27",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "PRODESUR CONSTRUCCIÓN Y PROYECTOS",
+   "nif": "B19582394",
+   "objeto": "OP-PA.-4/22.- Edificio para parque de bomberos central de emergencias y sede del consorcio provincial, en Rincón de la Victoria.",
+   "organo": "Presidencia de la Diputación Provincial de Málaga",
+   "lugar": "Málaga",
+   "importe_licitacion": 3737989.53,
+   "importe_adjudicacion": 3600000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iCe0N52jC2QZDGvgaZEVxQ%3D%3D",
+   "clave": "PRODESUR CONSTRUCCION Y PROYECTOS"
+  },
+  {
+   "fecha": "2026-11-27",
+   "tipo": "Suelo público adjudicado",
+   "prioridad": "A",
+   "empresa": "Realia Business SA",
+   "nif": "A81787889",
+   "objeto": "Enajenación Parcela TG.4 del sector “AR Nuevo Tres Cantos” de propiedad municipal e integrante del Patrimonio municipal del suelo, con nº de Referencia Catastral 8980301VK3988S0001SB",
+   "organo": "Junta de Gobierno Local del Ayuntamiento de Tres Cantos",
+   "lugar": "Madrid",
+   "importe_licitacion": 2313610.4,
+   "importe_adjudicacion": 3281254.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OwcW%2F8M8jE%2BAAM7L03kM8A%3D%3D",
+   "clave": "REALIA BUSINESS"
+  },
+  {
+   "fecha": "2026-11-27",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "UTE MAYGAR-COVICO ESTADIO DE ATLETISMO",
+   "nif": "B93174944",
+   "objeto": "Contratación de las Obras: Estadio de Atletismo y Urbanización Central. T.M. Marbella (Málaga)",
+   "organo": "Junta de Gobierno del Ayuntamiento de Marbella",
+   "lugar": "Málaga",
+   "importe_licitacion": 10140390.79,
+   "importe_adjudicacion": 9296710.28,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IRAHFfoxMUmFlFRHfEzEaw%3D%3D",
+   "clave": "UTE MAYGAR COVICO ESTADIO DE ATLETISMO"
+  },
+  {
+   "fecha": "2026-11-27",
+   "tipo": "Obra de edificación adjudicada",
+   "prioridad": "B",
+   "empresa": "Vías y Construcciones, S.A.",
+   "nif": "A28017986",
+   "objeto": "Obras del Nuevo edificio del Instituto Nacional de Toxicología y Ciencias Forenses de Sevilla",
+   "organo": "Subsecretaría del Ministerio de Justicia",
+   "lugar": "España",
+   "importe_licitacion": 16702183.65,
+   "importe_adjudicacion": 14931000.0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nbINl2yS2VSLAncw3qdZkA%3D%3D",
+   "clave": "VIAS Y CONSTRUCCIONES"
+  }
+ ]
+}

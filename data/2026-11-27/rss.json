@@ -1,0 +1,114 @@
+{
+ "fecha": "2026-11-27",
+ "feeds": {
+  "Brainsre (inmobiliario)": "ok (6)",
+  "EjePrime (inmobiliario)": "ERROR HTTPError",
+  "Interempresas Logística": "ERROR ParseError",
+  "Cadena de Suministro": "ERROR URLError",
+  "pv magazine España": "ok (8)",
+  "Energías Renovables": "ERROR ParseError",
+  "elEconomista Inmobiliario": "ERROR HTTPError",
+  "Expansión Inmobiliario": "ok (0)",
+  "Cinco Días Compañías": "ERROR HTTPError"
+ },
+ "items": [
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Leo Messi compra el hotel Tredós, un cuatro estrellas en el Valle de Arán (Lleida)",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Incorpora este establecimiento, situado en el municipio de Naut Aran, a su cartera de inversiones inmobiliarias a través de Edificio Rostower. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/leo-messi-compra-hotel-tredos-valle-aran-lleida/",
+   "fecha": "2026-11-27"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Ranking de promotoras 2026: España inicia 64.070 viviendas y Kronos sigue líder",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News España ha iniciado 64.070 viviendas en 2026 y Kronos lidera el ranking de promotoras con 1.566. Datos de Brains Real Estate. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/ranking-promotoras-residenciales-espana-2026/",
+   "fecha": "2026-11-27"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Los centros de datos se rebelan ante el decreto del Gobierno que pone en riesgo 66.900 millones de inversión",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News La patronal de los centros de datos pasa del manifiesto al recurso judicial y pide suspender cautelarmente el Real Decreto aprobado el 20 de noviembre. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate New",
+   "url": "https://brainsre.news/spaindc-recurso-supremo-decreto-centros-datos/",
+   "fecha": "2026-11-27"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Un millón de viviendas o bajar alquileres: el debate a cuatro",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Sánchez, Feijóo, Abascal y Colau chocaron en vivienda con cifras opuestas sobre precios, oferta de alquiler y desahucios a tres días del 29-N Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/debate-cuatro-vivienda-elecciones-29n/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "Hines y CBRE IM compran el 49,9% de la plataforma noruega Relog",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News Una joint venture de Hines y CBRE Investment Management compra el 49,9% de Relog, mientras Reitan Eiendom mantiene el 50,1% Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/hines-cbre-adquieren-relog-noruega/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "Brainsre (inmobiliario)",
+   "titulo": "La inversión en retail rozará los 4.000 millones al cerrar el año, casi el doble que el año anterior",
+   "resumen": "Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News El informe European Retail Radar 2026 de Cushman &#038; Wakefield analiza la evolución del mercado comercial, marcada por la escasez de locales. Artículo publicado originalmente en Brains Real Estate News - Noticias Inmobiliarias y de Vivienda \">Brains Real Estate News",
+   "url": "https://brainsre.news/inversion-retail-rozara-4000-millones-2026/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Almería licita una instalación fotovoltaica con baterías de 400 kW / 200 kWh para una residencia",
+   "resumen": "La Diputación Provincial de Almería ha publicado la licitación de un proyecto de autoconsumo fotovoltaico individual para la residencia de personas mayores de la institución, que contempla la instalación de 382,5 kWp de potencia fotovoltaica y un sistema de almacenamiento de 200 kWh. El contrato tiene un plazo de ejecución de tres meses y un presupuesto base de licitación de 490.653 euros.",
+   "url": "https://www.pv-magazine.es/2026/11/27/almeria-licita-una-instalacion-fotovoltaica-con-baterias-de-400-kw-200-kwh-para-una-residencia/",
+   "fecha": "2026-11-27"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "España podría alcanzar los 10 GW de baterías en 2030, pero la bancabilidad sigue siendo el gran reto",
+   "resumen": "La hibridación de plantas fotovoltaicas, la evolución de los ingresos por arbitraje y servicios de ajuste, el futuro mercado de capacidad y la financiación de proyectos de almacenamiento centraron el debate de la mesa redonda organizada por pv magazine en Genera 2026. Los expertos anticipan un fuerte crecimiento del mercado español, aunque advierten de las dificultades administrativas, la falta de",
+   "url": "https://www.pv-magazine.es/2026/11/26/espana-podria-alcanzar-los-10-gw-de-baterias-en-2030-pero-la-bancabilidad-sigue-siendo-el-gran-reto/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "El MITECO asigna 56,1 millones a tres BESS híbridos de Iberdrola en Granada",
+   "resumen": "Iberdrola recibe 56,1 millones de euros del programa PINALM a los proyectos BAT Huéneja, BAT Dólar 3 y BAT Ferreira 2, que sumarán 133,5 MW de potencia y 551,82 MWh de capacidad de almacenamiento.",
+   "url": "https://www.pv-magazine.es/2026/11/26/el-miteco-asigna-561-millones-para-tres-bess-hibridos-de-445-mw-en-granada/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La seguridad del suministro solar de la UE podría tener un sobrecoste de 142 €/kW",
+   "resumen": "Investigadores de Austria han identificado una capacidad de fabricación nacional de módulos solares de 30 GW y tasas de utilización superiores al 90% como objetivos clave para reforzar la seguridad del suministro de la UE de aquí a 2030. Alcanzar estos niveles requeriría mantener una demanda sostenida de módulos fabricados en Europa, pese a su persistente desventaja de costes frente a las importac",
+   "url": "https://www.pv-magazine.es/2026/11/26/la-seguridad-del-suministro-solar-de-la-ue-podria-tener-un-sobrecoste-de-142-e-kw/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Urven presenta marquesinas solares portátiles con cargadores para vehículos eléctricos integrados",
+   "resumen": "La empresa española Urven ha desarrollado una marquesina solar modular con bases prefabricadas de hormigón y cargadores para vehículos eléctricos integrados. El sistema no requiere obra civil convencional y está disponible con dos puntos de recarga en corriente alterna de 22 kW o con un cargador rápido en corriente continua de 60 kW.",
+   "url": "https://www.pv-magazine.es/2026/11/26/urven-presenta-marquesinas-solares-portatiles-con-cargadores-para-vehiculos-electricos-integrados/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "La Autoridad Portuaria de Avilés licita una planta fotovoltaica de 400 kW para su sede",
+   "resumen": "La Autoridad Portuaria de Avilés ha publicado la licitación para el proyecto de mejora del aislamiento exterior edificio 2001 APA e instalación de módulos fotovoltaicos para autoconsumo. El contrato, que tendrá una duración de once meses, cuenta con un presupuesto total de licitación de 2,29 millones de euros.",
+   "url": "https://www.pv-magazine.es/2026/11/26/la-autoridad-portuaria-de-aviles-licita-una-planta-fotovoltaica-de-400-kw-para-sede/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "En servicio un cargador transportable de 400 kW y baterías de 216 kW",
+   "resumen": "Iberdrola &#124; bp pulse desplegará estaciones de recarga ultrarrápida transportables con 216 kWh de almacenamiento y hasta 400 kW de potencia, destinadas a reforzar la infraestructura en ubicaciones con limitaciones de conexión o picos de demanda.",
+   "url": "https://www.pv-magazine.es/2026/11/26/iberdrola-bp-pulse-pone-en-servicio-su-primer-cargador-transportable-con-almacenamiento-de-216-kw-y-dos-cargadores-de-200-kw/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "medio": "pv magazine España",
+   "titulo": "Cataluña adjudica por 1,77 millones una planta fotovoltaica de 1,8 MWp para la prisión de Brians 2",
+   "resumen": "Infraestructures de la Generalitat de Catalunya ha adjudicado a Ferrovial Energía, S.A.U. la ejecución de las obras de instalación fotovoltaica para autoconsumo en los edificios internos del Centre Penitenciari Brians 2, situado en Sant Esteve Sesrovires (Barcelona), por un importe de 1,77 millones de euros. El procedimiento ha contado con un total de 20 ofertas presentadas.",
+   "url": "https://www.pv-magazine.es/2026/11/26/cataluna-adjudica-por-177-millones-una-planta-fotovoltaica-de-18-mwp-para-la-prision-de-brians-2/",
+   "fecha": "2026-11-26"
+  }
+ ]
+}

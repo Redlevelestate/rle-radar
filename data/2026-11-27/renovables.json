@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-11-27",
+ "estado": "ok",
+ "anuncios": 2,
+ "filas": [
+  {
+   "fecha": "2026-11-27",
+   "id_boe": "BOE-B-2026-39183",
+   "titulo": "Anuncio de los Servicios Territoriales del Departamento de Territorio, Vivienda y Transición Ecológica en Lleida, por el que se somete a información pública la solicitud de declaración de utilidad pública del proyecto del parque eólico denominado PE Conca de Barberà II, de 45 MW, sobre terreno en suelo no urbanizable, en los términos municipales de Ribera d'Ondara y Talavera, en la comarca de La Segarra (exp. FUE-2020-01813435).",
+   "promotor": "Desarrollos Eólicos Cuenca de Barberá, SL",
+   "otros_promotores": "",
+   "tecnologia": "Eólica",
+   "potencia": "45 MW",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39183",
+   "clave": "DESARROLLOS EOLICOS CUENCA DE BARBERA"
+  },
+  {
+   "fecha": "2026-11-27",
+   "id_boe": "BOE-B-2026-39184",
+   "titulo": "Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Universidad, Industria, Energía e Innovación en Jaén de la Junta de Andalucía, por el que se somete a información pública la solicitud de declaración en concreto de utilidad pública realizada por Greenalia Solar Power Guadame II S.L.U., relativa a la instalación de producción de energía eléctrica que se cita. Expediente: PRETOR 2448.",
+   "promotor": "",
+   "otros_promotores": "",
+   "tecnologia": "Fotovoltaica",
+   "potencia": "49,99 mw",
+   "provincia": "",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39184",
+   "clave": ""
+  }
+ ]
+}
